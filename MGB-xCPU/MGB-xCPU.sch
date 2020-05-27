@@ -1,0 +1,1841 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 6
+Title "MGB-xCPU"
+Date "2020-05-27"
+Rev "A"
+Comp "https://gekkio.fi"
+Comment1 "https://github.com/gekkio/gb-schematics"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Gekkio_CPU_Nintendo:GameBoy_CPU_MGB U1
+U 1 1 5E89B81D
+P 3600 4200
+F 0 "U1" H 4050 6700 50  0000 C CNN
+F 1 "GameBoy_CPU_MGB" H 4050 6600 50  0000 C CNN
+F 2 "" H 3600 6850 50  0001 C CNN
+F 3 "" H 3900 4000 50  0001 C CNN
+	1    3600 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Gekkio_Connector_Specialized:GameBoy_Cartridge P1
+U 1 1 5E89DF10
+P 10250 4400
+F 0 "P1" H 10380 4450 50  0000 L CNN
+F 1 "GameBoy_Cartridge" H 10380 4359 50  0000 L CNN
+F 2 "" H 10150 2600 50  0001 C CNN
+F 3 "" H 10150 4400 50  0001 L CNN
+	1    10250 4400
+	1    0    0    -1  
+$EndComp
+Text Label 9950 2900 2    50   ~ 0
+PHI
+Text Label 2900 5300 2    50   ~ 0
+PHI
+Wire Wire Line
+	9850 2800 9950 2800
+Text Label 9950 3000 2    50   ~ 0
+~WR
+Text Label 8400 5700 0    50   ~ 0
+~WR
+Text Label 2900 4800 2    50   ~ 0
+~WR
+Text Label 2900 4600 2    50   ~ 0
+~RD
+Text Label 2900 4700 2    50   ~ 0
+~CS
+Text Label 8400 5600 0    50   ~ 0
+~RD
+Text Label 9950 3100 2    50   ~ 0
+~RD
+Text Label 8400 5800 0    50   ~ 0
+~CS
+Text Label 9950 3200 2    50   ~ 0
+~CS
+Text Label 9950 5800 2    50   ~ 0
+VIN
+Text Label 2900 5800 2    50   ~ 0
+VIN
+$Comp
+L power:GND #PWR0101
+U 1 1 5E8A7E42
+P 7900 6200
+F 0 "#PWR0101" H 7900 5950 50  0001 C CNN
+F 1 "GND" H 7905 6027 50  0000 C CNN
+F 2 "" H 7900 6200 50  0001 C CNN
+F 3 "" H 7900 6200 50  0001 C CNN
+	1    7900 6200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9950 5900 9600 5900
+$Comp
+L power:GND #PWR0102
+U 1 1 5E8A86E1
+P 9600 6200
+F 0 "#PWR0102" H 9600 5950 50  0001 C CNN
+F 1 "GND" H 9605 6027 50  0000 C CNN
+F 2 "" H 9600 6200 50  0001 C CNN
+F 3 "" H 9600 6200 50  0001 C CNN
+	1    9600 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5E8A9D0F
+P 3600 6700
+F 0 "#PWR0103" H 3600 6450 50  0001 C CNN
+F 1 "GND" H 3605 6527 50  0000 C CNN
+F 2 "" H 3600 6700 50  0001 C CNN
+F 3 "" H 3600 6700 50  0001 C CNN
+	1    3600 6700
+	1    0    0    -1  
+$EndComp
+Text Label 9950 5700 2    50   ~ 0
+~RES
+Text Label 2900 5000 2    50   ~ 0
+~RES
+$Comp
+L Device:C C10
+U 1 1 5E8F9B51
+P 10600 6050
+F 0 "C10" H 10715 6096 50  0000 L CNN
+F 1 "10nF" H 10715 6005 50  0000 L CNN
+F 2 "" H 10638 5900 50  0001 C CNN
+F 3 "~" H 10600 6050 50  0001 C CNN
+	1    10600 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5E8FA5CC
+P 10600 6200
+F 0 "#PWR0105" H 10600 5950 50  0001 C CNN
+F 1 "GND" H 10605 6027 50  0000 C CNN
+F 2 "" H 10600 6200 50  0001 C CNN
+F 3 "" H 10600 6200 50  0001 C CNN
+	1    10600 6200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 5600 2800 5600
+Wire Wire Line
+	2900 5500 2800 5500
+Wire Wire Line
+	2800 5500 2800 5600
+$Comp
+L power:GND #PWR0106
+U 1 1 5E981042
+P 2700 5500
+F 0 "#PWR0106" H 2700 5250 50  0001 C CNN
+F 1 "GND" H 2705 5327 50  0000 C CNN
+F 2 "" H 2700 5500 50  0001 C CNN
+F 3 "" H 2700 5500 50  0001 C CNN
+	1    2700 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDD #PWR0107
+U 1 1 5E9C5A46
+P 7900 4400
+F 0 "#PWR0107" H 7900 4250 50  0001 C CNN
+F 1 "VDD" H 7915 4573 50  0000 C CNN
+F 2 "" H 7900 4400 50  0001 C CNN
+F 3 "" H 7900 4400 50  0001 C CNN
+	1    7900 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDD #PWR0108
+U 1 1 5E9C5EBC
+P 10600 5900
+F 0 "#PWR0108" H 10600 5750 50  0001 C CNN
+F 1 "VDD" H 10615 6073 50  0000 C CNN
+F 2 "" H 10600 5900 50  0001 C CNN
+F 3 "" H 10600 5900 50  0001 C CNN
+	1    10600 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDD #PWR0109
+U 1 1 5E9C6781
+P 9850 2800
+F 0 "#PWR0109" H 9850 2650 50  0001 C CNN
+F 1 "VDD" H 9865 2973 50  0000 C CNN
+F 2 "" H 9850 2800 50  0001 C CNN
+F 3 "" H 9850 2800 50  0001 C CNN
+	1    9850 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDD #PWR0111
+U 1 1 5E9CBA44
+P 3600 1700
+F 0 "#PWR0111" H 3600 1550 50  0001 C CNN
+F 1 "VDD" H 3615 1873 50  0000 C CNN
+F 2 "" H 3600 1700 50  0001 C CNN
+F 3 "" H 3600 1700 50  0001 C CNN
+	1    3600 1700
+	1    0    0    -1  
+$EndComp
+Text Label 8400 5900 0    50   ~ 0
+A14
+Text Label 8400 4700 0    50   ~ 0
+D0
+Text Label 8400 4800 0    50   ~ 0
+D1
+Text Label 8400 4900 0    50   ~ 0
+D2
+Text Label 8400 5000 0    50   ~ 0
+D3
+Text Label 8400 5100 0    50   ~ 0
+D4
+Text Label 8400 5200 0    50   ~ 0
+D5
+Text Label 8400 5300 0    50   ~ 0
+D6
+Text Label 8400 5400 0    50   ~ 0
+D7
+Text Label 7400 4700 2    50   ~ 0
+A0
+Text Label 7400 4800 2    50   ~ 0
+A1
+Text Label 7400 4900 2    50   ~ 0
+A2
+Text Label 7400 5000 2    50   ~ 0
+A3
+Text Label 7400 5100 2    50   ~ 0
+A4
+Text Label 7400 5200 2    50   ~ 0
+A5
+Text Label 7400 5300 2    50   ~ 0
+A6
+Text Label 7400 5400 2    50   ~ 0
+A7
+Text Label 7400 5500 2    50   ~ 0
+A8
+Text Label 7400 5600 2    50   ~ 0
+A9
+Text Label 7400 5700 2    50   ~ 0
+A10
+Text Label 7400 5800 2    50   ~ 0
+A11
+Text Label 7400 5900 2    50   ~ 0
+A12
+Text Label 9950 3300 2    50   ~ 0
+A0
+Text Label 9950 3400 2    50   ~ 0
+A1
+Text Label 9950 3500 2    50   ~ 0
+A2
+Text Label 9950 3600 2    50   ~ 0
+A3
+Text Label 9950 3700 2    50   ~ 0
+A4
+Text Label 9950 3800 2    50   ~ 0
+A5
+Text Label 9950 3900 2    50   ~ 0
+A6
+Text Label 9950 4000 2    50   ~ 0
+A7
+Text Label 9950 4100 2    50   ~ 0
+A8
+Text Label 9950 4200 2    50   ~ 0
+A9
+Text Label 9950 4300 2    50   ~ 0
+A10
+Text Label 9950 4400 2    50   ~ 0
+A11
+Text Label 9950 4500 2    50   ~ 0
+A12
+Text Label 9950 4600 2    50   ~ 0
+A13
+Text Label 9950 4700 2    50   ~ 0
+A14
+Text Label 9950 4800 2    50   ~ 0
+A15
+Text Label 9950 4900 2    50   ~ 0
+D0
+Text Label 9950 5000 2    50   ~ 0
+D1
+Text Label 9950 5100 2    50   ~ 0
+D2
+Text Label 9950 5200 2    50   ~ 0
+D3
+Text Label 9950 5300 2    50   ~ 0
+D4
+Text Label 9950 5400 2    50   ~ 0
+D5
+Text Label 9950 5500 2    50   ~ 0
+D6
+Text Label 9950 5600 2    50   ~ 0
+D7
+$Sheet
+S 5700 6950 550  600 
+U 5EF1D6AC
+F0 "Link port" 50
+F1 "link_port.sch" 50
+F2 "SCK" B L 5700 7050 50 
+F3 "P14" U L 5700 7450 50 
+F4 "SIN" O L 5700 7150 50 
+F5 "SOUT" I L 5700 7250 50 
+$EndSheet
+$Comp
+L Device:C C11
+U 1 1 5EFD9CE6
+P 8950 6050
+F 0 "C11" H 9065 6096 50  0000 L CNN
+F 1 "10nF" H 9065 6005 50  0000 L CNN
+F 2 "" H 8988 5900 50  0001 C CNN
+F 3 "~" H 8950 6050 50  0001 C CNN
+	1    8950 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0112
+U 1 1 5EFD9CF0
+P 8950 6200
+F 0 "#PWR0112" H 8950 5950 50  0001 C CNN
+F 1 "GND" H 8955 6027 50  0000 C CNN
+F 2 "" H 8950 6200 50  0001 C CNN
+F 3 "" H 8950 6200 50  0001 C CNN
+	1    8950 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDD #PWR0113
+U 1 1 5EFD9CFA
+P 8950 5900
+F 0 "#PWR0113" H 8950 5750 50  0001 C CNN
+F 1 "VDD" H 8965 6073 50  0000 C CNN
+F 2 "" H 8950 5900 50  0001 C CNN
+F 3 "" H 8950 5900 50  0001 C CNN
+	1    8950 5900
+	1    0    0    -1  
+$EndComp
+Wire Notes Line width 12
+	9400 6450 11150 6450
+Wire Notes Line width 12
+	11150 6450 11150 2500
+Wire Notes Line width 12
+	11150 2500 9400 2500
+Wire Notes Line width 12
+	9400 2500 9400 6450
+$Sheet
+S 5700 5900 550  500 
+U 5FAC1A70
+F0 "Joypad" 50
+F1 "joypad.sch" 50
+F2 "P14" I L 5700 6000 50 
+F3 "P12" U R 6250 6200 50 
+F4 "P11" U R 6250 6100 50 
+F5 "P10" U R 6250 6000 50 
+F6 "P13" U R 6250 6300 50 
+F7 "P15" I L 5700 6100 50 
+$EndSheet
+$Sheet
+S 600  5800 800  300 
+U 5F624AB5
+F0 "Analog audio" 50
+F1 "audio.sch" 50
+F2 "SO1" I R 1400 5900 50 
+F3 "SO2" I R 1400 6000 50 
+$EndSheet
+$Sheet
+S 650  700  1350 550 
+U 5ECE8AF1
+F0 "Power" 50
+F1 "power.sch" 50
+$EndSheet
+$Sheet
+S 6250 4600 550  900 
+U 5ED96948
+F0 "LCD" 50
+F1 "lcd.sch" 50
+F2 "LD0" I L 6250 4800 50 
+F3 "LD1" I L 6250 4700 50 
+F4 "CP" I L 6250 5000 50 
+F5 "CPG" I L 6250 4900 50 
+F6 "S" I L 6250 5400 50 
+F7 "ST" I L 6250 5100 50 
+F8 "FR" I L 6250 5300 50 
+F9 "CPL" I L 6250 5200 50 
+$EndSheet
+Wire Wire Line
+	4300 6000 5600 6000
+Wire Wire Line
+	4300 6100 5700 6100
+Text Label 4300 5600 0    50   ~ 0
+P10
+Text Label 4300 5700 0    50   ~ 0
+P11
+Text Label 4300 5800 0    50   ~ 0
+P12
+Text Label 4300 5900 0    50   ~ 0
+P13
+Entry Wire Line
+	4600 5600 4700 5500
+Entry Wire Line
+	4600 5700 4700 5600
+Entry Wire Line
+	4600 5800 4700 5700
+Entry Wire Line
+	4600 5900 4700 5800
+Wire Wire Line
+	4300 5600 4600 5600
+Wire Wire Line
+	4300 5700 4600 5700
+Wire Wire Line
+	4300 5800 4600 5800
+Wire Wire Line
+	4300 5900 4600 5900
+Text Label 6350 6000 0    50   ~ 0
+P10
+Text Label 6350 6100 0    50   ~ 0
+P11
+Text Label 6350 6200 0    50   ~ 0
+P12
+Text Label 6350 6300 0    50   ~ 0
+P13
+Wire Wire Line
+	6250 6000 6500 6000
+Wire Wire Line
+	6250 6100 6500 6100
+Wire Wire Line
+	6250 6200 6500 6200
+Wire Wire Line
+	6250 6300 6500 6300
+Entry Wire Line
+	6500 6000 6600 6100
+Entry Wire Line
+	6500 6100 6600 6200
+Entry Wire Line
+	6500 6200 6600 6300
+Entry Wire Line
+	6500 6300 6600 6400
+Wire Wire Line
+	5700 7450 5600 7450
+Wire Wire Line
+	5600 7450 5600 6000
+Connection ~ 5600 6000
+Wire Wire Line
+	5600 6000 5700 6000
+$Comp
+L Connector:TestPoint_Small TP8
+U 1 1 5EF0B1CB
+P 2250 6300
+F 0 "TP8" V 2250 6600 50  0000 L CNN
+F 1 "SIN" V 2250 6350 50  0000 L CNN
+F 2 "" H 2450 6300 50  0001 C CNN
+F 3 "~" H 2450 6300 50  0001 C CNN
+	1    2250 6300
+	0    -1   1    0   
+$EndComp
+$Comp
+L Connector:TestPoint_Small TP9
+U 1 1 5EF0B1E1
+P 2250 6400
+F 0 "TP9" V 2250 6700 50  0000 L CNN
+F 1 "SOUT" V 2250 6450 50  0000 L CNN
+F 2 "" H 2450 6400 50  0001 C CNN
+F 3 "~" H 2450 6400 50  0001 C CNN
+	1    2250 6400
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	2250 6200 2700 6200
+Wire Wire Line
+	2250 6300 2600 6300
+Wire Wire Line
+	2250 6400 2500 6400
+Wire Wire Line
+	2700 7050 2700 6200
+Wire Wire Line
+	2700 7050 5700 7050
+Connection ~ 2700 6200
+Wire Wire Line
+	2700 6200 2900 6200
+Wire Wire Line
+	2600 6300 2600 7150
+Wire Wire Line
+	2600 7150 5700 7150
+Connection ~ 2600 6300
+Wire Wire Line
+	2600 6300 2900 6300
+Wire Wire Line
+	5700 7250 2500 7250
+Wire Wire Line
+	2500 7250 2500 6400
+Connection ~ 2500 6400
+Wire Wire Line
+	2500 6400 2900 6400
+Text Label 2900 6200 2    50   ~ 0
+SCK
+Text Label 2900 6300 2    50   ~ 0
+SIN
+Text Label 2900 6400 2    50   ~ 0
+SOUT
+$Comp
+L Connector:TestPoint_Small TP7
+U 1 1 5EF0B1D6
+P 2250 6200
+F 0 "TP7" V 2250 6500 50  0000 L CNN
+F 1 "SCK" V 2250 6250 50  0000 L CNN
+F 2 "" H 2450 6200 50  0001 C CNN
+F 3 "~" H 2450 6200 50  0001 C CNN
+	1    2250 6200
+	0    -1   1    0   
+$EndComp
+$Comp
+L Connector:TestPoint_Small TP2
+U 1 1 5EFBC3B8
+P 1600 5700
+F 0 "TP2" H 1600 5885 50  0000 C CNN
+F 1 "SO1" H 1600 5794 50  0000 C CNN
+F 2 "" H 1800 5700 50  0001 C CNN
+F 3 "~" H 1800 5700 50  0001 C CNN
+	1    1600 5700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint_Small TP4
+U 1 1 5EFBC5E1
+P 1850 5700
+F 0 "TP4" H 1850 5885 50  0000 C CNN
+F 1 "SO2" H 1850 5794 50  0000 C CNN
+F 2 "" H 2050 5700 50  0001 C CNN
+F 3 "~" H 2050 5700 50  0001 C CNN
+	1    1850 5700
+	-1   0    0    -1  
+$EndComp
+Text Label 2900 5900 2    50   ~ 0
+SO1
+Text Label 2900 6000 2    50   ~ 0
+SO2
+Wire Wire Line
+	2800 5500 2700 5500
+Connection ~ 2800 5500
+$Comp
+L Device:C C1
+U 1 1 5F408FDC
+P 1000 4450
+F 0 "C1" H 1115 4496 50  0000 L CNN
+F 1 "25pF" H 1115 4405 50  0000 L CNN
+F 2 "" H 1038 4300 50  0001 C CNN
+F 3 "~" H 1000 4450 50  0001 C CNN
+	1    1000 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5F4093A6
+P 1500 4450
+F 0 "C2" H 1615 4496 50  0000 L CNN
+F 1 "25pF" H 1615 4405 50  0000 L CNN
+F 2 "" H 1538 4300 50  0001 C CNN
+F 3 "~" H 1500 4450 50  0001 C CNN
+	1    1500 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Crystal X1
+U 1 1 5F3FA323
+P 1250 4150
+F 0 "X1" H 1250 4418 50  0000 C CNN
+F 1 "4.194304 MHz" H 1250 4327 50  0000 C CNN
+F 2 "" H 1250 4150 50  0001 C CNN
+F 3 "~" H 1250 4150 50  0001 C CNN
+	1    1250 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1000 4600 1250 4600
+$Comp
+L power:GND #PWR0114
+U 1 1 5F424079
+P 1250 4600
+F 0 "#PWR0114" H 1250 4350 50  0001 C CNN
+F 1 "GND" H 1255 4427 50  0000 C CNN
+F 2 "" H 1250 4600 50  0001 C CNN
+F 3 "" H 1250 4600 50  0001 C CNN
+	1    1250 4600
+	1    0    0    -1  
+$EndComp
+Connection ~ 1250 4600
+Wire Wire Line
+	1250 4600 1500 4600
+Wire Wire Line
+	1000 4150 1100 4150
+Wire Wire Line
+	1400 4150 1500 4150
+$Comp
+L Connector:TestPoint_Small TP3
+U 1 1 5EFA88EC
+P 1650 4050
+F 0 "TP3" H 1650 4235 50  0000 C CNN
+F 1 "CK2" H 1650 4144 50  0000 C CNN
+F 2 "" H 1850 4050 50  0001 C CNN
+F 3 "~" H 1850 4050 50  0001 C CNN
+	1    1650 4050
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1850 4150 1850 5100
+Wire Wire Line
+	1850 5100 2900 5100
+Connection ~ 1500 4150
+Wire Wire Line
+	2900 5200 850  5200
+Wire Wire Line
+	850  5200 850  4150
+$Comp
+L Connector:TestPoint_Small TP1
+U 1 1 5EFA9152
+P 850 4050
+F 0 "TP1" H 850 4235 50  0000 C CNN
+F 1 "CK1" H 850 4144 50  0000 C CNN
+F 2 "" H 1050 4050 50  0001 C CNN
+F 3 "~" H 1050 4050 50  0001 C CNN
+	1    850  4050
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	1000 4150 1000 4300
+Connection ~ 1000 4150
+Wire Wire Line
+	850  4150 1000 4150
+Wire Wire Line
+	1500 4150 1500 4300
+Text Label 2900 3700 2    50   ~ 0
+D0
+Text Label 2900 3800 2    50   ~ 0
+D1
+Text Label 2900 3900 2    50   ~ 0
+D2
+Text Label 2900 4000 2    50   ~ 0
+D3
+Text Label 2900 4100 2    50   ~ 0
+D4
+Text Label 2900 4200 2    50   ~ 0
+D5
+Text Label 2900 4300 2    50   ~ 0
+D6
+Text Label 2900 4400 2    50   ~ 0
+D7
+Text Label 2900 2000 2    50   ~ 0
+A0
+Text Label 2900 2100 2    50   ~ 0
+A1
+Text Label 2900 2200 2    50   ~ 0
+A2
+Text Label 2900 2300 2    50   ~ 0
+A3
+Text Label 2900 2400 2    50   ~ 0
+A4
+Text Label 2900 2500 2    50   ~ 0
+A5
+Text Label 2900 2600 2    50   ~ 0
+A6
+Text Label 2900 2700 2    50   ~ 0
+A7
+Text Label 2900 2800 2    50   ~ 0
+A8
+Text Label 2900 2900 2    50   ~ 0
+A9
+Text Label 2900 3000 2    50   ~ 0
+A10
+Text Label 2900 3100 2    50   ~ 0
+A11
+Text Label 2900 3200 2    50   ~ 0
+A12
+Text Label 2900 3300 2    50   ~ 0
+A13
+Text Label 2900 3400 2    50   ~ 0
+A14
+Text Label 2900 3500 2    50   ~ 0
+A15
+Wire Wire Line
+	1600 5700 1600 5900
+Wire Wire Line
+	1600 5900 2900 5900
+Wire Wire Line
+	1850 5700 1850 6000
+Wire Wire Line
+	1850 6000 2900 6000
+$Comp
+L Connector:TestPoint_Small TP5
+U 1 1 5EFBBF5C
+P 2100 5700
+F 0 "TP5" H 2100 5885 50  0000 C CNN
+F 1 "VIN" H 2100 5794 50  0000 C CNN
+F 2 "" H 2300 5700 50  0001 C CNN
+F 3 "~" H 2300 5700 50  0001 C CNN
+	1    2100 5700
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 5800 2100 5700
+Wire Notes Line width 12
+	650  3600 650  4900
+Wire Notes Line width 12
+	650  4900 2000 4900
+Wire Notes Line width 12
+	2000 4900 2000 3600
+Wire Notes Line width 12
+	2000 3600 650  3600
+Text Notes 1950 3700 2    50   ~ 10
+System clock
+Wire Wire Line
+	850  4050 850  4150
+Connection ~ 850  4150
+Wire Wire Line
+	1650 4050 1650 4150
+Connection ~ 1650 4150
+Wire Wire Line
+	1650 4150 1850 4150
+Wire Wire Line
+	1500 4150 1650 4150
+Entry Wire Line
+	2500 4500 2600 4600
+Entry Wire Line
+	2500 4600 2600 4700
+Entry Wire Line
+	2500 4700 2600 4800
+Wire Wire Line
+	2600 4600 2900 4600
+Wire Wire Line
+	2600 4700 2900 4700
+Wire Wire Line
+	2600 4800 2900 4800
+Entry Wire Line
+	2500 3600 2600 3700
+Entry Wire Line
+	2500 3700 2600 3800
+Entry Wire Line
+	2500 3800 2600 3900
+Entry Wire Line
+	2500 3900 2600 4000
+Entry Wire Line
+	2500 4000 2600 4100
+Entry Wire Line
+	2500 4100 2600 4200
+Entry Wire Line
+	2500 4200 2600 4300
+Entry Wire Line
+	2500 4300 2600 4400
+Wire Wire Line
+	2600 3700 2900 3700
+Wire Wire Line
+	2600 3800 2900 3800
+Wire Wire Line
+	2600 3900 2900 3900
+Wire Wire Line
+	2600 4000 2900 4000
+Wire Wire Line
+	2600 4100 2900 4100
+Wire Wire Line
+	2600 4200 2900 4200
+Wire Wire Line
+	2600 4300 2900 4300
+Wire Wire Line
+	2600 4400 2900 4400
+Entry Wire Line
+	2500 1900 2600 2000
+Entry Wire Line
+	2500 2000 2600 2100
+Entry Wire Line
+	2500 2100 2600 2200
+Entry Wire Line
+	2500 2200 2600 2300
+Entry Wire Line
+	2500 2300 2600 2400
+Entry Wire Line
+	2500 2400 2600 2500
+Entry Wire Line
+	2500 2500 2600 2600
+Entry Wire Line
+	2500 2600 2600 2700
+Entry Wire Line
+	2500 2700 2600 2800
+Entry Wire Line
+	2500 2800 2600 2900
+Entry Wire Line
+	2500 2900 2600 3000
+Entry Wire Line
+	2500 3000 2600 3100
+Entry Wire Line
+	2500 3100 2600 3200
+Entry Wire Line
+	2500 3200 2600 3300
+Entry Wire Line
+	2500 3300 2600 3400
+Entry Wire Line
+	2500 3400 2600 3500
+Wire Wire Line
+	2600 2000 2900 2000
+Wire Wire Line
+	2600 2100 2900 2100
+Wire Wire Line
+	2600 2200 2900 2200
+Wire Wire Line
+	2600 2300 2900 2300
+Wire Wire Line
+	2600 2400 2900 2400
+Wire Wire Line
+	2600 2500 2900 2500
+Wire Wire Line
+	2600 2600 2900 2600
+Wire Wire Line
+	2600 2700 2900 2700
+Wire Wire Line
+	2600 2800 2900 2800
+Wire Wire Line
+	2600 2900 2900 2900
+Wire Wire Line
+	2600 3000 2900 3000
+Wire Wire Line
+	2600 3100 2900 3100
+Wire Wire Line
+	2600 3200 2900 3200
+Wire Wire Line
+	2600 3300 2900 3300
+Wire Wire Line
+	2600 3400 2900 3400
+Wire Wire Line
+	2600 3500 2900 3500
+Entry Wire Line
+	2500 5700 2600 5800
+Entry Wire Line
+	2500 5400 2600 5300
+Wire Wire Line
+	2600 5300 2900 5300
+$Comp
+L Connector:TestPoint_Small TP6
+U 1 1 5EFE38D3
+P 2250 2350
+F 0 "TP6" V 2065 2350 50  0000 C CNN
+F 1 "RES" V 2156 2350 50  0000 C CNN
+F 2 "" H 2450 2350 50  0001 C CNN
+F 3 "~" H 2450 2350 50  0001 C CNN
+	1    2250 2350
+	0    -1   1    0   
+$EndComp
+Entry Wire Line
+	2600 5000 2500 4900
+Wire Wire Line
+	9650 2800 9650 2900
+Entry Wire Line
+	9500 2800 9600 2900
+Entry Wire Line
+	9500 2900 9600 3000
+Entry Wire Line
+	9500 3000 9600 3100
+Entry Wire Line
+	9500 3100 9600 3200
+Entry Wire Line
+	9500 3200 9600 3300
+Entry Wire Line
+	9500 3300 9600 3400
+Entry Wire Line
+	9500 3400 9600 3500
+Entry Wire Line
+	9500 3500 9600 3600
+Entry Wire Line
+	9500 3600 9600 3700
+Entry Wire Line
+	9500 3700 9600 3800
+Entry Wire Line
+	9500 3800 9600 3900
+Entry Wire Line
+	9500 3900 9600 4000
+Entry Wire Line
+	9500 4000 9600 4100
+Entry Wire Line
+	9500 4100 9600 4200
+Entry Wire Line
+	9500 4200 9600 4300
+Entry Wire Line
+	9500 4300 9600 4400
+Entry Wire Line
+	9500 4400 9600 4500
+Entry Wire Line
+	9500 4500 9600 4600
+Entry Wire Line
+	9500 4600 9600 4700
+Entry Wire Line
+	9500 4700 9600 4800
+Entry Wire Line
+	9500 4800 9600 4900
+Entry Wire Line
+	9500 4900 9600 5000
+Entry Wire Line
+	9500 5000 9600 5100
+Entry Wire Line
+	9500 5100 9600 5200
+Entry Wire Line
+	9500 5200 9600 5300
+Entry Wire Line
+	9500 5300 9600 5400
+Entry Wire Line
+	9500 5400 9600 5500
+Entry Wire Line
+	9500 5500 9600 5600
+Entry Wire Line
+	9500 5600 9600 5700
+Entry Wire Line
+	9500 5700 9600 5800
+Wire Wire Line
+	9600 2900 9650 2900
+Connection ~ 9650 2900
+Wire Wire Line
+	9650 2900 9950 2900
+Wire Wire Line
+	9600 3000 9950 3000
+Wire Wire Line
+	9600 3100 9950 3100
+Wire Wire Line
+	9600 3200 9950 3200
+Wire Wire Line
+	9600 3300 9950 3300
+Wire Wire Line
+	9600 3400 9950 3400
+Wire Wire Line
+	9600 3500 9950 3500
+Wire Wire Line
+	9600 3600 9950 3600
+Wire Wire Line
+	9600 3700 9950 3700
+Wire Wire Line
+	9600 3800 9950 3800
+Wire Wire Line
+	9600 3900 9950 3900
+Wire Wire Line
+	9600 4000 9950 4000
+Wire Wire Line
+	9600 4100 9950 4100
+Wire Wire Line
+	9600 4200 9950 4200
+Wire Wire Line
+	9600 4300 9950 4300
+Wire Wire Line
+	9600 4400 9950 4400
+Wire Wire Line
+	9600 4500 9950 4500
+Wire Wire Line
+	9600 4600 9950 4600
+Wire Wire Line
+	9600 4700 9950 4700
+Wire Wire Line
+	9600 4800 9950 4800
+Wire Wire Line
+	9600 4900 9950 4900
+Wire Wire Line
+	9600 5000 9950 5000
+Wire Wire Line
+	9600 5100 9950 5100
+Wire Wire Line
+	9600 5200 9950 5200
+Wire Wire Line
+	9600 5300 9950 5300
+Wire Wire Line
+	9600 5400 9950 5400
+Wire Wire Line
+	9600 5500 9950 5500
+Wire Wire Line
+	9600 5600 9950 5600
+Wire Wire Line
+	9600 5700 9950 5700
+Wire Wire Line
+	9600 5800 9950 5800
+Wire Bus Line
+	7100 1150 7100 2800
+Wire Bus Line
+	7100 2800 9500 2800
+Wire Bus Line
+	2500 1150 7100 1150
+$Comp
+L Connector:TestPoint_Small TP42
+U 1 1 5FD0A017
+P 8550 6000
+F 0 "TP42" H 8598 6046 50  0000 L CNN
+F 1 "CS2" H 8598 5955 50  0000 L CNN
+F 2 "" H 8750 6000 50  0001 C CNN
+F 3 "~" H 8750 6000 50  0001 C CNN
+	1    8550 6000
+	1    0    0    -1  
+$EndComp
+Entry Wire Line
+	8600 4700 8700 4600
+Entry Wire Line
+	8600 4800 8700 4700
+Entry Wire Line
+	8600 4900 8700 4800
+Entry Wire Line
+	8600 5000 8700 4900
+Entry Wire Line
+	8600 5100 8700 5000
+Entry Wire Line
+	8600 5200 8700 5100
+Entry Wire Line
+	8600 5300 8700 5200
+Entry Wire Line
+	8600 5400 8700 5300
+Entry Wire Line
+	8600 5600 8700 5500
+Entry Wire Line
+	8600 5700 8700 5600
+Entry Wire Line
+	8600 5800 8700 5700
+Entry Wire Line
+	8600 5900 8700 5800
+Entry Wire Line
+	7200 4700 7100 4600
+Entry Wire Line
+	7200 4800 7100 4700
+Entry Wire Line
+	7200 4900 7100 4800
+Entry Wire Line
+	7200 5900 7100 5800
+Entry Wire Line
+	7200 5800 7100 5700
+Entry Wire Line
+	7200 5700 7100 5600
+Entry Wire Line
+	7200 5600 7100 5500
+Entry Wire Line
+	7200 5500 7100 5400
+Entry Wire Line
+	7200 5400 7100 5300
+Entry Wire Line
+	7200 5300 7100 5200
+Entry Wire Line
+	7200 5200 7100 5100
+Entry Wire Line
+	7200 5100 7100 5000
+Entry Wire Line
+	7200 5000 7100 4900
+Wire Wire Line
+	7200 4700 7400 4700
+Wire Wire Line
+	7200 4800 7400 4800
+Wire Wire Line
+	7200 4900 7400 4900
+Wire Wire Line
+	7200 5000 7400 5000
+Wire Wire Line
+	7200 5100 7400 5100
+Wire Wire Line
+	7200 5200 7400 5200
+Wire Wire Line
+	7200 5300 7400 5300
+Wire Wire Line
+	7200 5400 7400 5400
+Wire Wire Line
+	7200 5500 7400 5500
+Wire Wire Line
+	7200 5600 7400 5600
+Wire Wire Line
+	7200 5700 7400 5700
+Wire Wire Line
+	7200 5800 7400 5800
+Wire Wire Line
+	7200 5900 7400 5900
+Wire Wire Line
+	8400 4700 8600 4700
+Wire Wire Line
+	8400 4800 8600 4800
+Wire Wire Line
+	8400 4900 8600 4900
+Wire Wire Line
+	8400 5000 8600 5000
+Wire Wire Line
+	8400 5100 8600 5100
+Wire Wire Line
+	8400 5200 8600 5200
+Wire Wire Line
+	8400 5300 8600 5300
+Wire Wire Line
+	8400 5400 8600 5400
+Wire Wire Line
+	8400 5600 8600 5600
+Wire Wire Line
+	8400 5700 8600 5700
+Wire Wire Line
+	8400 5800 8600 5800
+Wire Wire Line
+	8400 5900 8550 5900
+$Comp
+L Gekkio_Memory_RAM:GameBoy_SRAM_64K U2
+U 1 1 5E89B0E8
+P 7900 5300
+F 0 "U2" H 8150 6200 50  0000 C CNN
+F 1 "LH52A64N" H 8150 6100 50  0000 C CNN
+F 2 "" H 7900 4000 50  0001 C CNN
+F 3 "" H 7800 5250 50  0001 C CNN
+	1    7900 5300
+	1    0    0    -1  
+$EndComp
+Wire Bus Line
+	7100 4100 8700 4100
+Wire Bus Line
+	7100 2800 7100 4100
+Connection ~ 7100 2800
+Connection ~ 7100 4100
+Wire Wire Line
+	8550 5900 8550 6000
+Connection ~ 8550 5900
+Wire Wire Line
+	8550 5900 8600 5900
+Wire Notes Line width 12
+	9300 6450 6900 6450
+Wire Notes Line width 12
+	6900 6450 6900 3950
+Wire Notes Line width 12
+	6900 3950 9300 3950
+Wire Notes Line width 12
+	9300 3950 9300 6450
+Text Notes 9250 4050 2    50   ~ 10
+Work RAM
+$Comp
+L Connector:TestPoint_Small TP44
+U 1 1 5FF64865
+P 9700 6050
+F 0 "TP44" H 9748 6096 50  0000 L CNN
+F 1 "P1-GND" H 9748 6005 50  0000 L CNN
+F 2 "" H 9900 6050 50  0001 C CNN
+F 3 "~" H 9900 6050 50  0001 C CNN
+	1    9700 6050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9600 5900 9600 6050
+Wire Wire Line
+	9700 6050 9600 6050
+Connection ~ 9600 6050
+Wire Wire Line
+	9600 6050 9600 6200
+$Comp
+L Connector:TestPoint_Small TP43
+U 1 1 5F8B77E1
+P 9650 2800
+F 0 "TP43" H 9650 2985 50  0000 C CNN
+F 1 "Φ" H 9650 2894 50  0000 C CNN
+F 2 "" H 9850 2800 50  0001 C CNN
+F 3 "~" H 9850 2800 50  0001 C CNN
+	1    9650 2800
+	1    0    0    -1  
+$EndComp
+Text Notes 11100 2600 2    50   ~ 10
+Cartridge slot
+Text Label 4300 2000 0    50   ~ 0
+MA0
+Text Label 4300 2100 0    50   ~ 0
+MA1
+Text Label 4300 2200 0    50   ~ 0
+MA2
+Text Label 4300 2300 0    50   ~ 0
+MA3
+Text Label 4300 2400 0    50   ~ 0
+MA4
+Text Label 4300 2500 0    50   ~ 0
+MA5
+Text Label 4300 2600 0    50   ~ 0
+MA6
+Text Label 4300 2700 0    50   ~ 0
+MA7
+Text Label 4300 2800 0    50   ~ 0
+MA8
+Text Label 4300 2900 0    50   ~ 0
+MA9
+Text Label 4300 3400 0    50   ~ 0
+MD0
+Text Label 4300 3500 0    50   ~ 0
+MD1
+Text Label 4300 3600 0    50   ~ 0
+MD2
+Text Label 4300 3700 0    50   ~ 0
+MD3
+Text Label 4300 3800 0    50   ~ 0
+MD4
+Text Label 4300 3900 0    50   ~ 0
+MD5
+Text Label 4300 4000 0    50   ~ 0
+MD6
+Text Label 4300 4100 0    50   ~ 0
+MD7
+Text Label 4300 4300 0    50   ~ 0
+~MRD
+Text Label 4300 4400 0    50   ~ 0
+~MCS
+Text Label 4300 4500 0    50   ~ 0
+~MWR
+Text Label 4300 3200 0    50   ~ 0
+MA12
+Text Label 4300 3100 0    50   ~ 0
+MA11
+Text Label 4300 3000 0    50   ~ 0
+MA10
+$Comp
+L Connector:TestPoint_Small TP33
+U 1 1 5F710676
+P 4550 4500
+F 0 "TP33" V 4550 4800 50  0000 L CNN
+F 1 "MWR" V 4550 4550 50  0000 L CNN
+F 2 "" H 4750 4500 50  0001 C CNN
+F 3 "~" H 4750 4500 50  0001 C CNN
+	1    4550 4500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 4500 4550 4500
+$Comp
+L Connector:TestPoint_Small TP31
+U 1 1 5F71066B
+P 4550 4300
+F 0 "TP31" V 4550 4600 50  0000 L CNN
+F 1 "MRD" V 4550 4350 50  0000 L CNN
+F 2 "" H 4750 4300 50  0001 C CNN
+F 3 "~" H 4750 4300 50  0001 C CNN
+	1    4550 4300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 4300 4550 4300
+$Comp
+L Connector:TestPoint_Small TP32
+U 1 1 5F710660
+P 4550 4400
+F 0 "TP32" V 4550 4700 50  0000 L CNN
+F 1 "MCS" V 4550 4450 50  0000 L CNN
+F 2 "" H 4750 4400 50  0001 C CNN
+F 3 "~" H 4750 4400 50  0001 C CNN
+	1    4550 4400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 4400 4550 4400
+$Comp
+L Connector:TestPoint_Small TP30
+U 1 1 5F6FED25
+P 4550 4100
+F 0 "TP30" V 4550 4400 50  0000 L CNN
+F 1 "MD7" V 4550 4150 50  0000 L CNN
+F 2 "" H 4750 4100 50  0001 C CNN
+F 3 "~" H 4750 4100 50  0001 C CNN
+	1    4550 4100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 4100 4550 4100
+$Comp
+L Connector:TestPoint_Small TP23
+U 1 1 5F6EC090
+P 4550 3400
+F 0 "TP23" V 4550 3700 50  0000 L CNN
+F 1 "MD0" V 4550 3450 50  0000 L CNN
+F 2 "" H 4750 3400 50  0001 C CNN
+F 3 "~" H 4750 3400 50  0001 C CNN
+	1    4550 3400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 3400 4550 3400
+$Comp
+L Connector:TestPoint_Small TP24
+U 1 1 5F6EC085
+P 4550 3500
+F 0 "TP24" V 4550 3800 50  0000 L CNN
+F 1 "MD1" V 4550 3550 50  0000 L CNN
+F 2 "" H 4750 3500 50  0001 C CNN
+F 3 "~" H 4750 3500 50  0001 C CNN
+	1    4550 3500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 3500 4550 3500
+$Comp
+L Connector:TestPoint_Small TP25
+U 1 1 5F6EC07A
+P 4550 3600
+F 0 "TP25" V 4550 3900 50  0000 L CNN
+F 1 "MD2" V 4550 3650 50  0000 L CNN
+F 2 "" H 4750 3600 50  0001 C CNN
+F 3 "~" H 4750 3600 50  0001 C CNN
+	1    4550 3600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 3600 4550 3600
+$Comp
+L Connector:TestPoint_Small TP26
+U 1 1 5F6EC06F
+P 4550 3700
+F 0 "TP26" V 4550 4000 50  0000 L CNN
+F 1 "MD3" V 4550 3750 50  0000 L CNN
+F 2 "" H 4750 3700 50  0001 C CNN
+F 3 "~" H 4750 3700 50  0001 C CNN
+	1    4550 3700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 3700 4550 3700
+$Comp
+L Connector:TestPoint_Small TP27
+U 1 1 5F6EC064
+P 4550 3800
+F 0 "TP27" V 4550 4100 50  0000 L CNN
+F 1 "MD4" V 4550 3850 50  0000 L CNN
+F 2 "" H 4750 3800 50  0001 C CNN
+F 3 "~" H 4750 3800 50  0001 C CNN
+	1    4550 3800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 3800 4550 3800
+$Comp
+L Connector:TestPoint_Small TP28
+U 1 1 5F6EC059
+P 4550 3900
+F 0 "TP28" V 4550 4200 50  0000 L CNN
+F 1 "MD5" V 4550 3950 50  0000 L CNN
+F 2 "" H 4750 3900 50  0001 C CNN
+F 3 "~" H 4750 3900 50  0001 C CNN
+	1    4550 3900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 3900 4550 3900
+$Comp
+L Connector:TestPoint_Small TP29
+U 1 1 5F6EC04E
+P 4550 4000
+F 0 "TP29" V 4550 4300 50  0000 L CNN
+F 1 "MD6" V 4550 4050 50  0000 L CNN
+F 2 "" H 4750 4000 50  0001 C CNN
+F 3 "~" H 4750 4000 50  0001 C CNN
+	1    4550 4000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 4000 4550 4000
+$Comp
+L Connector:TestPoint_Small TP10
+U 1 1 5F6A2F3F
+P 4550 2000
+F 0 "TP10" V 4550 2300 50  0000 L CNN
+F 1 "MA0" V 4550 2050 50  0000 L CNN
+F 2 "" H 4750 2000 50  0001 C CNN
+F 3 "~" H 4750 2000 50  0001 C CNN
+	1    4550 2000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2000 4550 2000
+$Comp
+L Connector:TestPoint_Small TP11
+U 1 1 5F6A2F34
+P 4550 2100
+F 0 "TP11" V 4550 2400 50  0000 L CNN
+F 1 "MA1" V 4550 2150 50  0000 L CNN
+F 2 "" H 4750 2100 50  0001 C CNN
+F 3 "~" H 4750 2100 50  0001 C CNN
+	1    4550 2100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2100 4550 2100
+$Comp
+L Connector:TestPoint_Small TP12
+U 1 1 5F6A2F29
+P 4550 2200
+F 0 "TP12" V 4550 2500 50  0000 L CNN
+F 1 "MA2" V 4550 2250 50  0000 L CNN
+F 2 "" H 4750 2200 50  0001 C CNN
+F 3 "~" H 4750 2200 50  0001 C CNN
+	1    4550 2200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2200 4550 2200
+$Comp
+L Connector:TestPoint_Small TP13
+U 1 1 5F6A2F1E
+P 4550 2300
+F 0 "TP13" V 4550 2600 50  0000 L CNN
+F 1 "MA3" V 4550 2350 50  0000 L CNN
+F 2 "" H 4750 2300 50  0001 C CNN
+F 3 "~" H 4750 2300 50  0001 C CNN
+	1    4550 2300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2300 4550 2300
+$Comp
+L Connector:TestPoint_Small TP14
+U 1 1 5F6A2F13
+P 4550 2400
+F 0 "TP14" V 4550 2700 50  0000 L CNN
+F 1 "MA4" V 4550 2450 50  0000 L CNN
+F 2 "" H 4750 2400 50  0001 C CNN
+F 3 "~" H 4750 2400 50  0001 C CNN
+	1    4550 2400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2400 4550 2400
+$Comp
+L Connector:TestPoint_Small TP15
+U 1 1 5F6907B6
+P 4550 2500
+F 0 "TP15" V 4550 2800 50  0000 L CNN
+F 1 "MA5" V 4550 2550 50  0000 L CNN
+F 2 "" H 4750 2500 50  0001 C CNN
+F 3 "~" H 4750 2500 50  0001 C CNN
+	1    4550 2500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2500 4550 2500
+$Comp
+L Connector:TestPoint_Small TP16
+U 1 1 5F6907AB
+P 4550 2600
+F 0 "TP16" V 4550 2900 50  0000 L CNN
+F 1 "MA6" V 4550 2650 50  0000 L CNN
+F 2 "" H 4750 2600 50  0001 C CNN
+F 3 "~" H 4750 2600 50  0001 C CNN
+	1    4550 2600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2600 4550 2600
+$Comp
+L Connector:TestPoint_Small TP17
+U 1 1 5F6907A0
+P 4550 2700
+F 0 "TP17" V 4550 3000 50  0000 L CNN
+F 1 "MA7" V 4550 2750 50  0000 L CNN
+F 2 "" H 4750 2700 50  0001 C CNN
+F 3 "~" H 4750 2700 50  0001 C CNN
+	1    4550 2700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2700 4550 2700
+$Comp
+L Connector:TestPoint_Small TP18
+U 1 1 5F690795
+P 4550 2800
+F 0 "TP18" V 4550 3100 50  0000 L CNN
+F 1 "MA8" V 4550 2850 50  0000 L CNN
+F 2 "" H 4750 2800 50  0001 C CNN
+F 3 "~" H 4750 2800 50  0001 C CNN
+	1    4550 2800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2800 4550 2800
+$Comp
+L Connector:TestPoint_Small TP19
+U 1 1 5F6714CC
+P 4550 2900
+F 0 "TP19" V 4550 3200 50  0000 L CNN
+F 1 "MA9" V 4550 2950 50  0000 L CNN
+F 2 "" H 4750 2900 50  0001 C CNN
+F 3 "~" H 4750 2900 50  0001 C CNN
+	1    4550 2900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 2900 4550 2900
+$Comp
+L Connector:TestPoint_Small TP20
+U 1 1 5F6714C1
+P 4550 3000
+F 0 "TP20" V 4550 3300 50  0000 L CNN
+F 1 "MA10" V 4550 3050 50  0000 L CNN
+F 2 "" H 4750 3000 50  0001 C CNN
+F 3 "~" H 4750 3000 50  0001 C CNN
+	1    4550 3000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 3000 4550 3000
+$Comp
+L Connector:TestPoint_Small TP21
+U 1 1 5F661ECF
+P 4550 3100
+F 0 "TP21" V 4550 3400 50  0000 L CNN
+F 1 "MA11" V 4550 3150 50  0000 L CNN
+F 2 "" H 4750 3100 50  0001 C CNN
+F 3 "~" H 4750 3100 50  0001 C CNN
+	1    4550 3100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 3100 4550 3100
+$Comp
+L Connector:TestPoint_Small TP22
+U 1 1 5F622C8D
+P 4550 3200
+F 0 "TP22" V 4550 3500 50  0000 L CNN
+F 1 "MA12" V 4550 3250 50  0000 L CNN
+F 2 "" H 4750 3200 50  0001 C CNN
+F 3 "~" H 4750 3200 50  0001 C CNN
+	1    4550 3200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4300 3200 4550 3200
+$Comp
+L Connector:TestPoint_Small TP41
+U 1 1 5EDDD78F
+P 6050 5500
+F 0 "TP41" V 6143 5500 50  0000 C CNN
+F 1 "ST" V 6234 5500 50  0000 C CNN
+F 2 "" H 6250 5500 50  0001 C CNN
+F 3 "~" H 6250 5500 50  0001 C CNN
+	1    6050 5500
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint_Small TP35
+U 1 1 5EDD58F2
+P 5450 5500
+F 0 "TP35" V 5543 5500 50  0000 C CNN
+F 1 "S" V 5634 5500 50  0000 C CNN
+F 2 "" H 5650 5500 50  0001 C CNN
+F 3 "~" H 5650 5500 50  0001 C CNN
+	1    5450 5500
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint_Small TP39
+U 1 1 5EDD58E7
+P 5850 5500
+F 0 "TP39" V 5943 5500 50  0000 C CNN
+F 1 "CPL" V 6034 5500 50  0000 C CNN
+F 2 "" H 6050 5500 50  0001 C CNN
+F 3 "~" H 6050 5500 50  0001 C CNN
+	1    5850 5500
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint_Small TP37
+U 1 1 5EDD58DC
+P 5650 5500
+F 0 "TP37" V 5743 5500 50  0000 C CNN
+F 1 "FR" V 5834 5500 50  0000 C CNN
+F 2 "" H 5850 5500 50  0001 C CNN
+F 3 "~" H 5850 5500 50  0001 C CNN
+	1    5650 5500
+	0    1    1    0   
+$EndComp
+Wire Notes Line
+	4150 4600 5150 4600
+Wire Notes Line
+	5150 1900 4150 1900
+Wire Notes Line
+	4150 1900 4150 4600
+Wire Wire Line
+	4300 4700 5450 4700
+Wire Wire Line
+	5450 4700 5450 4600
+$Comp
+L Connector:TestPoint_Small TP34
+U 1 1 5EDE51CE
+P 5450 4600
+F 0 "TP34" V 5265 4600 50  0000 C CNN
+F 1 "LD1" V 5356 4600 50  0000 C CNN
+F 2 "" H 5650 4600 50  0001 C CNN
+F 3 "~" H 5650 4600 50  0001 C CNN
+	1    5450 4600
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint_Small TP38
+U 1 1 5EDDD784
+P 5850 4600
+F 0 "TP38" V 5665 4600 50  0000 C CNN
+F 1 "CPG" V 5756 4600 50  0000 C CNN
+F 2 "" H 6050 4600 50  0001 C CNN
+F 3 "~" H 6050 4600 50  0001 C CNN
+	1    5850 4600
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint_Small TP36
+U 1 1 5EDE51C3
+P 5650 4600
+F 0 "TP36" V 5465 4600 50  0000 C CNN
+F 1 "LD0" V 5556 4600 50  0000 C CNN
+F 2 "" H 5850 4600 50  0001 C CNN
+F 3 "~" H 5850 4600 50  0001 C CNN
+	1    5650 4600
+	0    1    1    0   
+$EndComp
+Connection ~ 5450 4700
+Wire Wire Line
+	4300 4800 5650 4800
+Wire Wire Line
+	4300 4900 5850 4900
+Wire Wire Line
+	4300 5000 6050 5000
+Wire Wire Line
+	4300 5100 6050 5100
+Wire Wire Line
+	4300 5200 5850 5200
+Wire Wire Line
+	4300 5300 5650 5300
+Wire Wire Line
+	4300 5400 5450 5400
+$Comp
+L Connector:TestPoint_Small TP40
+U 1 1 6023434E
+P 6050 4600
+F 0 "TP40" V 5865 4600 50  0000 C CNN
+F 1 "CP" V 5956 4600 50  0000 C CNN
+F 2 "" H 6250 4600 50  0001 C CNN
+F 3 "~" H 6250 4600 50  0001 C CNN
+	1    6050 4600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5450 4700 6250 4700
+Wire Wire Line
+	5650 4600 5650 4800
+Connection ~ 5650 4800
+Wire Wire Line
+	5650 4800 6250 4800
+Wire Wire Line
+	5850 4600 5850 4900
+Connection ~ 5850 4900
+Wire Wire Line
+	5850 4900 6250 4900
+Wire Wire Line
+	6050 4600 6050 5000
+Connection ~ 6050 5000
+Wire Wire Line
+	6050 5000 6250 5000
+Wire Wire Line
+	5450 5500 5450 5400
+Connection ~ 5450 5400
+Wire Wire Line
+	5450 5400 6250 5400
+Wire Wire Line
+	5650 5500 5650 5300
+Connection ~ 5650 5300
+Wire Wire Line
+	5650 5300 6250 5300
+Wire Wire Line
+	5850 5500 5850 5200
+Connection ~ 5850 5200
+Wire Wire Line
+	5850 5200 6250 5200
+Wire Wire Line
+	6050 5500 6050 5100
+Connection ~ 6050 5100
+Wire Wire Line
+	6050 5100 6250 5100
+Wire Wire Line
+	1400 5900 1600 5900
+Connection ~ 1600 5900
+Wire Wire Line
+	1400 6000 1850 6000
+Connection ~ 1850 6000
+$Comp
+L Gekkio_Power_Supervisor:PST9135N U6
+U 1 1 6046DAF4
+P 1050 2450
+AR Path="/6046DAF4" Ref="U6"  Part="1" 
+AR Path="/5ECE8AF1/6046DAF4" Ref="U?"  Part="1" 
+F 0 "U6" H 850 2850 50  0000 C CNN
+F 1 "PST9135N" H 1300 2850 50  0000 C CNN
+F 2 "" H 1050 2750 50  0001 C CNN
+F 3 "" H 1050 2750 50  0001 C CNN
+	1    1050 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 6046DAFA
+P 1050 2950
+AR Path="/6046DAFA" Ref="#PWR02"  Part="1" 
+AR Path="/5ECE8AF1/6046DAFA" Ref="#PWR?"  Part="1" 
+F 0 "#PWR02" H 1050 2700 50  0001 C CNN
+F 1 "GND" H 1050 2800 50  0000 C CNN
+F 2 "" H 1050 2950 50  0001 C CNN
+F 3 "" H 1050 2950 50  0001 C CNN
+	1    1050 2950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1050 2950 950  2950
+Connection ~ 1050 2950
+$Comp
+L Device:C C17
+U 1 1 6046DB02
+P 1600 2700
+AR Path="/6046DB02" Ref="C17"  Part="1" 
+AR Path="/5ECE8AF1/6046DB02" Ref="C?"  Part="1" 
+F 0 "C17" H 1625 2800 50  0000 L CNN
+F 1 "100nF" H 1625 2600 50  0000 L CNN
+F 2 "" H 1638 2550 50  0001 C CNN
+F 3 "~" H 1600 2700 50  0001 C CNN
+	1    1600 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 6046DB08
+P 1600 2200
+AR Path="/6046DB08" Ref="R3"  Part="1" 
+AR Path="/5ECE8AF1/6046DB08" Ref="R?"  Part="1" 
+F 0 "R3" H 1670 2246 50  0000 L CNN
+F 1 "160k" H 1670 2155 50  0000 L CNN
+F 2 "" V 1530 2200 50  0001 C CNN
+F 3 "~" H 1600 2200 50  0001 C CNN
+	1    1600 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 2450 1600 2450
+Wire Wire Line
+	1600 2450 1600 2350
+Wire Wire Line
+	1600 2450 1600 2550
+Connection ~ 1600 2450
+Wire Wire Line
+	1050 1950 1600 1950
+Wire Wire Line
+	1600 1950 1600 2050
+Wire Wire Line
+	1050 2950 1600 2950
+Wire Wire Line
+	1600 2950 1600 2850
+$Comp
+L power:VDD #PWR01
+U 1 1 6046DB16
+P 1050 1950
+AR Path="/6046DB16" Ref="#PWR01"  Part="1" 
+AR Path="/5ECE8AF1/6046DB16" Ref="#PWR?"  Part="1" 
+F 0 "#PWR01" H 1050 1800 50  0001 C CNN
+F 1 "VDD" H 1065 2123 50  0000 C CNN
+F 2 "" H 1050 1950 50  0001 C CNN
+F 3 "" H 1050 1950 50  0001 C CNN
+	1    1050 1950
+	1    0    0    -1  
+$EndComp
+Connection ~ 1050 1950
+Wire Notes Line width 12
+	650  1550 650  3350
+Wire Notes Line width 12
+	650  3350 2000 3350
+Wire Notes Line width 12
+	2000 3350 2000 1550
+Wire Notes Line width 12
+	2000 1550 650  1550
+Text Notes 1950 1650 2    50   ~ 10
+Voltage supervisor
+Text Label 1700 2450 0    50   ~ 0
+~RES
+Entry Wire Line
+	2400 2450 2500 2550
+Wire Wire Line
+	1600 2450 2250 2450
+Wire Wire Line
+	2250 2350 2250 2450
+Connection ~ 2250 2450
+Wire Wire Line
+	2250 2450 2400 2450
+Wire Wire Line
+	2600 5000 2900 5000
+Text Label 4300 6000 0    50   ~ 0
+P14
+Text Label 4300 6100 0    50   ~ 0
+P15
+Wire Notes Line width 12
+	2400 1450 5250 1450
+Wire Notes Line width 12
+	5250 1450 5250 6950
+Wire Notes Line width 12
+	5250 6950 2400 6950
+Wire Notes Line width 12
+	2400 6950 2400 1450
+Text Notes 5200 1550 2    50   ~ 10
+Main SoC
+Wire Notes Line
+	5150 4600 5150 1900
+$Comp
+L Device:C C12
+U 1 1 6062AFC8
+P 4300 6550
+F 0 "C12" H 4415 6596 50  0000 L CNN
+F 1 "10nF" H 4415 6505 50  0000 L CNN
+F 2 "" H 4338 6400 50  0001 C CNN
+F 3 "~" H 4300 6550 50  0001 C CNN
+	1    4300 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 6062AFD2
+P 4300 6700
+F 0 "#PWR04" H 4300 6450 50  0001 C CNN
+F 1 "GND" H 4305 6527 50  0000 C CNN
+F 2 "" H 4300 6700 50  0001 C CNN
+F 3 "" H 4300 6700 50  0001 C CNN
+	1    4300 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDD #PWR03
+U 1 1 6062AFDC
+P 4300 6400
+F 0 "#PWR03" H 4300 6250 50  0001 C CNN
+F 1 "VDD" H 4315 6573 50  0000 C CNN
+F 2 "" H 4300 6400 50  0001 C CNN
+F 3 "" H 4300 6400 50  0001 C CNN
+	1    4300 6400
+	1    0    0    -1  
+$EndComp
+Wire Bus Line
+	4700 6650 6600 6650
+Text Notes 5100 3350 2    50   ~ 0
+*see Note 1
+Text Notes 550  7450 0    50   ~ 0
+Note 1:\nThe MGB SoC includes integrated Video RAM, but all the VRAM bus signals are available as pins and connected to test pads
+Text Notes 550  7700 0    50   ~ 0
+Note 2:\nThe supervisor IC has an open drain output that is pulled low when VDD <= 3.5V
+Text Notes 1950 3300 2    50   ~ 0
+*see Note 2
+Text Notes 8900 950  0    50   ~ 0
+Global power nets:\nVDD = main power supply, nominal +5V (regulated)\nVEE = LCD bias supply, nominal -18V (unregulated)\nVCC = DC input supply (battery or DC jack), nominal +3V\nGND = common ground
+Text Notes 2350 6000 2    50   ~ 0
+Left
+Text Notes 2350 5900 2    50   ~ 0
+Right
+Text Notes 11100 2050 2    100  ~ 20
+Game Boy Pocket mainboard\nMGB-CPU-01\nMGB-ECPU-01\nMGB-LCPU-01\nMGB-LCPU-02
+Wire Wire Line
+	2100 5800 2900 5800
+Wire Bus Line
+	4700 5500 4700 6650
+Wire Bus Line
+	6600 6100 6600 6650
+Wire Bus Line
+	8700 4100 8700 5800
+Wire Bus Line
+	7100 4100 7100 5800
+Wire Bus Line
+	2500 1150 2500 5700
+Wire Bus Line
+	9500 2800 9500 5700
+$EndSCHEMATC

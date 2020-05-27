@@ -1,0 +1,12 @@
+[submodule "external/gekkio-kicad-libs"]
+	path = external/gekkio-kicad-libs
+	url = https://github.com/Gekkio/gekkio-kicad-libs.git
+[submodule "external/kicad-symbols"]
+	path = external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "MGB-xCPU/external/gekkio-kicad-libs"]
+	path = MGB-xCPU/external/gekkio-kicad-libs
+	url = ./external/gekkio-kicad-libs
+[submodule "MGB-xCPU/external/kicad-symbols"]
+	path = MGB-xCPU/external/kicad-symbols
+	url = ./external/kicad-symbols
