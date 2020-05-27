@@ -24,3 +24,5 @@ Used libraries:
   Traced MGB-LCPU-02 board SVG
 
 </a>
+
+[Raw notes of MGB-ECPU-01 board components](MGB-ECPU-01.txt)

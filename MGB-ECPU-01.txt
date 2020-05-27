@@ -1,0 +1,55 @@
+MGB-ECPU-01:
+1.22mm thickness
+
+EM1, EM2, EM3: 0603 ferrites, ???
+F1: Fuse 1.0 A, THT
+RA3: 4x220 ohm, 4x0603
+RA4: 2x510 ohm, 3x0603
+RA5: 2x15 ohm, 2x0603
+R1: 100 ohm, 0603
+R3: 160 K, 0603
+R4: 75 ohm, 0603
+R6: 0 ohm, 1206
+DA1, DA2: SOT-23-5 ("N1"), quad-diode 0.600 V, Rohm FMN1
+DA3: SOT-353 ("N1"), Rohm UMN1N
+DA4: SOT-353 ("P1"), Rohm UMP1N
+D2: SOD-323 ("A"), 0.569 V drop
+C1, C2: 25 pF, 0603
+C3: 47 pF, 0603
+C4-C7: 100 pF, 0603
+C9-C13: 10 nF, 0603
+C14-C16: 47 nF, 0603
+C17: 100 nF, 0603
+C18, C19: 1 uF, 0603
+C20, C21, C23: 1 uF, 0805
+C22, C24: 1 uF, 0603
+C25-C27: 2.2 uF, 0805
+C28: 10 uF, 1210
+C29: 33 uF, 25 V, D:6.3mm, L:4.5mm+stand
+C30: 330 uF, 6.3V? D:8mm, L:6mm+stand
+C31, C32: 100 uF, 6.3V?, D:6.3mm, L:4.5mm+stand
+C33: 6.8 uF 1206
+C35: ???, lost
+Q1: SOT-323 ("FR"), PNP, BEC, HFE=279, 640 mV, Rohm 2SA1576A
+  PNP silicon BJT
+  hFE=288 @ Ic=5mA
+  Vbe=0.759V @ Ib=5mA
+  Vcesat=0.033V @ Ic=5mA, Ib=1mA
+  Icleak=0mA
+U1: CPU MGB
+U2: 64K S-RAM
+U3: AMP-MGB
+U4: DMG-REG
+U5: DC/DC converter daughterboard
+U6: SOT-23-5 ("35FE"), Mitsumi PST9135N
+VR1: 10Kx2 (custom Panasonic EVU-TX?)
+VR2: 30K (custom Panasonic EVU-TX?)
+SW1: 3-way power switch
+X1: crystal
+P1: cartridge connector
+P2: LCD connector
+P3: link port
+P4: DC jack
+P5: headphone connector
+Positive battery terminal
+Negative battery terminal
