@@ -10,3 +10,4 @@ Used libraries:
 ## MGB-xCPU
 
 [Game Boy Pocket mainboard](MGB-xCPU/schematic/MGB-xCPU.pdf)
+[Traced MGB-LCPU-02 board SVG](MGB-xCPU/MGB-LCPU-02.svg)
