@@ -9,6 +9,14 @@ Used libraries:
 
 ## MGB-xCPU
 
-[Game Boy Pocket mainboard](MGB-xCPU/schematic/MGB-xCPU.pdf)
+<a href="MGB-xCPU/schematic/MGB-xCPU.pdf">
+  ![](MGB-xCPU.png)
 
-[Traced MGB-LCPU-02 board SVG](MGB-xCPU/MGB-LCPU-02.svg)
+  Game Boy Pocket mainboard schematics
+</a>
+
+<a href="MGB-xCPU/MGB-LCPU-02.svg">
+  ![](MGB-LCPU-02.png)
+
+  Traced MGB-LCPU-02 board SVG
+</a>
