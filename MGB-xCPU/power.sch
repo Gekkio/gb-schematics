@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 5 6
 Title "MGB-xCPU - Power"
-Date "2020-05-27"
+Date "2020-09-19"
 Rev "A"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/gekkio/gb-schematics"
@@ -367,8 +367,8 @@ U 1 1 5ED09C3A
 P 6500 4350
 AR Path="/5ED09C3A" Ref="Q?"  Part="1" 
 AR Path="/5ECE8AF1/5ED09C3A" Ref="Q2"  Part="1" 
-F 0 "Q2" H 6691 4396 50  0000 L CNN
-F 1 "2SC4081" H 6691 4305 50  0000 L CNN
+F 0 "Q2" H 6690 4396 50  0000 L CNN
+F 1 "2SC4081" H 6690 4305 50  0000 L CNN
 F 2 "" H 6700 4450 50  0001 C CNN
 F 3 "~" H 6500 4350 50  0001 C CNN
 	1    6500 4350

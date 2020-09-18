@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 4 6
 Title "MGB-xCPU - Analog audio"
-Date "2020-05-27"
+Date "2020-09-19"
 Rev "A"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/gekkio/gb-schematics"
@@ -733,8 +733,8 @@ $Comp
 L Gekkio_Device_Specialized:R_POT_GameBoy_Volume_MGB VR1
 U 1 1 5F06E96C
 P 3350 3250
-F 0 "VR1" V 3396 2913 50  0000 R CNN
-F 1 "2x10k" V 3305 2913 50  0000 R CNN
+F 0 "VR1" V 3396 2862 50  0000 R CNN
+F 1 "2x10k" V 3305 2862 50  0000 R CNN
 F 2 "" H 3600 3025 50  0001 C CNN
 F 3 "~" H 3600 3025 50  0001 C CNN
 	1    3350 3250
@@ -846,19 +846,6 @@ Wire Wire Line
 Connection ~ 2800 2700
 Wire Wire Line
 	3050 2700 3050 2900
-$Comp
-L Gekkio_Amplifier_Audio:IR3R53N U3
-U 1 1 5EF48F70
-P 5250 4500
-AR Path="/5EF48F70" Ref="U3"  Part="1" 
-AR Path="/5F624AB5/5EF48F70" Ref="U3"  Part="1" 
-F 0 "U3" H 5550 5400 50  0000 C CNN
-F 1 "IR3R53N" H 5550 5300 50  0000 C CNN
-F 2 "" H 5250 3200 50  0001 C CNN
-F 3 "" H 5100 4200 50  0001 C CNN
-	1    5250 4500
-	1    0    0    -1  
-$EndComp
 Wire Notes Line width 12
 	4250 2800 4250 5700
 Wire Notes Line width 12
@@ -879,4 +866,17 @@ Wire Notes Line width 12
 	2150 1900 950  1900
 Text Notes 2100 2000 2    50   ~ 10
 AC coupling
+$Comp
+L Gekkio_Amplifier_Audio:IR3R53N U3
+U 1 1 5EF48F70
+P 5250 4500
+AR Path="/5EF48F70" Ref="U3"  Part="1" 
+AR Path="/5F624AB5/5EF48F70" Ref="U3"  Part="1" 
+F 0 "U3" H 5550 5400 50  0000 C CNN
+F 1 "IR3R53N" H 5550 5300 50  0000 C CNN
+F 2 "" H 5250 3200 50  0001 C CNN
+F 3 "" H 5100 4200 50  0001 C CNN
+	1    5250 4500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

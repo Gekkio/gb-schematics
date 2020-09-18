@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 6
 Title "MGB-xCPU - Link port"
-Date "2020-05-27"
+Date "2020-09-19"
 Rev "A"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/gekkio/gb-schematics"

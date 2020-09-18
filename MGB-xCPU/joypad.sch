@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 6
 Title "MGB-xCPU - Joypad"
-Date "2020-05-27"
+Date "2020-09-19"
 Rev "A"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/gekkio/gb-schematics"
@@ -69,8 +69,8 @@ U 2 1 5FB15309
 P 3250 4850
 AR Path="/5FB15309" Ref="DA?"  Part="2" 
 AR Path="/5FAC1A70/5FB15309" Ref="DA1"  Part="2" 
-F 0 "DA1" V 3204 4928 50  0000 L CNN
-F 1 "FMN1" V 3295 4928 50  0000 L CNN
+F 0 "DA1" V 3296 4928 50  0000 L CNN
+F 1 "FMN1" V 3205 4928 50  0000 L CNN
 F 2 "" H 3250 4675 50  0001 C CNN
 F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf" H 3250 4950 50  0001 C CNN
 	2    3250 4850
@@ -82,8 +82,8 @@ U 3 1 5FB1530F
 P 3750 4850
 AR Path="/5FB1530F" Ref="DA?"  Part="3" 
 AR Path="/5FAC1A70/5FB1530F" Ref="DA1"  Part="3" 
-F 0 "DA1" V 3704 4928 50  0000 L CNN
-F 1 "FMN1" V 3795 4928 50  0000 L CNN
+F 0 "DA1" V 3796 4928 50  0000 L CNN
+F 1 "FMN1" V 3705 4928 50  0000 L CNN
 F 2 "" H 3750 4675 50  0001 C CNN
 F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf" H 3750 4950 50  0001 C CNN
 	3    3750 4850
@@ -95,8 +95,8 @@ U 4 1 5FB15315
 P 4250 4850
 AR Path="/5FB15315" Ref="DA?"  Part="4" 
 AR Path="/5FAC1A70/5FB15315" Ref="DA1"  Part="4" 
-F 0 "DA1" V 4204 4928 50  0000 L CNN
-F 1 "FMN1" V 4295 4928 50  0000 L CNN
+F 0 "DA1" V 4296 4928 50  0000 L CNN
+F 1 "FMN1" V 4205 4928 50  0000 L CNN
 F 2 "" H 4250 4675 50  0001 C CNN
 F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf" H 4250 4950 50  0001 C CNN
 	4    4250 4850
@@ -110,8 +110,8 @@ U 1 1 5FB1531C
 P 2750 4850
 AR Path="/5FB1531C" Ref="DA?"  Part="1" 
 AR Path="/5FAC1A70/5FB1531C" Ref="DA1"  Part="1" 
-F 0 "DA1" V 2704 4928 50  0000 L CNN
-F 1 "FMN1" V 2795 4928 50  0000 L CNN
+F 0 "DA1" V 2796 4928 50  0000 L CNN
+F 1 "FMN1" V 2705 4928 50  0000 L CNN
 F 2 "" H 2750 4675 50  0001 C CNN
 F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf" H 2750 4950 50  0001 C CNN
 	1    2750 4850
@@ -188,8 +188,8 @@ U 2 1 5FB1534D
 P 6250 4850
 AR Path="/5FB1534D" Ref="DA?"  Part="2" 
 AR Path="/5FAC1A70/5FB1534D" Ref="DA2"  Part="2" 
-F 0 "DA2" V 6204 4928 50  0000 L CNN
-F 1 "FMN1" V 6295 4928 50  0000 L CNN
+F 0 "DA2" V 6296 4928 50  0000 L CNN
+F 1 "FMN1" V 6205 4928 50  0000 L CNN
 F 2 "" H 6250 4675 50  0001 C CNN
 F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf" H 6250 4950 50  0001 C CNN
 	2    6250 4850
@@ -201,24 +201,11 @@ U 3 1 5FB15353
 P 6750 4850
 AR Path="/5FB15353" Ref="DA?"  Part="3" 
 AR Path="/5FAC1A70/5FB15353" Ref="DA2"  Part="3" 
-F 0 "DA2" V 6704 4928 50  0000 L CNN
-F 1 "FMN1" V 6795 4928 50  0000 L CNN
+F 0 "DA2" V 6796 4928 50  0000 L CNN
+F 1 "FMN1" V 6705 4928 50  0000 L CNN
 F 2 "" H 6750 4675 50  0001 C CNN
 F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf" H 6750 4950 50  0001 C CNN
 	3    6750 4850
-	0    1    -1   0   
-$EndComp
-$Comp
-L Gekkio_Diode:FMN1 DA?
-U 4 1 5FB15359
-P 7250 4850
-AR Path="/5FB15359" Ref="DA?"  Part="4" 
-AR Path="/5FAC1A70/5FB15359" Ref="DA2"  Part="4" 
-F 0 "DA2" V 7204 4928 50  0000 L CNN
-F 1 "FMN1" V 7295 4928 50  0000 L CNN
-F 2 "" H 7250 4675 50  0001 C CNN
-F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf" H 7250 4950 50  0001 C CNN
-	4    7250 4850
 	0    1    -1   0   
 $EndComp
 $Comp
@@ -227,8 +214,8 @@ U 1 1 5FB1535F
 P 5750 4850
 AR Path="/5FB1535F" Ref="DA?"  Part="1" 
 AR Path="/5FAC1A70/5FB1535F" Ref="DA2"  Part="1" 
-F 0 "DA2" V 5704 4928 50  0000 L CNN
-F 1 "FMN1" V 5795 4928 50  0000 L CNN
+F 0 "DA2" V 5796 4928 50  0000 L CNN
+F 1 "FMN1" V 5705 4928 50  0000 L CNN
 F 2 "" H 5750 4675 50  0001 C CNN
 F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf" H 5750 4950 50  0001 C CNN
 	1    5750 4850
@@ -262,17 +249,6 @@ Text HLabel 4600 3800 2    50   UnSpc ~ 0
 P12
 Text Label 4200 3800 2    50   ~ 0
 DA2-SEL
-$Comp
-L Switch:SW_Push SW6
-U 1 1 5FB1537C
-P 4400 3800
-F 0 "SW6" H 4400 4085 50  0000 C CNN
-F 1 "SELECT" H 4400 3994 50  0000 C CNN
-F 2 "" H 4400 4000 50  0001 C CNN
-F 3 "~" H 4400 4000 50  0001 C CNN
-	1    4400 3800
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4250 5000 4250 5100
 Wire Wire Line
@@ -445,8 +421,8 @@ $Comp
 L Connector:TestPoint_Small TP46
 U 1 1 5EDEF181
 P 5300 5000
-F 0 "TP46" H 5300 5150 50  0000 C CNN
-F 1 "P15" H 5300 5080 50  0000 C CNN
+F 0 "TP46" H 5300 5185 50  0000 C CNN
+F 1 "P15" H 5300 5094 50  0000 C CNN
 F 2 "" H 5500 5000 50  0001 C CNN
 F 3 "~" H 5500 5000 50  0001 C CNN
 	1    5300 5000
@@ -456,11 +432,35 @@ $Comp
 L Connector:TestPoint_Small TP45
 U 1 1 5EDEF96F
 P 2350 5000
-F 0 "TP45" H 2350 5150 50  0000 C CNN
-F 1 "P14" H 2350 5080 50  0000 C CNN
+F 0 "TP45" H 2350 5185 50  0000 C CNN
+F 1 "P14" H 2350 5094 50  0000 C CNN
 F 2 "" H 2550 5000 50  0001 C CNN
 F 3 "~" H 2550 5000 50  0001 C CNN
 	1    2350 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Gekkio_Diode:FMN1 DA?
+U 4 1 5FB15359
+P 7250 4850
+AR Path="/5FB15359" Ref="DA?"  Part="4" 
+AR Path="/5FAC1A70/5FB15359" Ref="DA2"  Part="4" 
+F 0 "DA2" V 7296 4928 50  0000 L CNN
+F 1 "FMN1" V 7205 4928 50  0000 L CNN
+F 2 "" H 7250 4675 50  0001 C CNN
+F 3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf" H 7250 4950 50  0001 C CNN
+	4    7250 4850
+	0    1    -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5FB1537C
+P 4400 3800
+F 0 "SW6" H 4400 4085 50  0000 C CNN
+F 1 "SELECT" H 4400 3994 50  0000 C CNN
+F 2 "" H 4400 4000 50  0001 C CNN
+F 3 "~" H 4400 4000 50  0001 C CNN
+	1    4400 3800
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 6
 Title "MGB-xCPU - LCD"
-Date "2020-05-27"
+Date "2020-09-19"
 Rev "A"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/gekkio/gb-schematics"
@@ -805,19 +805,6 @@ F 3 "~" H 2900 2900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Gekkio_Regulator_Linear:IR3E02 U?
-U 1 1 607910DA
-P 3400 2600
-AR Path="/607910DA" Ref="U?"  Part="1" 
-AR Path="/5ED96948/607910DA" Ref="U4"  Part="1" 
-F 0 "U4" H 3600 3200 50  0000 C CNN
-F 1 "IR3E02" H 3600 3100 50  0000 C CNN
-F 2 "" H 4400 4350 50  0001 C CNN
-F 3 "" H 4400 4350 50  0001 C CNN
-	1    3400 2600
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R_Variable VR2
 U 1 1 5EE3208C
 P 1500 2550
@@ -946,4 +933,17 @@ F 3 "" H 8650 5800 50  0001 C CNN
 $EndComp
 Text Notes 1400 2550 2    30   ~ 0
 TODO: more specific symbol
+$Comp
+L Gekkio_Regulator_Linear:IR3E02 U?
+U 1 1 607910DA
+P 3400 2600
+AR Path="/607910DA" Ref="U?"  Part="1" 
+AR Path="/5ED96948/607910DA" Ref="U4"  Part="1" 
+F 0 "U4" H 3600 3200 50  0000 C CNN
+F 1 "IR3E02" H 3600 3100 50  0000 C CNN
+F 2 "" H 4400 4350 50  0001 C CNN
+F 3 "" H 4400 4350 50  0001 C CNN
+	1    3400 2600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

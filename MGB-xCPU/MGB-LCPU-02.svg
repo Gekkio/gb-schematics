@@ -14,7 +14,7 @@
    height="2900"
    viewBox="0 0 3480 2900"
    sodipodi:docname="MGB-LCPU-02.svg"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="1.0.1 (1.0.1+r73)"
    inkscape:export-xdpi="24"
    inkscape:export-ydpi="24">
   <metadata
@@ -45,33 +45,33 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.33956835"
-     inkscape:cx="1349.6967"
-     inkscape:cy="1638.2436"
+     inkscape:cx="1798.2558"
+     inkscape:cy="1546.9474"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      fit-margin-top="20"
      fit-margin-left="20"
      fit-margin-right="20"
      fit-margin-bottom="20" />
   <g
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Background"
      transform="translate(10.621965,101.10498)">
     <image
        xlink:href="MGB-LCPU-02.jpg"
-       inkscape:label="Background"
-       y="0.56622046"
-       x="9.3780346"
-       id="image10"
-       preserveAspectRatio="none"
-       height="2780"
+       style="image-rendering:auto"
        width="3440"
-       style="image-rendering:auto" />
+       height="2780"
+       preserveAspectRatio="none"
+       id="image10"
+       x="9.3780346"
+       y="0.56622046"
+       inkscape:label="Background" />
   </g>
   <g
      id="g987"

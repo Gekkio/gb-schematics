@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 6
 Title "MGB-xCPU"
-Date "2020-05-27"
+Date "2020-09-19"
 Rev "A"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/gekkio/gb-schematics"
@@ -1651,26 +1651,13 @@ Wire Wire Line
 	1400 6000 1850 6000
 Connection ~ 1850 6000
 $Comp
-L Gekkio_Power_Supervisor:PST9135N U6
-U 1 1 6046DAF4
-P 1050 2450
-AR Path="/6046DAF4" Ref="U6"  Part="1" 
-AR Path="/5ECE8AF1/6046DAF4" Ref="U?"  Part="1" 
-F 0 "U6" H 850 2850 50  0000 C CNN
-F 1 "PST9135N" H 1300 2850 50  0000 C CNN
-F 2 "" H 1050 2750 50  0001 C CNN
-F 3 "" H 1050 2750 50  0001 C CNN
-	1    1050 2450
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR02
 U 1 1 6046DAFA
 P 1050 2950
 AR Path="/6046DAFA" Ref="#PWR02"  Part="1" 
 AR Path="/5ECE8AF1/6046DAFA" Ref="#PWR?"  Part="1" 
 F 0 "#PWR02" H 1050 2700 50  0001 C CNN
-F 1 "GND" H 1050 2800 50  0000 C CNN
+F 1 "GND" H 1055 2777 50  0000 C CNN
 F 2 "" H 1050 2950 50  0001 C CNN
 F 3 "" H 1050 2950 50  0001 C CNN
 	1    1050 2950
@@ -1679,19 +1666,6 @@ $EndComp
 Wire Wire Line
 	1050 2950 950  2950
 Connection ~ 1050 2950
-$Comp
-L Device:C C17
-U 1 1 6046DB02
-P 1600 2700
-AR Path="/6046DB02" Ref="C17"  Part="1" 
-AR Path="/5ECE8AF1/6046DB02" Ref="C?"  Part="1" 
-F 0 "C17" H 1625 2800 50  0000 L CNN
-F 1 "100nF" H 1625 2600 50  0000 L CNN
-F 2 "" H 1638 2550 50  0001 C CNN
-F 3 "~" H 1600 2700 50  0001 C CNN
-	1    1600 2700
-	1    0    0    -1  
-$EndComp
 $Comp
 L Device:R R3
 U 1 1 6046DB08
@@ -1824,6 +1798,32 @@ Text Notes 2350 5900 2    50   ~ 0
 Right
 Text Notes 11100 2050 2    100  ~ 20
 Game Boy Pocket mainboard\nMGB-CPU-01\nMGB-ECPU-01\nMGB-LCPU-01\nMGB-LCPU-02
+$Comp
+L Device:C C17
+U 1 1 6046DB02
+P 1600 2700
+AR Path="/6046DB02" Ref="C17"  Part="1" 
+AR Path="/5ECE8AF1/6046DB02" Ref="C?"  Part="1" 
+F 0 "C17" H 1715 2746 50  0000 L CNN
+F 1 "100nF" H 1715 2655 50  0000 L CNN
+F 2 "" H 1638 2550 50  0001 C CNN
+F 3 "~" H 1600 2700 50  0001 C CNN
+	1    1600 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Gekkio_Power_Supervisor:PST9135N U6
+U 1 1 6046DAF4
+P 1050 2450
+AR Path="/6046DAF4" Ref="U6"  Part="1" 
+AR Path="/5ECE8AF1/6046DAF4" Ref="U?"  Part="1" 
+F 0 "U6" H 850 2850 50  0000 C CNN
+F 1 "PST9135N" H 1300 2850 50  0000 C CNN
+F 2 "" H 1050 2750 50  0001 C CNN
+F 3 "" H 1050 2750 50  0001 C CNN
+	1    1050 2450
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	2100 5800 2900 5800
 Wire Bus Line
