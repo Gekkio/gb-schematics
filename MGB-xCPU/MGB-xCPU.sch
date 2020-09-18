@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 6
 Title "MGB-xCPU"
 Date "2020-09-19"
-Rev "A"
+Rev "B"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/gekkio/gb-schematics"
 Comment2 ""

@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 4 6
 Title "MGB-xCPU - Analog audio"
 Date "2020-09-19"
-Rev "A"
+Rev "B"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/gekkio/gb-schematics"
 Comment2 ""
@@ -25,9 +25,11 @@ F 3 "~" H 10340 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C31
+L Device:C_Polarized C31
 U 1 1 5F65F2ED
 P 9000 5100
+AR Path="/5F65F2ED" Ref="C31"  Part="1" 
+AR Path="/5F624AB5/5F65F2ED" Ref="C31"  Part="1" 
 F 0 "C31" H 9118 5146 50  0000 L CNN
 F 1 "100uF" H 9118 5055 50  0000 L CNN
 F 2 "" H 9038 4950 50  0001 C CNN
@@ -87,7 +89,7 @@ F 3 "" H 9950 4000 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Device:Ferrite_Bead_Small EM?
+L Device:FerriteBead_Small EM?
 U 1 1 5F65F317
 P 9150 3500
 AR Path="/5F65F317" Ref="EM?"  Part="1" 
@@ -100,7 +102,7 @@ F 3 "~" H 9150 3500 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L Device:Ferrite_Bead_Small EM?
+L Device:FerriteBead_Small EM?
 U 1 1 5F65F329
 P 9150 2250
 AR Path="/5F65F329" Ref="EM?"  Part="1" 
@@ -117,7 +119,7 @@ Wire Wire Line
 Wire Wire Line
 	10050 3600 9850 3600
 $Comp
-L Device:Ferrite_Bead_Small EM?
+L Device:FerriteBead_Small EM?
 U 1 1 5F65F331
 P 9150 2450
 AR Path="/5F65F331" Ref="EM?"  Part="1" 

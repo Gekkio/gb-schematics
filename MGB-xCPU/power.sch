@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 5 6
 Title "MGB-xCPU - Power"
 Date "2020-09-19"
-Rev "A"
+Rev "B"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/gekkio/gb-schematics"
 Comment2 ""
@@ -27,7 +27,7 @@ F 3 "~" H 2500 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C?
+L Device:C_Polarized C?
 U 1 1 5ED09B7B
 P 3200 4000
 AR Path="/5ED09B7B" Ref="C?"  Part="1" 
@@ -97,7 +97,7 @@ Wire Wire Line
 	3650 3750 3650 3850
 Connection ~ 3200 3750
 $Comp
-L Device:CP C?
+L Device:C_Polarized C?
 U 1 1 5ED09B9F
 P 3200 4500
 AR Path="/5ED09B9F" Ref="C?"  Part="1" 
@@ -110,7 +110,7 @@ F 3 "~" H 3200 4500 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Device:CP C?
+L Device:C_Polarized C?
 U 1 1 5ED09BAC
 P 2050 4000
 AR Path="/5ED09BAC" Ref="C?"  Part="1" 

@@ -13,6 +13,7 @@
   (lib (name Connector_Generic_MountingPin)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Connector_Generic_MountingPin.lib)(options "")(descr ""))
   (lib (name Device)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Device.lib)(options "")(descr ""))
   (lib (name Diode)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Diode.lib)(options "")(descr ""))
+  (lib (name Jumper)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Jumper.lib)(options "")(descr ""))
   (lib (name power)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/power.lib)(options "")(descr ""))
   (lib (name Switch)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Switch.lib)(options "")(descr ""))
 )
