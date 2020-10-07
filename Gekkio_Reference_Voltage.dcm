@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX6029EUK21
+D Ultra-Low-Power Precision Series Voltage Reference, 2.048V, SOT-23-5
+K voltage reference ldo
+F https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf
+$ENDCMP
+#
+$CMP MAX6029EUK25
+D Ultra-Low-Power Precision Series Voltage Reference, 2.500V, SOT-23-5
+K voltage reference ldo
+F https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf
+$ENDCMP
+#
+$CMP MAX6029EUK30
+D Ultra-Low-Power Precision Series Voltage Reference, 3.000V, SOT-23-5
+K voltage reference ldo
+F https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf
+$ENDCMP
+#
+$CMP MAX6029EUK33
+D Ultra-Low-Power Precision Series Voltage Reference, 3.300V, SOT-23-5
+K voltage reference ldo
+F https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf
+$ENDCMP
+#
+$CMP MAX6029EUK41
+D Ultra-Low-Power Precision Series Voltage Reference, 4.096V, SOT-23-5
+K voltage reference ldo
+F https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf
+$ENDCMP
+#
+$CMP MAX6029EUK50
+D Ultra-Low-Power Precision Series Voltage Reference, 5.000V, SOT-23-5
+K voltage reference ldo
+F https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf
+$ENDCMP
+#
+#End Doc Library
