@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC2C32A-xVQ44
+D Coolrunner-II CPLD, 32 Macrocells, VQFP-44
+K xilinx cpld coolrunner
+F https://www.xilinx.com/support/documentation/data_sheets/ds310.pdf
+$ENDCMP
+#
+$CMP XC2C64A-xVQ44
+D Coolrunner-II CPLD, 64 Macrocells, VQFP-44
+K xilinx cpld coolrunner
+F https://www.xilinx.com/support/documentation/data_sheets/ds311.pdf
+$ENDCMP
+#
+#End Doc Library

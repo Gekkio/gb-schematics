@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8428
+D Single Low Noise, Low Gain Drift, G=2000 Instrumentation Amplifier, SOIC-8
+K single instrumentation amplifier
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8428.PDF
+$ENDCMP
+#
+#End Doc Library

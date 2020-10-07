@@ -1,0 +1,242 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2114H-1.2
+D 1.2V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP AP2114H-1.5
+D 1.5V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP AP2114H-1.8
+D 1.8V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP AP2114H-2.5
+D 2.5V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP AP2114H-3.3
+D 3.3V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP AP2138N-1.2
+D 1.2V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-1.5
+D 1.5V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-1.8
+D 1.8V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-2.5
+D 2.5V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-3.3
+D 3.3V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP BA3258HFP
+D 3.3V/1.5V 1A, Dual Output Fixed Output LDO Regulator, HRP5
+K dual regulator LDO
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf
+$ENDCMP
+#
+$CMP BA33D15HFP
+D 3.3V/1.5V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5
+K dual regulator LDO
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf
+$ENDCMP
+#
+$CMP BA33D18HFP
+D 3.3V/1.8V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5
+K dual regulator LDO
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf
+$ENDCMP
+#
+$CMP IR3E02
+D LCD bias regulator, original Game Boy (DMG)
+K gameboy lcd bias regulator
+$ENDCMP
+#
+$CMP LN1132PxxxM
+D 300mA Low Dropout CMOS Voltage Regulator, SOT-23-3
+K regulator LDO
+F http://www.natlinear.com/uploadfiles/2014/LN/LN1132_E.pdf
+$ENDCMP
+#
+$CMP LT1965xDD
+D 1.1A, Adjustable, Low Noise, Low Dropout Linear Regulator, DFN-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xDD-1.5
+D 1.1A, 1.5V, Low Noise, Low Dropout Linear Regulator, DFN-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xDD-1.8
+D 1.1A, 1.8V, Low Noise, Low Dropout Linear Regulator, DFN-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xDD-2.5
+D 1.1A, 2.5V, Low Noise, Low Dropout Linear Regulator, DFN-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xDD-3.3
+D 1.1A, 3.3V, Low Noise, Low Dropout Linear Regulator, DFN-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xMS8E
+D 1.1A, Adjustable, Low Noise, Low Dropout Linear Regulator, MSOP-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xMS8E-1.5
+D 1.1A, 1.5V, Low Noise, Low Dropout Linear Regulator, MSOP-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xMS8E-1.8
+D 1.1A, 1.8V, Low Noise, Low Dropout Linear Regulator, MSOP-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xMS8E-2.5
+D 1.1A, 2.5V, Low Noise, Low Dropout Linear Regulator, MSOP-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xMS8E-3.3
+D 1.1A, 3.3V, Low Noise, Low Dropout Linear Regulator, MSOP-8
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xQ
+D 1.1A, Adjustable, Low Noise, Low Dropout Linear Regulator, TO-263 (DDPAK)
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xQ-1.5
+D 1.1A, 1.5V, Low Noise, Low Dropout Linear Regulator, TO-263 (DDPAK)
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xQ-1.8
+D 1.1A, 1.8V, Low Noise, Low Dropout Linear Regulator, TO-263 (DDPAK)
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xQ-2.5
+D 1.1A, 2.5V, Low Noise, Low Dropout Linear Regulator, TO-263 (DDPAK)
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xQ-3.3
+D 1.1A, 3.3V, Low Noise, Low Dropout Linear Regulator, TO-263 (DDPAK)
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xT
+D 1.1A, Adjustable, Low Noise, Low Dropout Linear Regulator, TO-220
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xT-1.5
+D 1.1A, 1.5V, Low Noise, Low Dropout Linear Regulator, TO-220
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xT-1.8
+D 1.1A, 1.8V, Low Noise, Low Dropout Linear Regulator, TO-220
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xT-2.5
+D 1.1A, 2.5V, Low Noise, Low Dropout Linear Regulator, TO-220
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP LT1965xT-3.3
+D 1.1A, 3.3V, Low Noise, Low Dropout Linear Regulator, TO-220
+K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
+$ENDCMP
+#
+$CMP MIC5370
+D High-Performance Dual 150mA LDO, MLF-6
+K Micrel LDO voltage regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf
+$ENDCMP
+#
+$CMP NCP605
+D 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6
+K regulator LDO
+F https://www.onsemi.com/pub/Collateral/NCP605-D.PDF
+$ENDCMP
+#
+$CMP NCP606
+D 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6
+K regulator LDO
+F https://www.onsemi.com/pub/Collateral/NCP605-D.PDF
+$ENDCMP
+#
+$CMP SE8117TA
+D 3.3V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP XC6420ABxxMR
+D 150mA Small Dual LDO Regulator with ON/OFF Switch, SOT-23-6
+K dual regulator LDO
+F https://www.torexsemi.com/file/xc6420/XC6420.pdf
+$ENDCMP
+#
+#End Doc Library

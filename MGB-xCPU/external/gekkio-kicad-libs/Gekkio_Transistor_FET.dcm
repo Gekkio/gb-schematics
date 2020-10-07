@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP4953GM
+D Dual P-Channel Enchancement Mode MOSFET, SOIC-8
+K dual mosfet p-channel
+F https://datasheet.lcsc.com/szlcsc/Advanced-Power-Elec-AP4953GM_C6193.pdf
+$ENDCMP
+#
+#End Doc Library
