@@ -1,0 +1,159 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL343
+D 3-Axis MEMS Accelerometer, 2/4/8/16g range, I2C/SPI, LGA-14
+K 3-axis accelerometer i2c spi mems
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf
+$ENDCMP
+#
+$CMP BMF055
+D Custom programmable 9-axis motion sensor
+K 9-axis motion sensor IMU SAMD20 ARM Cortex-M0+
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMF055-DS000.pdf
+$ENDCMP
+#
+$CMP BMI160
+D Small, low power inertial measurement unit, LGA-14
+K Bosh IMU small low power inertial measurement unit
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000.pdf
+$ENDCMP
+#
+$CMP BNO055
+D Intelligent 9-axis absolute orientation sensor, LGA-28
+K IMU, Sensor Fusion, I2C, UART
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST_BNO055_DS000_14.pdf
+$ENDCMP
+#
+$CMP ICM-20602
+D High performance 6-Axis MEMS motion tracking, SPI/I2C interface, LGA-16
+K accelerometer gyro mems motion
+F http://www.invensense.com/wp-content/uploads/2016/10/DS-000176-ICM-20602-v1.0.pdf
+$ENDCMP
+#
+$CMP ICM-20948
+D InvenSense 9-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C/SPI, QFN-24
+K mems magnetometer
+F http://www.invensense.com/wp-content/uploads/2016/06/DS-000189-ICM-20948-v1.3.pdf
+$ENDCMP
+#
+$CMP KX022-1020
+D 3-Axis Accelerometer, 2/4/8g range, 256 byte buffer, I2C/SPI interface, LGA-12
+K 3-axis accelerometer spi i2c mems
+F http://kionixfs.kionix.com/en/datasheet/KX022-1020%20Specifications%20Rev%2012.0.pdf
+$ENDCMP
+#
+$CMP KX122-1042
+D 3-Axis Accelerometer, 2/4/8g range, 2048 byte buffer, I2C/SPI interface, LGA-12
+K 3-axis accelerometer spi i2c mems
+F http://kionixfs.kionix.com/en/datasheet/KX112-1042-Specifications-Rev-6.0.pdf
+$ENDCMP
+#
+$CMP KX222-1054
+D 3-Axis Accelerometer, 8/16/32g range, 2048 byte buffer, I2C/SPI interface, LGA-12
+K 3-axis accelerometer spi i2c mems
+F http://kionixfs.kionix.com/en/datasheet/KX222-1054-Specifications-Rev-2.0.pdf
+$ENDCMP
+#
+$CMP KXTJ3-1057
+D ±2g / 4g / 8g / 16g Tri-Axis Digital Accelerometer, I2C, 1.71-3.6V, LGA-12
+K accelerometer, tri-axis, i2c
+F http://kionixfs.kionix.com/en/datasheet/KXTJ3-1057-Specifications-Rev-5.0.pdf
+$ENDCMP
+#
+$CMP L3GD20
+D [Not recommended for new designs] 16-bit 3 Axis Digital MEMS Gyroscope, LGA-16
+K 3-Axis MEMS Gyroscope
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00036465.pdf
+$ENDCMP
+#
+$CMP LIS2DE12
+D 3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface
+K 3-axis accelerometer spi mems
+F https://www.st.com/resource/en/datasheet/lis2DE12.pdf
+$ENDCMP
+#
+$CMP LIS2DH
+D 3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface
+K 3-axis accelerometer spi mems
+F http://www.st.com/web/en/resource/technical/document/datasheet/DM00042751.pdf
+$ENDCMP
+#
+$CMP LIS2HH12
+D 3-Axis Accelerometer, 2/4/8g range, I2C/SPI interface
+K 3-axis accelerometer spi mems
+F www.st.com/resource/en/datasheet/lis2hh12.pdf
+$ENDCMP
+#
+$CMP LIS331HH
+D 3-Axis Accelerometer, 6/12/24g range, 1000Hz, I2C and SPI interface
+K 3-axis accelerometer spi i2c mems
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00250937.pdf
+$ENDCMP
+#
+$CMP LIS3DH
+D 3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface, LGA-16
+K 3-axis accelerometer i2c spi mems
+F https://www.st.com/resource/en/datasheet/cd00274221.pdf
+$ENDCMP
+#
+$CMP LSM303C
+D I2C/SPI, 3D Accelerometer and 3D Magnetometer
+K Accelerometer Magnetometer MEMS
+F www.st.com/resource/en/datasheet/lsm303c.pdf
+$ENDCMP
+#
+$CMP LSM303D
+D [not recommended for new designs] I2C/SPI, 3D Accelerometer and 3D Magnetometer
+K Accelerometer Magnetometer MEMS
+F http://www.st.com/web/en/resource/technical/document/datasheet/DM00057547.pdf
+$ENDCMP
+#
+$CMP LSM303DLHC
+D [not recommended for new designs] I2C, 3D Accelerometer and 3D Magnetometer
+K Accelerometer Magnetometer MEMS
+F http://www.st.com/web/en/resource/technical/document/datasheet/DM00027543.pdf
+$ENDCMP
+#
+$CMP LSM6DS3
+D I2C/SPI, iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope
+K Accelerometer Gyroscope MEMS
+F www.st.com/resource/en/datasheet/lsm6ds3.pdf
+$ENDCMP
+#
+$CMP LSM9DS1
+D I2C SPI 9 axis IMU accelerometer gyroscope magnetometer
+K I2C SPI IMU accelerometer gyroscope magnetometer
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf
+$ENDCMP
+#
+$CMP MMA8653FCR1
+D 3-Axis 10-bit Digital Accelerometer with I2C interface
+K Accelerometer I2C
+F http://cache.freescale.com/files/sensors/doc/data_sheet/MMA8653FC.pdf
+$ENDCMP
+#
+$CMP MPU-6000
+D InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C/SPI
+K mems
+F https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf
+$ENDCMP
+#
+$CMP MPU-6050
+D InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C
+K mems
+F https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf
+$ENDCMP
+#
+$CMP MPU-9150
+D InvenSense 9-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C
+K mems magnetometer
+F https://www.invensense.com/wp-content/uploads/2015/02/MPU-9150-Datasheet.pdf
+$ENDCMP
+#
+$CMP MPU-9250
+D InvenSense 9-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C/SPI
+K mems magnetometer
+F https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf
+$ENDCMP
+#
+#End Doc Library
