@@ -1,0 +1,104 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD725
+D Low Cost RGB to NTSC/PAL Encoder with Luma Trap Port
+K Video
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD725.pdf
+$ENDCMP
+#
+$CMP AD9708AR
+D Video DAC (32 MHz), SOIC/TSSOP-28
+K DAC CNA VIDEO
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9708.pdf
+$ENDCMP
+#
+$CMP AD9891
+D CCD Signal Processor, 20MHz 10bits, CSPBGA-64
+K CCD Signal Processor
+F https://www.analog.com/static/imported-files/data_sheets/AD9891_9895.pdf
+$ENDCMP
+#
+$CMP AD9895
+D CCD Signal Processor, 30MHz 12bits, CSPBGA-64
+K CCD Signal Processor
+F https://www.analog.com/static/imported-files/data_sheets/AD9891_9895.pdf
+$ENDCMP
+#
+$CMP AD9984AKST
+D High Performance 10-Bit Display Interface 140/170MSPS LQFP
+K 10bit video display interface
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD9984A.pdf
+$ENDCMP
+#
+$CMP AV9173
+D Video Genlock PLL
+K video pll
+F http://www.ibselectronics.com/ibsstore/datasheet/Others/AV9173-01CN08.pdf
+$ENDCMP
+#
+$CMP CXD3400N
+D 6-channel Vertical Clock Driver for CCD Image Sensor, SSOP-20
+K CCD Clock Driver
+F video\cxd3400n.pdf
+$ENDCMP
+#
+$CMP ICX415AQ
+D Diagonal 8mm B/W Progressive Scan CCD Image Sensor with Square Pixel, CERDIP-22
+K CCD B/W Image Sensor
+$ENDCMP
+#
+$CMP MAX310
+D 8-Channel CMOS RF Video Multiplexer
+K video rf
+F https://datasheets.maximintegrated.com/en/ds/MAX310-MAX311.pdf
+$ENDCMP
+#
+$CMP MAX311
+D 8-Channel CMOS RF Video Multiplexer
+K video rf
+F https://datasheets.maximintegrated.com/en/ds/MAX310-MAX311.pdf
+$ENDCMP
+#
+$CMP SAA7182
+D Digital Video Encoder, Obsolete
+K Video Encoder
+F http://rcl-radio.ru/wp-content/uploads/2014/11/SAA7182.pdf
+$ENDCMP
+#
+$CMP TDA8501
+D PAL/NTSC Encoder, RGB or Y/Y-R/Y-B Inputs, DIP/SOIC-20
+K Video Encoder
+F https://assets.nexperia.com/documents/data-sheet/TDA8501.pdf
+$ENDCMP
+#
+$CMP TDA8702
+D 8bit Video DAC (32 MHz), DIP-16
+K DAC CNA VIDEO
+F philips/tda8702.pdf
+$ENDCMP
+#
+$CMP TDA8702T
+D 8bit Video DAC (32 MHz), SOIC-16
+K DAC CNA VIDEO
+F philips/tda8702.pdf
+$ENDCMP
+#
+$CMP TDA8772
+D Triple 8bit Video DAC, QFP-44
+K Video DAC Colour 8bit
+F http://www.pa0qy.nl/pdf/TDA8772.PDF
+$ENDCMP
+#
+$CMP TEA2014
+D Video switching circuite for TV, DIP-8
+K Video switching circuite for TV
+F http://pdf1.alldatasheet.com/datasheet-pdf/view/123244/STMICROELECTRONICS/TEA2014.html
+$ENDCMP
+#
+$CMP TFP410PAP
+D Digital Visual Interface Compliant PanelBus Digital Transmitter, HTQFP-64
+K DVI Encoder Driver
+F http://www.ti.com/lit/ds/symlink/tfp410.pdf
+$ENDCMP
+#
+#End Doc Library

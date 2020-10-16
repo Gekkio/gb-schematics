@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 47C04
+D 4kbit I2C serial EERAM, SRAM with EEPROM backup, 4.5-5.5V, DIP-8/SOIC-8/TSSOP-8
+K 4kb 5V I2C serial EERAM SRAM EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005371C.pdf
+$ENDCMP
+#
+$CMP 47C16
+D 16kbit I2C serial EERAM, SRAM with EEPROM backup, 4.5-5.5V, DIP-8/SOIC-8/TSSOP-8
+K 16kb 5V I2C serial EERAM SRAM EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005371C.pdf
+$ENDCMP
+#
+$CMP 47L04
+D 4kbit I2C serial EERAM, SRAM with EEPROM backup, 2.7-3.6V, DIP-8/SOIC-8/TSSOP-8
+K 4kb 3V I2C serial EERAM SRAM EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005371C.pdf
+$ENDCMP
+#
+$CMP 47L16
+D 16kbit I2C serial EERAM, SRAM with EEPROM backup, 2.7-3.6V, DIP-8/SOIC-8/TSSOP-8
+K 16kb 3V I2C serial EERAM SRAM EEPROM
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005371C.pdf
+$ENDCMP
+#
+$CMP FM1608B-SG
+D 64Kb FRAM nonvolatile memory, SOIC-28
+K FRAM 5V Parallel
+F http://www.cypress.com/file/41731/download
+$ENDCMP
+#
+$CMP FM16W08-SG
+D 64Kb FRAM nonvolatile memory, SOIC-28
+K FRAM 5V Parallel
+F http://www.cypress.com/file/41731/download
+$ENDCMP
+#
+$CMP FM1808B-SG
+D 256k FRAM nonvolatile memory, SOIC-28
+K FRAM 5V Parallel
+F http://www.cypress.com/file/136521/download
+$ENDCMP
+#
+$CMP FM18W08-SG
+D 256k FRAM nonvolatile memory, SOIC-28
+K FRAM 5V Parallel
+F http://www.cypress.com/file/136521/download
+$ENDCMP
+#
+$CMP FM24C64B
+D 64Kb serial FRAM nonvolatile Memory, SOIC-8
+K FRAM I2C Serial 5V FRAM NVRAM
+F http://www.cypress.com/file/41651/download
+$ENDCMP
+#
+$CMP FM24C64C
+D 64Kb serial FRAM nonvolatile Memory, SOIC-8
+K FRAM I2C Serial 5V FRAM NVRAM
+F http://www.cypress.com/file/41651/download
+$ENDCMP
+#
+$CMP MB85RS128B
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS16
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS1MT
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS256B
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS2MT
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS512T
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf
+$ENDCMP
+#
+$CMP MB85RS64
+D FRAM memory with SPI interface, SOIC-8 SON-8
+K FRAM SPI 3.3V
+F http://www.fujitsu.com/downloads/MICRO/fme/fram/datasheet-MB85RS64.pdf
+$ENDCMP
+#
+$CMP MR20H40
+D 4Mb MRAM memory with SPI interface, DFN-8
+K MRAM SPI EEPROM 3.3V
+F https://www.everspin.com/file/217/download
+$ENDCMP
+#
+$CMP MR25H40
+D 4Mb MRAM memory with SPI interface, DFN-8
+K MRAM SPI EEPROM 3.3V
+F https://www.everspin.com/file/217/download
+$ENDCMP
+#
+#End Doc Library
