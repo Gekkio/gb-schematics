@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GameBoy_Transformer_DMG
+D Power Transformer, original Game Boy (DMG)
+K gameboy dc transformer
+$ENDCMP
+#
+#End Doc Library

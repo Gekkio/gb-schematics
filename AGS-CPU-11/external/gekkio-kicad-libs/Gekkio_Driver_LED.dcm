@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BCR401W
+D LED Driver, SC-82
+K led driver
+F https://www.infineon.com/dgdl/Infineon-BCR401W-DS-v02_00-en.pdf?fileId=db3a30431400ef68011407b0f84a0188
+$ENDCMP
+#
+#End Doc Library
