@@ -1,0 +1,321 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 9 10
+Title "AGS-CPU-11 - EXT2 port"
+Date "2020-10-16"
+Rev "A"
+Comp "https://gekkio.fi"
+Comment1 "https://github.com/Gekkio/gb-schematics"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic_Shielded:Conn_01x06_Shielded P3
+U 1 1 5BD76175
+P 4800 3750
+F 0 "P3" H 4887 3665 50  0000 L CNN
+F 1 "EXT2" H 4887 3574 50  0000 L CNN
+F 2 "" H 4800 3750 50  0001 C CNN
+F 3 "~" H 4800 3750 50  0001 C CNN
+	1    4800 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 4250 4600 4250
+Wire Wire Line
+	4600 4250 4600 4050
+Wire Wire Line
+	4150 4250 4600 4250
+Connection ~ 4600 4250
+Wire Wire Line
+	4600 3650 4500 3650
+Wire Wire Line
+	4500 3650 4500 4050
+Wire Wire Line
+	4500 4050 4150 4050
+Wire Wire Line
+	3750 4250 3550 4250
+Wire Wire Line
+	3550 4250 3550 4350
+$Comp
+L power:GND #PWR0102
+U 1 1 5BD7677E
+P 3550 4350
+F 0 "#PWR0102" H 3550 4100 50  0001 C CNN
+F 1 "GND" H 3555 4177 50  0000 C CNN
+F 2 "" H 3550 4350 50  0001 C CNN
+F 3 "" H 3550 4350 50  0001 C CNN
+	1    3550 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Fuse F1
+U 1 1 5BD7695E
+P 2850 4050
+F 0 "F1" V 2653 4050 50  0000 C CNN
+F 1 "Fuse" V 2744 4050 50  0000 C CNN
+F 2 "" V 2780 4050 50  0001 C CNN
+F 3 "~" H 2850 4050 50  0001 C CNN
+	1    2850 4050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3000 4050 3100 4050
+Wire Wire Line
+	2350 4050 2500 4050
+$Comp
+L Connector:TestPoint TP105
+U 1 1 5BD76F5F
+P 3700 2450
+F 0 "TP105" H 3758 2570 50  0000 L CNN
+F 1 "P31" H 3758 2479 50  0000 L CNN
+F 2 "" H 3900 2450 50  0001 C CNN
+F 3 "~" H 3900 2450 50  0001 C CNN
+	1    3700 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:FerriteBead EM4
+U 1 1 5BD7716C
+P 3350 2550
+F 0 "EM4" V 3076 2550 50  0000 C CNN
+F 1 "FerriteBead" V 3167 2550 50  0000 C CNN
+F 2 "" V 3280 2550 50  0001 C CNN
+F 3 "~" H 3350 2550 50  0001 C CNN
+	1    3350 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:FerriteBead EM5
+U 1 1 5BD77791
+P 3350 3000
+F 0 "EM5" V 3076 3000 50  0000 C CNN
+F 1 "FerriteBead" V 3167 3000 50  0000 C CNN
+F 2 "" V 3280 3000 50  0001 C CNN
+F 3 "~" H 3350 3000 50  0001 C CNN
+	1    3350 3000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:FerriteBead EM6
+U 1 1 5BD777F7
+P 3350 3450
+F 0 "EM6" V 3076 3450 50  0000 C CNN
+F 1 "FerriteBead" V 3167 3450 50  0000 C CNN
+F 2 "" V 3280 3450 50  0001 C CNN
+F 3 "~" H 3350 3450 50  0001 C CNN
+	1    3350 3450
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP106
+U 1 1 5BD779D8
+P 3700 2900
+F 0 "TP106" H 3758 3020 50  0000 L CNN
+F 1 "P33" H 3758 2929 50  0000 L CNN
+F 2 "" H 3900 2900 50  0001 C CNN
+F 3 "~" H 3900 2900 50  0001 C CNN
+	1    3700 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP107
+U 1 1 5BD77A0A
+P 3700 3350
+F 0 "TP107" H 3758 3470 50  0000 L CNN
+F 1 "P34" H 3758 3379 50  0000 L CNN
+F 2 "" H 3900 3350 50  0001 C CNN
+F 3 "~" H 3900 3350 50  0001 C CNN
+	1    3700 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3500 2550 3700 2550
+Wire Wire Line
+	4500 3550 4600 3550
+Wire Wire Line
+	3700 2450 3700 2550
+Wire Wire Line
+	4500 2550 3700 2550
+Connection ~ 3700 2550
+Wire Wire Line
+	4500 2550 4500 3550
+Wire Wire Line
+	3500 3000 3700 3000
+Wire Wire Line
+	4400 3000 4400 3750
+Wire Wire Line
+	4400 3750 4600 3750
+Wire Wire Line
+	3700 2900 3700 3000
+Connection ~ 3700 3000
+Wire Wire Line
+	3700 3000 4400 3000
+Wire Wire Line
+	3500 3450 3700 3450
+Wire Wire Line
+	3700 3450 3700 3350
+Wire Wire Line
+	3700 3450 4300 3450
+Connection ~ 3700 3450
+Wire Wire Line
+	4300 3450 4300 3850
+Wire Wire Line
+	4300 3850 4600 3850
+$Comp
+L Connector:TestPoint TP104
+U 1 1 5BD78FD6
+P 3100 3950
+F 0 "TP104" H 3158 4070 50  0000 L CNN
+F 1 "P32" H 3158 3979 50  0000 L CNN
+F 2 "" H 3300 3950 50  0001 C CNN
+F 3 "~" H 3300 3950 50  0001 C CNN
+	1    3100 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 3950 3100 4050
+Connection ~ 3100 4050
+Wire Wire Line
+	3100 4050 3750 4050
+$Comp
+L Device:Filter_EMI_LL EM8
+U 1 1 5C317637
+P 3950 4150
+F 0 "EM8" H 3950 4431 50  0000 C CNN
+F 1 "Filter_EMI_LL" H 3950 4340 50  0000 C CNN
+F 2 "" V 3950 4190 50  0000 C CNN
+F 3 "~" H 3950 4343 50  0001 C CNN
+	1    3950 4150
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 3950 4400 3950
+Wire Wire Line
+	4400 3950 4400 5250
+$Comp
+L Connector:TestPoint TP108
+U 1 1 5DF673F2
+P 4500 5150
+F 0 "TP108" H 4558 5270 50  0000 L CNN
+F 1 "P35" H 4558 5179 50  0000 L CNN
+F 2 "" H 4700 5150 50  0001 C CNN
+F 3 "~" H 4700 5150 50  0001 C CNN
+	1    4500 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Q_NPN_BEC Q11
+U 1 1 5DF6881D
+P 5200 5250
+F 0 "Q11" H 5391 5296 50  0000 L CNN
+F 1 "2SD1819A" H 5391 5205 50  0000 L CNN
+F 2 "" H 5400 5350 50  0001 C CNN
+F 3 "~" H 5200 5250 50  0001 C CNN
+	1    5200 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 5150 4500 5250
+Wire Wire Line
+	4400 5250 4500 5250
+Connection ~ 4500 5250
+$Comp
+L power:GND #PWR0119
+U 1 1 5DF6C02A
+P 5300 5550
+F 0 "#PWR0119" H 5300 5300 50  0001 C CNN
+F 1 "GND" H 5305 5377 50  0000 C CNN
+F 2 "" H 5300 5550 50  0001 C CNN
+F 3 "" H 5300 5550 50  0001 C CNN
+	1    5300 5550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 5550 5300 5450
+Text HLabel 5400 4950 2    50   Output ~ 0
+SW
+Wire Wire Line
+	5400 4950 5300 4950
+Wire Wire Line
+	5300 4950 5300 5050
+$Comp
+L power:+2V5 #PWR0120
+U 1 1 5DF71897
+P 4850 4750
+F 0 "#PWR0120" H 4850 4600 50  0001 C CNN
+F 1 "+2V5" H 4865 4923 50  0000 C CNN
+F 2 "" H 4850 4750 50  0001 C CNN
+F 3 "" H 4850 4750 50  0001 C CNN
+	1    4850 4750
+	1    0    0    -1  
+$EndComp
+Text HLabel 3100 2550 0    50   Input ~ 0
+LOUT
+Wire Wire Line
+	3100 2550 3200 2550
+Text HLabel 3100 3000 0    50   Input ~ 0
+ROUT
+Wire Wire Line
+	3100 3000 3200 3000
+Wire Wire Line
+	4850 5250 5000 5250
+Connection ~ 4850 5250
+Wire Wire Line
+	4500 5250 4850 5250
+$Comp
+L Device:R R42
+U 1 1 5DF679FF
+P 4850 5000
+F 0 "R42" H 4780 4954 50  0000 R CNN
+F 1 "1M" H 4780 5045 50  0000 R CNN
+F 2 "" V 4780 5000 50  0001 C CNN
+F 3 "~" H 4850 5000 50  0001 C CNN
+	1    4850 5000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4850 5150 4850 5250
+Wire Wire Line
+	4850 4850 4850 4750
+$Comp
+L Connector:TestPoint TP109
+U 1 1 60D2D9C0
+P 5300 4800
+F 0 "TP109" H 5358 4918 50  0000 L CNN
+F 1 "SW" H 5358 4827 50  0000 L CNN
+F 2 "" H 5500 4800 50  0001 C CNN
+F 3 "~" H 5500 4800 50  0001 C CNN
+	1    5300 4800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 4800 5300 4950
+Connection ~ 5300 4950
+Wire Wire Line
+	3100 3450 3200 3450
+Text HLabel 3100 3450 0    50   UnSpc ~ 0
+AGND
+Text HLabel 2350 4050 0    50   Output ~ 0
+EXT_VIN
+$Comp
+L power:PWR_FLAG #FLG0109
+U 1 1 5F90AD8B
+P 2500 3950
+F 0 "#FLG0109" H 2500 4025 50  0001 C CNN
+F 1 "PWR_FLAG" H 2500 4123 50  0000 C CNN
+F 2 "" H 2500 3950 50  0001 C CNN
+F 3 "~" H 2500 3950 50  0001 C CNN
+	1    2500 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2500 3950 2500 4050
+Connection ~ 2500 4050
+Wire Wire Line
+	2500 4050 2700 4050
+$EndSCHEMATC

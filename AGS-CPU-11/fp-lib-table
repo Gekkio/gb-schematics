@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name Capacitor_SMD)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Capacitor_SMD.pretty)(options "")(descr ""))
+  (lib (name Diode_SMD)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Diode_SMD.pretty)(options "")(descr ""))
+  (lib (name Inductor_SMD)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Inductor_SMD.pretty)(options "")(descr ""))
+  (lib (name LED_SMD)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/LED_SMD.pretty)(options "")(descr ""))
+  (lib (name Package_QFP)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Package_QFP.pretty)(options "")(descr ""))
+  (lib (name Package_SO)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Package_SO.pretty)(options "")(descr ""))
+  (lib (name Package_TO_SOT_SMD)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Package_TO_SOT_SMD.pretty)(options "")(descr ""))
+  (lib (name Resistor_SMD)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Resistor_SMD.pretty)(options "")(descr ""))
+  (lib (name Gekkio_Package_QFP)(type KiCad)(uri ${KIPRJMOD}/external/gekkio-kicad-libs/Gekkio_Package_QFP.pretty)(options "")(descr ""))
+  (lib (name Gekkio_Package_SO)(type KiCad)(uri ${KIPRJMOD}/external/gekkio-kicad-libs/Gekkio_Package_SO.pretty)(options "")(descr ""))
+  (lib (name Gekkio_Package_TO_SOT_SMD)(type KiCad)(uri ${KIPRJMOD}/external/gekkio-kicad-libs/Gekkio_Package_TO_SOT_SMD.pretty)(options "")(descr ""))
+)
