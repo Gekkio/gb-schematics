@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MM1581
+D Lithium-Ion Battery Charge Control, TSSOP-16
+K battery charge controller
+F https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf
+$ENDCMP
+#
+#End Doc Library
