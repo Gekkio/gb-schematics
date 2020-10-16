@@ -33,3 +33,25 @@ Components were identified by desoldering and measuring everything on MGB-ECPU-0
 </a>
 
 [Raw notes of MGB-ECPU-01 board components](MGB-xCPU/MGB-ECPU-01.txt)
+
+## Game Boy Advance SP AGS-001 mainboard (AGS-CPU-11)
+
+Components were identified by desoldering and measuring everything on a AGS-CPU-11 board.
+
+**Note: there are several versions of Advance SP mainboards, and these schematics have accurate information only for AGS-CPU-11**
+
+<a href="AGS-CPU-11/schematic/AGS-CPU-11.pdf">
+
+  ![](AGS-CPU-11.png)
+
+  Game Boy Advance SP AGS-001 mainboard (AGS-CPU-11) schematics
+
+</a>
+
+<a href="AGS-CPU-11/AGS-CPU-11.svg">
+
+  ![](AGS-CPU-11/AGS-CPU-11.png)
+
+  Traced AGS-CPU-11 board SVG
+
+</a>
