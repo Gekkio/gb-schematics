@@ -2109,6 +2109,12 @@ Text Label 4100 3450 0    50   ~ 0
 TP[0..9]
 Wire Bus Line
 	4100 3450 4000 3450
+Text Label 5800 2750 2    50   ~ 0
+LDR[1..5]
+Text Label 5800 3350 2    50   ~ 0
+LDG[1..5]
+Text Label 5800 3950 2    50   ~ 0
+LDB[1..5]
 Wire Bus Line
 	5800 3950 5800 4350
 Wire Bus Line
@@ -2127,10 +2133,4 @@ Wire Bus Line
 	6750 2000 6750 3500
 Wire Bus Line
 	10900 1600 10900 4300
-Text Label 5800 2750 2    50   ~ 0
-LDR[1..5]
-Text Label 5800 3350 2    50   ~ 0
-LDG[1..5]
-Text Label 5800 3950 2    50   ~ 0
-LDB[1..5]
 $EndSCHEMATC
