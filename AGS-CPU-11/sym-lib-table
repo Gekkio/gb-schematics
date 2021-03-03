@@ -16,5 +16,6 @@
   (lib (name Gekkio_Switch)(type Legacy)(uri ${KIPRJMOD}/external/gekkio-kicad-libs/Gekkio_Switch.lib)(options "")(descr ""))
   (lib (name Gekkio_CPU_Nintendo)(type Legacy)(uri ${KIPRJMOD}/external/gekkio-kicad-libs/Gekkio_CPU_Nintendo.lib)(options "")(descr ""))
   (lib (name Gekkio_Memory_RAM)(type Legacy)(uri ${KIPRJMOD}/external/gekkio-kicad-libs/Gekkio_Memory_RAM.lib)(options "")(descr ""))
+  (lib (name Gekkio_Transformer)(type Legacy)(uri ${KIPRJMOD}/external/gekkio-kicad-libs/Gekkio_Transformer.lib)(options "")(descr ""))
   (lib (name AGS-CPU-11)(type Legacy)(uri ${KIPRJMOD}/AGS-CPU-11.lib)(options "")(descr ""))
 )

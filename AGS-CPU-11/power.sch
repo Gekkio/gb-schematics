@@ -497,40 +497,40 @@ $EndComp
 $Comp
 L Connector:TestPoint TP?
 U 1 1 5C6A12DD
-P 3500 4950
+P 3650 4950
 AR Path="/5C6A12DD" Ref="TP?"  Part="1" 
 AR Path="/5C677C54/5C6A12DD" Ref="TP21"  Part="1" 
-F 0 "TP21" H 3500 5275 50  0000 C CNN
-F 1 "T16" H 3500 5184 50  0000 C CNN
-F 2 "" H 3700 4950 50  0001 C CNN
-F 3 "~" H 3700 4950 50  0001 C CNN
-	1    3500 4950
+F 0 "TP21" H 3650 5275 50  0000 C CNN
+F 1 "T16" H 3650 5184 50  0000 C CNN
+F 2 "" H 3850 4950 50  0001 C CNN
+F 3 "~" H 3850 4950 50  0001 C CNN
+	1    3650 4950
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:R R?
 U 1 1 5C6A12E6
-P 3850 4950
+P 4000 4950
 AR Path="/5C6A12E6" Ref="R?"  Part="1" 
 AR Path="/5C677C54/5C6A12E6" Ref="R52"  Part="1" 
-F 0 "R52" V 3643 4950 50  0000 C CNN
-F 1 "200R" V 3734 4950 50  0000 C CNN
-F 2 "" V 3780 4950 50  0001 C CNN
-F 3 "~" H 3850 4950 50  0001 C CNN
-	1    3850 4950
+F 0 "R52" V 3793 4950 50  0000 C CNN
+F 1 "200R" V 3884 4950 50  0000 C CNN
+F 2 "" V 3930 4950 50  0001 C CNN
+F 3 "~" H 4000 4950 50  0001 C CNN
+	1    4000 4950
 	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR?
 U 1 1 5C6A12ED
-P 3100 5350
+P 3250 5350
 AR Path="/5C6A12ED" Ref="#PWR?"  Part="1" 
 AR Path="/5C677C54/5C6A12ED" Ref="#PWR0125"  Part="1" 
-F 0 "#PWR0125" H 3100 5100 50  0001 C CNN
-F 1 "GND" H 3105 5177 50  0000 C CNN
-F 2 "" H 3100 5350 50  0001 C CNN
-F 3 "" H 3100 5350 50  0001 C CNN
-	1    3100 5350
+F 0 "#PWR0125" H 3250 5100 50  0001 C CNN
+F 1 "GND" H 3255 5177 50  0000 C CNN
+F 2 "" H 3250 5350 50  0001 C CNN
+F 3 "" H 3250 5350 50  0001 C CNN
+	1    3250 5350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -629,16 +629,16 @@ F 3 "~" H 2500 6300 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x04_Counter_Clockwise T?
+L Gekkio_Transformer:GameBoy_Transformer_AGS T?
 U 1 1 5C6A1342
-P 2700 4850
+P 2950 5050
 AR Path="/5C6A1342" Ref="T?"  Part="1" 
 AR Path="/5C677C54/5C6A1342" Ref="T1"  Part="1" 
-F 0 "T1" H 2750 5167 50  0000 C CNN
-F 1 "Conn_02x04_Counter_Clockwise" H 2750 5076 50  0000 C CNN
-F 2 "" H 2700 4850 50  0001 C CNN
-F 3 "~" H 2700 4850 50  0001 C CNN
-	1    2700 4850
+F 0 "T1" H 2950 5575 50  0000 C CNN
+F 1 "GameBoy_Transformer_AGS" H 2950 5484 50  0000 C CNN
+F 2 "" H 2950 5050 50  0001 C CNN
+F 3 "~" H 2950 5050 50  0001 C CNN
+	1    2950 5050
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -882,34 +882,9 @@ Wire Wire Line
 	4650 4950 4650 4350
 Connection ~ 4450 4950
 Wire Wire Line
-	4450 4950 4000 4950
+	4450 4950 4150 4950
 Wire Wire Line
-	3700 4950 3500 4950
-Connection ~ 3500 4950
-Wire Wire Line
-	3000 4950 3500 4950
-Wire Wire Line
-	3000 4750 3100 4750
-Wire Wire Line
-	3100 4750 3100 5350
-NoConn ~ 3000 5050
-NoConn ~ 3000 4850
-Wire Wire Line
-	2500 4950 2400 4950
-Wire Wire Line
-	2400 4950 2400 5050
-Wire Wire Line
-	2400 5050 2500 5050
-Connection ~ 2400 5050
-Wire Wire Line
-	2500 4850 2400 4850
-Wire Wire Line
-	2400 4850 2400 4750
-Wire Wire Line
-	2400 4750 2500 4750
-Wire Wire Line
-	2400 4750 2000 4750
-Connection ~ 2400 4750
+	3850 4950 3650 4950
 $Comp
 L Connector:TestPoint TP19
 U 1 1 5C8A4790
@@ -1476,8 +1451,6 @@ Wire Wire Line
 Connection ~ 3350 2300
 Wire Wire Line
 	3350 2300 3450 2300
-Text Notes 2350 4450 0    50   ~ 0
-TODO: proper symbol
 Text Notes 2600 1300 0    50   ~ 0
 TODO: proper symbol
 $Comp
@@ -1620,4 +1593,32 @@ Text GLabel 7000 2350 2    50   Input ~ 0
 -15V
 Wire Wire Line
 	7000 2350 7000 2250
+Wire Wire Line
+	3150 5150 3250 5150
+Wire Wire Line
+	3250 5150 3250 5350
+Wire Wire Line
+	3150 4950 3650 4950
+Connection ~ 3650 4950
+Wire Wire Line
+	2750 5350 2550 5350
+Wire Wire Line
+	2550 5350 2550 5050
+Wire Wire Line
+	2550 5050 2400 5050
+Connection ~ 2400 5050
+Wire Wire Line
+	2550 5050 2550 4950
+Wire Wire Line
+	2550 4950 2750 4950
+Connection ~ 2550 5050
+Wire Wire Line
+	2000 4750 2650 4750
+Wire Wire Line
+	2750 5150 2650 5150
+Wire Wire Line
+	2650 5150 2650 4750
+Connection ~ 2650 4750
+Wire Wire Line
+	2650 4750 2750 4750
 $EndSCHEMATC
