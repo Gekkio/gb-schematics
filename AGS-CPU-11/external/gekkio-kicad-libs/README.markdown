@@ -131,6 +131,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_SW_DPST | Double Pole Single Throw (DPST) Switch | [Datasheet](~) |
 | GameBoy_SW_SP3T | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
 | GameBoy_SW_SPDT | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
+| GameBoy_Transformer_AGS | Power Transformer, Game Boy Advance SP (AGS) |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
 | IR3E02 | LCD bias regulator, original Game Boy (DMG) |  |
 | IR3R53N | Audio amplifier, Game Boy Pocket (MGB), SSOP-18 |  |
