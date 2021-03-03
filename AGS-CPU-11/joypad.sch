@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 10
 Title "AGS-CPU-11 - Joypad"
-Date "2020-10-16"
-Rev "A"
+Date "2021-03-03"
+Rev "B"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/Gekkio/gb-schematics"
 Comment2 ""
