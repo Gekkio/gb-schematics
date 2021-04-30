@@ -48,6 +48,8 @@ Components were identified by desoldering and measuring everything on a AGS-CPU-
 
 </a>
 
+[Raw notes of AGS-CPU-11 board components](AGS-CPU-11/AGS-CPU-11.txt)
+
 <a href="AGS-CPU-11/AGS-CPU-11.svg">
 
   ![](AGS-CPU-11/AGS-CPU-11.png)

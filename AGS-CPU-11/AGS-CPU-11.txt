@@ -1,0 +1,262 @@
+C/AGS-CPU-11
+0.87mm board thickness
+
+R1: 0402, 1.5M (1.501M)
+R2: 0402, 2.2K (2.199K)
+R3: 0402, 18K (18.07K)
+R4: 0402, 100K (100.9K)
+R5: 0402, 100K (100.1K)
+R6: 0402, 100K (99.7K)
+R7: 0402, 100K (100.7K)
+R8: 0402, 20K (19.96K)
+R9: 0402, 200K (202.1K)
+R10: 0402, 47K (47.61K)
+R11: 0402, 47K (46.82K)
+R12: 0402, 47K (47.03K)
+R13: 0402, 47K (47.04K)
+R14: 0402, 47K (47.40K)
+R15: 0402, 47K (46.98K)
+R16: 0402, 180K (179.5K)
+R17: 0402, 3K (3.002K)
+R18: 0402, 56R (56.8R)
+R19: 0402, 56R (56.2R)
+R20: 0402, 270R (274.2R)
+R21: 0402, 680R (0.687K)
+R22: 0402, 240R (239.7R)
+R23: 0805, 1R (1.0R)
+R24: 0402, 1.1K (1.103K)
+R25: 0402, 18K (18.09K)
+R26: 0402, 1.3K (1.306K)
+R27: 0402, 10K (10.04K)
+R28: 0402, 10K (10.08K)
+R29: 0402, 1K (0.997 K)
+R30: -
+R31: -
+R32: 0402, 1.3K (1.295K)
+R33: 0402, 20K (20.01K)
+R34: 0402, 1.3K (1.310K)
+R35: 0402, 1.3R (1.3R)
+R36: 0402, 1.3R (1.3R)
+R37: 0402, 2.49R (2.5R)
+R38: 0402, 33R (33.2R)
+R39: 0402, 2.2K (2.233K)
+R40: 0402, 10K (9.999K)
+R41: -
+R42: 0402, 1M (0.997M)
+R43: -
+R44: 0402, 47R (47.3R)
+R45: 0402, 47R (47.3R)
+R46: 0402, 15R (15.4R)
+R47: 0402, 102R (101.2R)
+R48: 0402, 1K (1.001K)
+R49: 0402, 4.7K (4.748K)
+R50: 0402, 7.5K (7.52K)
+R51: 0402, 10K (10.03K)
+R52: 0402, 200R (200.2R)
+R53: 0402, 15R (15.1R)
+R54: 0402, 15R (15.2R)
+C1: 0402, 27 pF
+C2: 0402, 34 pF
+C3: 0402, 102 nF
+C4: 0603, 760 nF
+C5: 0603, 946 nF
+C6: 0402, ???
+C7: 0603, 2.6 uF
+C8: 0402, 97 pF
+C9: 0402, 96 pF
+C10: 0402, 96 pF
+C11: 0402, 111 nF
+C12: 0402, 116 nF
+C13: 0402, 106 nF
+C14: 0402, 530 pF
+C15: 0402, 112 pF
+C16: 0402, 1130 pF
+C17: 0402, 530 pF
+C18: 0402, 112 pF
+C19: 0402, 1130 pF
+C20: 0402, 115 nF
+C21: 0402, 108 nF
+C22: 0402, 97 nF
+C23: 0402, 98 nF
+C24: 0603, 934 nF
+C25: 0402, 106 nF
+C26: 0402, 112 nF
+C27: 0402, 110 nF
+C28: 0603, 1005 nF
+C29: 0603, ???
+C30: 0603, ???
+C31: 0402, 114 nF
+C32: 0603, 1010 nF
+C33: 0402, 50 nF
+C34: 0402, 554 pF
+C35: -
+C36: 0603, 1028 nF
+C37: 0805, 4564 nF
+C38: 0805, 4669 nF
+C39: 0805, 4552 nF
+C40: 0805, 9867 nF
+C41: 1206, 23.86 uF
+C42: 0805, 9603 nF
+C43: 0402, 525 nF
+C44: 0402, 477 nF
+C45: 0805, 1049 nF
+C46: 0805, 1046 nF
+C47: 0402, 10.56 nF
+C48: 0402, 10.52 nF
+C49: 0402, 10.38 nF
+C50: 0402, 10.52 nF
+C51: 0402, 115 nF
+C52: 0402, 92.45 nF
+C53: 0402, 86.45 nF
+C54: 0402, 101 nF
+C55: 0402, 106 nF
+C56: 0402, 108 nF
+C57: 0402, 81 nF
+C58: 0402, 101 nF
+C59: 0402, 113 nF
+C60: 0402, 102 nF
+C61: 0402, 101 nF
+C62: 0402, 116 nF
+C63: 0402, 103 nF
+C64: 0402, 101 nF
+C65: 0402, 99 nF
+C66: 0402, 93 nF
+C67: 0402, 103 nF
+C68: 0402, 107 nF
+C69: 0402, 1155 nF
+C70: 0402, 119 nF
+C71: 0402, 89 nF
+C72: 0603, 1071 nF
+C73: 0402, 10.19 nF
+C74: 0402, 10.62 nF
+C75: 0402, 98 nF
+C76: -
+C77: 0402, 128 nF
+F1: 0603, "23"
+F2: 0603, "23"
+EM1: 6-pin
+EM2: 6-pin
+EM3: 0603
+EM4: 0603
+EM5: 0603
+EM6: 0603
+EM7: 0603
+EM8: 4-pin
+D1: SMA?, "2W", Vf=0.262V @ 5mA
+D2: SOD323, "2K" Vf=0.202V @ 5mA
+D3: SOD323, "2K", Vf=0.200V @ 5mA
+D4: SOD323, "2K"
+D5: -
+D6: SOD323, "1B", VF=0.685V @ 5mA
+SW1:
+SW2:
+SW3:
+VR1:
+VR2:
+P3:
+P5:
+X1:
+CP1: 115.5 uF
+Q1: SOT-89-3, "H 08 R", PNP BCE HFE=207@ Ic5mA
+  VBe = 0.704V @ Ib=5mA
+  VCESat= 0.008V @ IC=5mA, Ib=1mA
+  ICleak=0 mA
+Q2: SC70-3, "76", PNP Digital BJT, BEC, HFE=80 @ Ic5mA
+  Vi(on)=3.374V @ IC = 5mA
+  Vi(off) = 1.896V @ IC=0.1 mA
+  VCESAT = 0.152V @ IC=5mA, IB=0.09 mA, VBE=5.0V
+  ICleak=0 mA
+  Rinput=41600 ohm
+  Rshunt=19300 ohm
+Q3: SC70-3, "G26", N-Ch Enhancement MOSFET, GSD with body diode
+  VGS(on)=1.072V @ Id=5.02mA Ig=0uA
+  VGS(off)=0.605V @ Id=4.7uA
+  gm=48.8mA/V @ Id=3.0mA to 5.0mA
+  Rds(on) < 1.0ohm @ Id=5.0mA, VGS=8.0V
+Q4: SC70-3, "76", PNP Digital BJT, BEC, HFE=83 @ Ic5mA, DTA144W
+  Vi(on)=3.529V @ IC = 5mA
+  Vi(off) = 1.904V @ IC=0.09mA
+  VCESAT = 0.153V @ IC=5mA, IB=0.08 mA, VBE=5.0V
+  ICleak=0 mA
+  Rinput=46400 ohm
+  Rshunt=20800 ohm
+Q5: SC70-3, "H22", P-Ch Enchancement MOSFET, GSD with body diode
+  VGS(on)=1.261V @ Id=4.98mA Ig=0uA
+  VGS(off)=0.796V @ Id=4.8uA
+  gm=48.5mA/V @ Id=3.0mA to 5.0mA
+  Rds(on) = 1.1 ohm @ Id=5.0mA, VGS=8.0V
+Q6: SC70-3, "Z R", NPN Silicon BJT, BEC, HFE=295 @ Ic=5.06 mA
+  VBE=0.773V @ Ib=5.00mA
+  VCEsat = 0.022V @ Ic=5.0mA Ib=1.00mA
+  Icleak=0.000mA
+Q7: SC70-3, "6E", PNP BEC
+Q8: SC70-3, "8D", NPN Digital BJT, BEC, HFE=174 @ Ic5.02mA
+  Vi(on)=0.956 @ IC = 5.03mA
+  Vi(off) = 0.700V @ IC=0.11mA
+  VCESAT = 0.033V @ IC=5.0mA, IB=0.46mA, VBE=5.0V
+  ICleak=0 mA
+  Rinput=9030 ohm
+  Rshunt=44400 ohm
+Q11: SC70-3, "Z R", NPN Silicon BJT, BEC, HFE=272 @ Ic=5.09 mA
+  VBE=0.769V @ Ib=5.00mA
+  VCEsat = 0.023V @ Ic=5.0mA Ib=1.00mA
+  Icleak=0.000mA
+Q12: SC70-3: "6E", PNP BEC
+RA1: 330R
+DA1: SC70-3, "MC", Diode series pair
+  2 (K), 3(A)
+  Vf=0.805V @ 5.00mA
+  1 (A), 3(K)
+  Vf=0.725V @ 5.00mA
+DA2: SC70-3, "MC"
+  3 (K), 1(A)
+  Vf=0.721V @ 5.00mA
+  3 (A), 2(K)
+  Vf=0.803V @ 5.00mA
+L1: 31.6 uH, 0.38R @ 200 kHz, "330"
+L2: 97.6 uH, 0.90R @ 200 kHz, "101"
+DL1: LED 0603, red, 1.806V @ 5mA
+DL2: LED 0603, green, 1.922 V @ 5mA
+DL3: LED 0603, orange, 1.879 V @ 5mA
+U3: AMP AGB IR3R60N 0413N
+U4: S6403 CU4B2 5239, SSOP-16 (4.4x5.2P0.65)
+U5: 415 1581A, SSOP-16 (4.4x5.2P0.65)
+U6: "MH", "C", VSSOP-8 (2.4x2.1P0.5)
+U7: "WBE", "AY", SC70-6, dual P MOSFET
+  P-Ch enhancement MOSFET, 1s2g6d
+  VGSon=0.884V @ Id=4.99mA, Ig=0uA
+  Vgsoff=0.525V @ Id=5.3uA, gm=60.1 mA/V @ Id=3.0 mA to 5.0mA
+  Rdson<1.0 ohm@ Id=5.0mA, Vgs=8.0V
+  with body diode
+
+  3d4s5g
+  VGSon=0.848V @ Id=4.99mA, Ig=0uA
+  Vgsoff=0.484V @ Id=5.1uA, gm=60.3mA/V @ Id=3.0 mA to 5.0mA
+  Rdson< 1.0 ohm @ Id=5.0mA, Vgs=8.0V
+  with body diode
+U8: "5H", SC70-6, Dual NPN
+  NPN silicon BJT, 1e2b6c, hFE=290 @ Ic=5.12mA
+  VBE=0.769V @ Ib=5.00mA
+  VCEsat = 0.025V @ Ic=5.0mA Ib=1.00mA
+  Icleak=0.000mA
+
+  NPN silicon BJT, 3c4e5b, hFE=309 @ Ic=5.03mA
+  VBE=0.762V @ Ib=5.00mA
+  VCEsat = 0.022V @ Ic=5.0mA Ib=1.00mA
+  Icleak=0.000mA
+U9: "6F", SC70-6, NPN+PNP
+  NPN digital BJT, 1e2b6c, hFE=112 @ Ic=5.07mA
+  Vi(on)=0.910 @ IC = 5.02mA
+  Vi(off) = 0.667V @ IC=0.11mA
+  VCESAT = 0.035V @ IC=5.0mA, IB=0.89mA, VBE=5.0V
+  ICleak=0 mA
+  Rinput=4410 ohm
+  Rshunt=42400 ohm
+
+  PNP digital BJT, 3c4e5b, hFE=148 @ Ic=5.02mA
+  Vi(on)=0.847 @ IC = 4.96mA
+  Vi(off) = 0.646V @ IC=0.09mA
+  VCESAT = 0.055V @ IC=5.0mA, IB=0.36mA, VBE=5.0V
+  ICleak=0 mA
+  Rinput=4380 ohm
+  Rshunt=42200 ohm
