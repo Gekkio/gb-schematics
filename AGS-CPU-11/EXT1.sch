@@ -67,14 +67,14 @@ $EndComp
 $Comp
 L Device:R_Pack04 RA?
 U 1 1 5BD74727
-P 2750 3700
+P 3500 3700
 AR Path="/5BD74727" Ref="RA?"  Part="1" 
 AR Path="/5BD73A5E/5BD74727" Ref="RA1"  Part="1" 
-F 0 "RA1" V 2333 3700 50  0000 C CNN
-F 1 "330R" V 2424 3700 50  0000 C CNN
-F 2 "" V 3025 3700 50  0001 C CNN
-F 3 "~" H 2750 3700 50  0001 C CNN
-	1    2750 3700
+F 0 "RA1" V 3083 3700 50  0000 C CNN
+F 1 "330R" V 3174 3700 50  0000 C CNN
+F 2 "" V 3775 3700 50  0001 C CNN
+F 3 "~" H 3500 3700 50  0001 C CNN
+	1    3500 3700
 	0    1    1    0   
 $EndComp
 Wire Wire Line
@@ -119,15 +119,13 @@ F 3 "~" H 4800 4250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2950 3500 4800 3500
+	3700 3500 4800 3500
 Wire Wire Line
 	4800 3500 4800 4100
 Wire Wire Line
-	2950 3600 4350 3600
+	3700 3600 4350 3600
 Wire Wire Line
-	2950 3700 3900 3700
-Wire Wire Line
-	2950 3800 3450 3800
+	3700 3700 3900 3700
 Connection ~ 4800 3500
 Wire Wire Line
 	4800 3500 5200 3500
@@ -149,15 +147,15 @@ Wire Wire Line
 Wire Wire Line
 	4800 4400 5400 4400
 Connection ~ 4800 4400
-Text GLabel 3350 3100 0    50   Input ~ 0
+Text GLabel 2900 3100 0    50   Input ~ 0
 VDD35
-Text HLabel 2550 3500 0    50   UnSpc ~ 0
+Text HLabel 2850 3500 0    50   UnSpc ~ 0
 SO
-Text HLabel 2550 3600 0    50   UnSpc ~ 0
+Text HLabel 2850 3600 0    50   UnSpc ~ 0
 SI
-Text HLabel 2550 3700 0    50   UnSpc ~ 0
+Text HLabel 2850 3700 0    50   UnSpc ~ 0
 SD
-Text HLabel 2550 3800 0    50   UnSpc ~ 0
+Text HLabel 2850 3800 0    50   UnSpc ~ 0
 SC
 Wire Wire Line
 	7000 4000 6800 4000
@@ -185,7 +183,7 @@ Wire Wire Line
 Wire Wire Line
 	5300 3500 6400 3500
 Wire Wire Line
-	3350 3100 3450 3100
+	2900 3100 3000 3100
 Wire Wire Line
 	6400 3300 5200 3300
 Wire Wire Line
@@ -225,24 +223,19 @@ Wire Wire Line
 $Comp
 L Device:R R?
 U 1 1 61574D8A
-P 3450 3250
+P 3000 3300
 AR Path="/61574D8A" Ref="R?"  Part="1" 
 AR Path="/5BD73A5E/61574D8A" Ref="R7"  Part="1" 
-F 0 "R7" H 3520 3296 50  0000 L CNN
-F 1 "100k" H 3520 3205 50  0000 L CNN
-F 2 "" V 3380 3250 50  0001 C CNN
-F 3 "~" H 3450 3250 50  0001 C CNN
-	1    3450 3250
+F 0 "R7" H 3070 3346 50  0000 L CNN
+F 1 "100k" H 3070 3255 50  0000 L CNN
+F 2 "" V 2930 3300 50  0001 C CNN
+F 3 "~" H 3000 3300 50  0001 C CNN
+	1    3000 3300
 	1    0    0    -1  
 $EndComp
-Connection ~ 3450 3100
+Connection ~ 3000 3100
 Wire Wire Line
-	3450 3100 6400 3100
-Wire Wire Line
-	3450 3400 3450 3800
-Connection ~ 3450 3800
-Wire Wire Line
-	3450 3800 5200 3800
+	3000 3100 6400 3100
 $Comp
 L Device:C C?
 U 1 1 5BD746F4
@@ -256,4 +249,21 @@ F 3 "~" H 7200 4250 50  0001 C CNN
 	1    7200 4250
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3700 3800 5200 3800
+Wire Wire Line
+	2850 3800 3000 3800
+Wire Wire Line
+	3000 3800 3000 3450
+Connection ~ 3000 3800
+Wire Wire Line
+	3000 3800 3300 3800
+Wire Wire Line
+	2850 3500 3300 3500
+Wire Wire Line
+	2850 3600 3300 3600
+Wire Wire Line
+	2850 3700 3300 3700
+Wire Wire Line
+	3000 3150 3000 3100
 $EndSCHEMATC
