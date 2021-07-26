@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 10
 Title "AGS-CPU-11 - Power"
-Date "2021-03-03"
-Rev "B"
+Date "2021-07-26"
+Rev "C"
 Comp "https://gekkio.fi"
 Comment1 "https://github.com/Gekkio/gb-schematics"
 Comment2 ""
