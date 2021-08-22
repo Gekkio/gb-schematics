@@ -1,0 +1,147 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT42QT1010-M
+D Single-key Touch Sensor, UDFN-8
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001946A.pdf
+$ENDCMP
+#
+$CMP AT42QT1010-TSHR
+D Single-key Touch Sensor, SOT-23-6
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001946A.pdf
+$ENDCMP
+#
+$CMP AT42QT1011-M
+D Single-key Touch Sensor, UDFN-8
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001947A.pdf
+$ENDCMP
+#
+$CMP AT42QT1011-TSHR
+D Single-key Touch Sensor, SOT-23-6
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001947A.pdf
+$ENDCMP
+#
+$CMP AT42QT1012-M
+D Single-Key Touch Sensor IC, UDFN-8
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001948A.pdf
+$ENDCMP
+#
+$CMP AT42QT1012-T
+D Single-Key Touch Sensor IC, SOT-23-6
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/40001948A.pdf
+$ENDCMP
+#
+$CMP AT42QT1040-M
+D Four-key Touch Sensor IC, VQFN-20
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9524-AT42-QTouch-BSW-AT42QT1040_Datasheet.pdf
+$ENDCMP
+#
+$CMP AT42QT1050-M
+D Five-Key Touch Sensor, VQFN-20
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9707-AT42-QTouch-BSW-AT42QT1050_Datasheet.pdf
+$ENDCMP
+#
+$CMP AT42QT1050-U
+D Five-Key Touch Sensor, WLCSP-12
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9707-AT42-QTouch-BSW-AT42QT1050_Datasheet.pdf
+$ENDCMP
+#
+$CMP AT42QT1060-M
+D Six-Key Touch Sensor IC, VQFN-28
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9505-AT42-QTouch-BSW-AT42QT1060_Datasheet.pdf
+$ENDCMP
+#
+$CMP AT42QT1070-M
+D Seven-key Touch Sensor IC, VQFN-20
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9596-AT42-QTouch-BSW-AT42QT1070_Datasheet.pdf
+$ENDCMP
+#
+$CMP AT42QT1070-S
+D Seven-key Touch Sensor IC, SOIC-14
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9596-AT42-QTouch-BSW-AT42QT1070_Datasheet.pdf
+$ENDCMP
+#
+$CMP AT42QT1110-M
+D 11-Key Touch Sensor IC, VQFN-32
+K Touch QTouch Sensor Key
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-9520-AT42-QTouch-BSW-AT42QT1110_Datasheet.pdf
+$ENDCMP
+#
+$CMP CAP1206-x-AIA
+D 6-Channel Capacitive Touch Sensor, DFN-10
+K 6 Channel Capacitive Touch Sensor
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001567B.pdf
+$ENDCMP
+#
+$CMP CAP1206-x-SL
+D 6-Channel Capacitive Touch Sensor, SOIC-14
+K 6 Channel Capacitive Touch Sensor
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001567B.pdf
+$ENDCMP
+#
+$CMP CY8CMBR3002
+D CapSense Controller, 2 Sensors, SOIC-8
+K Touch Sensor 2ch
+F http://www.cypress.com/?docID=49119
+$ENDCMP
+#
+$CMP CY8CMBR3102
+D CapSense Controller, 2 Sensors, SOIC-8
+K Touch Sensor 2ch
+F http://www.cypress.com/?docID=49119
+$ENDCMP
+#
+$CMP CY8CMBR3106S
+D CapSense Controller, 16 Sensors w/ Slider, QFN-24+EP
+K Touch Sensor 16ch Slider
+F http://www.cypress.com/?docID=49119
+$ENDCMP
+#
+$CMP CY8CMBR3108
+D CapSense Controller, 8 Sensors, QFN-16+EP
+K Touch Sensor 8ch
+F http://www.cypress.com/?docID=49119
+$ENDCMP
+#
+$CMP CY8CMBR3110
+D CapSense Controller, 10 Sensors, SOIC-16
+K Touch Sensor 10ch
+F http://www.cypress.com/?docID=49119
+$ENDCMP
+#
+$CMP CY8CMBR3116
+D CapSense Controller, 16 Sensors, QFN-24+EP
+K Touch Sensor 16ch
+F http://www.cypress.com/?docID=49119
+$ENDCMP
+#
+$CMP MPR121QR2
+D 12ch Touch Sensor controller, UQFN-20
+K Touch Sensor 12ch
+F https://resurgentsemi.com/wp-content/uploads/2018/09/MPR121_rev5-Resurgent.pdf?d453f8&d453f8
+$ENDCMP
+#
+$CMP PCA8886
+D Dual capacitive touch/proximity switch with auto-calibration, TSSOP-16
+K NXP capacitive touch sensor auto-calibration
+F http://www.nxp.com/docs/en/data-sheet/PCA8886.pdf
+$ENDCMP
+#
+$CMP PCF8883
+D Capacitive touch/proximity switch with auto-calibration, SOIC-8/WLCSP-8
+K NXP capacitive touch sensor auto-calibration
+F http://www.nxp.com/docs/en/data-sheet/PCF8883.pdf
+$ENDCMP
+#
+#End Doc Library

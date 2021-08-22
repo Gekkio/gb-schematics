@@ -1,0 +1,327 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP APA-106-F5
+D RGB LED with integrated controller, 5mm Package
+K RGB LED addressable 8bit pwm 5bit greyscale
+F https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf
+$ENDCMP
+#
+$CMP APA102
+D RGB LED with integrated controller
+K RGB LED addressable 8bit pwm 5bit greyscale
+F http://www.led-color.com/upload/201506/APA102%20LED.pdf
+$ENDCMP
+#
+$CMP APA102-2020
+D RGB LED with integrated controller
+K RGB LED addressable 8bit pwm 5bit greyscale
+F http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
+$ENDCMP
+#
+$CMP APFA3010
+D LED RGB, Common Anode, SMD, 3.0x1.5mm, Horizontal
+K LED RGB SMD Kingbright APFA3010 Horizontal
+F http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf
+$ENDCMP
+#
+$CMP ASMB-MTB0-0A3A2
+D Tricolor Black Surface LED, Common Anode Pin 1, PLCC-4
+K led rgb diode
+F https://docs.broadcom.com/docs/AV02-4186EN
+$ENDCMP
+#
+$CMP ASMB-MTB1-0A3A2
+D Tricolor Black Surface LED, Common Anode Pin 4, PLCC-4
+K led rgb diode
+F https://docs.broadcom.com/docs/AV02-4194EN
+$ENDCMP
+#
+$CMP ASMT-YTB7-0AA02
+D Triple LED RVB (Avago Technology)
+K LED RGB
+F https://docs.broadcom.com/docs/AV02-3793EN
+$ENDCMP
+#
+$CMP ASMT-YTC2-0AA02
+D Triple LED RVB (Avago Technology)
+K LED RGB
+F http://www.avagotech.com/docs/AV02-2589EN
+$ENDCMP
+#
+$CMP CLS6B-FKW
+D Cree PLCC6 3 in 1 SMD LED, PLCC-6
+K LED RGB
+F https://www.cree.com/led-components/media/documents/CLS6B-FKW.pdf
+$ENDCMP
+#
+$CMP CLV1L-FKB
+D Cree PLCC4 3 in 1 SMD LED
+K led rgb diode
+F http://www.cree.com/led-components/media/documents/CLV1L-FKB-1238.pdf
+$ENDCMP
+#
+$CMP CQY99
+D 950nm IR-LED, 5mm
+K IR LED
+F https://www.prtice.info/IMG/pdf/CQY99.pdf
+$ENDCMP
+#
+$CMP HDSP-4830
+D 10-element LED arrays, high effecient red
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HDSP-4830_2
+D BAR GRAPH 10 segment block, high efficiency red
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HDSP-4832
+D 10-element LED arrays, Mix of high effecient red, yellow and green
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HDSP-4832_2
+D BAR GRAPH 10 segment block, Mix of high efficiency red, yellow and green
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HDSP-4836
+D 10-element LED arrays, Mix of high effecient red, yellow and green
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HDSP-4836_2
+D BAR GRAPH 10 segment block, Mix of high efficiency red, yellow and green
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HDSP-4840
+D 10-element LED arrays, Yellow
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HDSP-4840_2
+D BAR GRAPH 10 segment block, yellow
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HDSP-4850
+D 10-element LED arrays, Green
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HDSP-4850_2
+D BAR GRAPH 10 segment block, green
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HLCP-J100
+D 10-element LED arrays, AIGaAs Red
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP HLCP-J100_2
+D BAR GRAPH 10 segment block, AlGaAs red
+K display LED array
+F https://docs.broadcom.com/docs/AV02-1798EN
+$ENDCMP
+#
+$CMP IR204A
+D Infrared LED , 3mm LED package
+K opto IR LED
+F http://www.everlight.com/file/ProductFile/IR204-A.pdf
+$ENDCMP
+#
+$CMP IR26-21C_L110_TR8
+D 940nm, 20 deg, Infrared LED, 1206
+K IR LED
+F http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf
+$ENDCMP
+#
+$CMP IRL81A
+D 850nm High Power Infrared Emitter, Side-Emitter package
+K IR LED
+F http://www.osram-os.com/Graphics/XPic0/00203825_0.pdf
+$ENDCMP
+#
+$CMP Inolux_IN-PI554FCH
+D 5050 RGB LED 4-Pin with integrated IC
+K RGB LED NeoPixel addressable
+F http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf
+$ENDCMP
+#
+$CMP Inolux_IN-PI556FCH
+D 5050 RGB LED 6-Pin with integrated IC
+K RGB LED NeoPixel addressable
+F http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI556FCH.pdf
+$ENDCMP
+#
+$CMP LD271
+D 940nm IR-LED, 5mm
+K IR LED
+F http://www.alliedelec.com/m/d/40788c34903a719969df15f1fbea1056.pdf
+$ENDCMP
+#
+$CMP LD274
+D 950nm IR-LED, 5mm
+K IR LED
+F http://pdf.datasheetcatalog.com/datasheet/siemens/LD274.pdf
+$ENDCMP
+#
+$CMP LED_Cree_XHP50_12V
+D XLamp® XHP50 LED, 12V footprint (all 4 LEDs in series)
+K led diode
+F http://www.cree.com/%7E/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf
+$ENDCMP
+#
+$CMP LED_Cree_XHP50_6V
+D XLamp® XHP50 LED, 6V footprint (2x2 serial LEDs in parallel)
+K led diode
+F http://www.cree.com/%7E/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP50.pdf
+$ENDCMP
+#
+$CMP LED_Cree_XHP70_12V
+D XLamp® XHP70 LED, 12V footprint (all 4 LEDs in series)
+K led diode
+F http://www.cree.com/%7E/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
+$ENDCMP
+#
+$CMP LED_Cree_XHP70_6V
+D XLamp® XHP70 LED, 6V footprint (2x2 serial LEDs in parallel)
+K led diode
+F http://www.cree.com/%7E/media/Files/Cree/LED%20Components%20and%20Modules/XLamp/Data%20and%20Binning/ds%20XHP70.pdf
+$ENDCMP
+#
+$CMP NeoPixel_THT
+D RGB LED with integrated controller, 5mm/8mm LED package
+K RGB LED NeoPixel addressable
+F https://www.adafruit.com/product/1938
+$ENDCMP
+#
+$CMP QLS6A-FKW
+D Cree PLCC6 3 in 1 SMD LED with zener protection, PLCC-6
+K LED RGB
+F https://www.cree.com/led-components/media/documents/1381-QLS6AFKW.pdf
+$ENDCMP
+#
+$CMP QLS6B-FKW
+D Cree PLCC6 3 in 1 SMD LED, PLCC-6
+K LED RGB
+F https://www.cree.com/led-components/media/documents/1397-QLS6BFKW.pdf
+$ENDCMP
+#
+$CMP SFH4346
+D Infrared LED , 3mm LED package
+K opto IR LED
+F http://cdn-reichelt.de/documents/datenblatt/A500/SFH4346.pdf
+$ENDCMP
+#
+$CMP SFH4356P
+D Infrared LED , 3mm LED package
+K opto IR LED
+F http://www.osram-os.com/Graphics/XPic5/00181708_0.pdf
+$ENDCMP
+#
+$CMP SFH4546
+D High-Power IR LED 940nm
+K IR LED
+F http://www.osram-os.com/Graphics/XPic1/00101982_0.pdf
+$ENDCMP
+#
+$CMP SFH4550
+D 950nm High-Power IR-LED, 5mm
+K IR LED
+F http://www.osram-os.com/Graphics/XPic3/00116140_0.pdf
+$ENDCMP
+#
+$CMP SFH460
+D GaAlAs Infrared LED, TO-18 package
+K opto IR LED
+F http://www.osram-os.com/Graphics/XPic6/00029609_0.pdf/SFh%20460.pdf
+$ENDCMP
+#
+$CMP SFH480
+D GaAlAs Infrared LED (880 nm), TO-18 package
+K IR LED Opto
+F http://www.osram-os.com/Graphics/XPic1/00083613_0.pdf
+$ENDCMP
+#
+$CMP SFH482
+D GaAlAs Infrared LED (880 nm), TO-18 package
+K opto IR LED
+F http://www.osram-os.com/Graphics/XPic2/00182155_0.pdf/SFH%20482%20E7800,%20Lead%20(Pb)%20Free%20Product%20-%20RoHS%20Compliant.pdf
+$ENDCMP
+#
+$CMP SK6805
+D RGB LED with integrated controller
+K RGB LED NeoPixel Nano addressable
+F https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+$ENDCMP
+#
+$CMP SK6812
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
+$ENDCMP
+#
+$CMP SK6812MINI
+D RGB LED with integrated controller
+K RGB LED NeoPixel Mini addressable
+F https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+$ENDCMP
+#
+$CMP SMLVN6RGB
+D High Brightness Tri-Color LED, RGB, 3.5x2.8mm
+K LED RGB Diode
+F https://www.rohm.com/datasheet/SMLVN6RGB1U
+$ENDCMP
+#
+$CMP TSAL4400
+D Infrared LED , 3mm LED package
+K opto IR LED
+F http://www.vishay.com/docs/81006/tsal4400.pdf
+$ENDCMP
+#
+$CMP WS2812
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812.pdf
+$ENDCMP
+#
+$CMP WS2812B
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
+$CMP WS2812S
+D RGB LED with integrated controller
+K RGB LED addressable
+F http://www.world-semi.com/DownLoadFile/115
+$ENDCMP
+#
+$CMP WS2813
+D RGB LED with integrated controller
+K RGB LED addressable
+F http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf
+$ENDCMP
+#
+$CMP WS2822S
+D RGB LED with integrated controller
+K RGB LED addressable
+F http://akizukidenshi.com/download/ds/worldsemi/WS2822S.pdf
+$ENDCMP
+#
+#End Doc Library
