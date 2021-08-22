@@ -1,0 +1,897 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ICE1PCS01
+D Standalone PFC Controller in CCM, DIP-8/SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE1PCS01-DS-v01_03-en.pdf?fileId=db3a304412b407950112b427c6f13cc7
+$ENDCMP
+#
+$CMP ICE1PCS02
+D Standalone PFC Controller in CCM With Input Brown-Out Protection, 65kHz, DIP-8/SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE1PCS02-DS-v01_02-en.pdf?fileId=db3a304412b407950112b427c9283ccb
+$ENDCMP
+#
+$CMP ICE2PCS01
+D Standalone PFC Controller in CCM, DIP-8/SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE2PCS01-DS-v02_03-en.pdf?fileId=db3a304412b407950112b427caa43ccf
+$ENDCMP
+#
+$CMP ICE2PCS02
+D Standalone PFC Controller in CCM With Input Brown-Out Protection, 65kHz, DIP-8/SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE2PCS02-DS-v02_04-en.pdf?fileId=db3a304412b407950112b427cc3c3cdc
+$ENDCMP
+#
+$CMP ICE2PCS03
+D Standalone PFC Controller in CCM With Input Brown-Out Protection, 100kHz, DIP-8/SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE2PCS03-DS-v02_01-en.pdf?fileId=db3a30431936bc4b01193b45457e52a1
+$ENDCMP
+#
+$CMP ICE2PCS04
+D Standalone PFC Controller in CCM With Input Brown-Out Protection, 133kHz, DIP-8/SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE2PCS04-DS-v02_01-en.pdf?fileId=db3a30431936bc4b01193b4e467952a9
+$ENDCMP
+#
+$CMP ICE2PCS05
+D Standalone PFC Controller in CCM, DIP-8/SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE2PCS05-DS-v01_02-en.pdf?fileId=db3a30431c69a49d011cdfb46a834373
+$ENDCMP
+#
+$CMP ICE2PCS06
+D Standalone PFC Controller in CCM With Input Brown-Out Protection, 65kHz, DIP-8/SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE2PCS06-DS-v01_01-en.pdf?fileId=db3a3043327f13e3013285ff4ecb2e77
+$ENDCMP
+#
+$CMP ICE3PCS01
+D Standalone PFC Controller in CCM, SOIC-14
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE3PCS01-DS-v03_00-EN.pdf?fileId=db3a304329a0f6ee0129a67ae8c02b46
+$ENDCMP
+#
+$CMP ICE3PCS02
+D Standalone PFC Controller in CCM, SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE3PCS02G-DS-v03_00-EN.pdf?fileId=db3a304329a0f6ee0129a67fab472b4b
+$ENDCMP
+#
+$CMP ICE3PCS03
+D Standalone PFC Controller in CCM, SOIC-8
+K SMPS pfc controller
+F https://www.infineon.com/dgdl/Infineon-ICE3PCS03G-DS-v03_00-EN.pdf?fileId=db3a304329a0f6ee0129a683c9c92b50
+$ENDCMP
+#
+$CMP IR1153S
+D Fixed 22.2kHz Frequency, uPFC One Cycle Control IC With Brown-Out Protection, Continuous Conduction Mode, SOIC-8
+K pfc controller ccm
+F https://www.infineon.com/dgdl/ir1153.pdf?fileId=5546d462533600a4015355c42a5b1649
+$ENDCMP
+#
+$CMP IR1155S
+D Programmable Frequency, One Cycle Control PFC IC, Continuous Conduction Mode, SOIC-8
+K pfc controller ccm
+F https://www.infineon.com/dgdl/ir1155spbf.pdf?fileId=5546d462533600a4015355c431f9164b
+$ENDCMP
+#
+$CMP IR1161L
+D SmartRectifier Control IC, 500kHz, 200V, 1.0/2.5A, SOT-23-5
+K synchronous rectifier controller
+F https://www.infineon.com/dgdl/ir1161lpbf.pdf?fileId=5546d462533600a4015355c439a5164d
+$ENDCMP
+#
+$CMP IR11662S
+D Advanced SmartRectifier Control IC, 500kHz, 200V, 1.0/4.0A, SOIC-8
+K synchronous rectifier controller
+F https://www.infineon.com/dgdl/ir11662spbf.pdf?fileId=5546d462533600a4015355c44195164f
+$ENDCMP
+#
+$CMP IR11672AS
+D Advanced SmartRectifier Control IC, 500kHz, 200V, 2.0/7.0A, SOIC-8
+K synchronous rectifier controller
+F https://www.infineon.com/dgdl/ir11672aspbf.pdf?fileId=5546d462533600a4015355c455561653
+$ENDCMP
+#
+$CMP IR1167S
+D SmartRectifier Control IC, 500kHz, 200V, 2.0/7.0A, SOIC-8
+K synchronous rectifier controller
+F https://www.infineon.com/dgdl/ir1167aspbf.pdf?fileId=5546d462533600a4015355c45d9c1655
+$ENDCMP
+#
+$CMP IR11682S
+D Dual SmartRectifier Driver IC, 400kHz, 200V, 1.0/4.0A, SOIC-8
+K dual synchronous rectifier controller
+F https://www.infineon.com/dgdl/ir11682spbf.pdf?fileId=5546d462533600a4015355c47188165a
+$ENDCMP
+#
+$CMP IR11688S
+D Dual Synchronous Rectification Control IC, 400kHz, 200V, 1.0/4.0A, SOIC-8
+K dual synchronous rectifier controller
+F https://www.infineon.com/dgdl/ir11688spbf.pdf?fileId=5546d462533600a4015355c47c70165c
+$ENDCMP
+#
+$CMP IR1168S
+D Dual Smart Rectifier Driver IC, 500kHz, 200V, 1.0/4.0A, SOIC-8
+K dual synchronous rectifier controller
+F https://www.infineon.com/dgdl/ir1168.pdf?fileId=5546d462533600a4015355c467fa1658
+$ENDCMP
+#
+$CMP IR1169S
+D Advanced SmartRectifier Control IC, 500kHz, 200V, 1.0/4.0A, SOIC-8
+K synchronous rectifier controller
+F https://www.infineon.com/dgdl/ir1169.pdf?fileId=5546d462533600a4015355c485c4165e
+$ENDCMP
+#
+$CMP IRS2505L
+D Boost PFC and SMPS Control IC, Critical Conduction Mode, SOT-23-5
+K pfc controller crcm dcm
+F https://www.infineon.com/dgdl/irs2505lpbf.pdf?fileId=5546d462533600a40153567ad42c2819
+$ENDCMP
+#
+$CMP ISL6551
+D ZVS Full Bridge PWM Controller, SOIC-28
+K SMPS controller
+F https://www.intersil.com/content/dam/Intersil/documents/isl6/isl6551.pdf
+$ENDCMP
+#
+$CMP L4981A
+D Power Factor Corrector, Fixed Frequency Average Current Mode, DIP-20/SOIC-20
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l4981.pdf
+$ENDCMP
+#
+$CMP L4981B
+D Power Factor Corrector, Line Modulated Frequency Average Current Mode, DIP-20/SOIC-20
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l4981.pdf
+$ENDCMP
+#
+$CMP L4984D
+D CCM PFC Controller, SSOP-10
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l4984d.pdf
+$ENDCMP
+#
+$CMP L6561
+D Transition Mode Power Factor Corrector, DIP-8/SOIC-8
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6561.pdf
+$ENDCMP
+#
+$CMP L6562
+D Transition-Mode PFC Controller, DIP-8/SOIC-8
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6562.pdf
+$ENDCMP
+#
+$CMP L6562A
+D Transition-Mode PFC Controller, DIP-8/SOIC-8
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6562a.pdf
+$ENDCMP
+#
+$CMP L6562AT
+D Transition-Mode PFC Controller, DIP-8/SOIC-8
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6562at.pdf
+$ENDCMP
+#
+$CMP L6563
+D Advanced Transition-Mode PFC Controller, SOIC-14
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6563.pdf
+$ENDCMP
+#
+$CMP L6563A
+D Advanced Transition-Mode PFC Controller, SOIC-14
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6563.pdf
+$ENDCMP
+#
+$CMP L6563H
+D High Voltage Start-Up Transition-Mode PFC, SOIC-16
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6563h.pdf
+$ENDCMP
+#
+$CMP L6563S
+D Enhanced Transition-Mode PFC Controller, SOIC-14
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6563s.pdf
+$ENDCMP
+#
+$CMP L6564
+D 10-Pin Transition-Mode PFC Controller, SSOP-10
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6564.pdf
+$ENDCMP
+#
+$CMP L6564H
+D High Voltage Start-Up Transition-Mode PFC, SOIC-14
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6564h.pdf
+$ENDCMP
+#
+$CMP L6564T
+D 10-Pin Transition-Mode PFC Controller for Outdoor Applications, SSOP-10
+K SMPS pfc controller
+F http://www.st.com/resource/en/datasheet/l6564t.pdf
+$ENDCMP
+#
+$CMP L6598
+D High Voltage Resonant Controller, DIP-16/SOIC-16
+K SMPS controller
+F www.st.com/resource/en/datasheet/l6598.pdf
+$ENDCMP
+#
+$CMP L6599
+D High Voltage Resonant Controller, DIP-16/SOIC-16
+K SMPS controller
+F www.st.com/resource/en/datasheet/l6599.pdf
+$ENDCMP
+#
+$CMP L6727
+D Single Phase PWM Controller, SOIC-8
+K SMPS controller
+F http://www.st.com/resource/en/datasheet/l6727.pdf
+$ENDCMP
+#
+$CMP LM25119
+D Wide Input Range, Dual Synchronous Buck Controller, WQFN-32
+K Dual Synchronous Buck
+F http://www.ti.com/lit/ds/symlink/lm25119.pdf
+$ENDCMP
+#
+$CMP LM5023
+D Quasi-Resonant Current-Mode PWM Controller for Off-Line Supplies, OVP/OTP, Latched OVP, VSSOP-8
+K smps pwm controller ac-dc ac dc offline off-line quasi resonant quasi-resonant flyback
+F https://www.ti.com/lit/ds/symlink/lm5023.pdf
+$ENDCMP
+#
+$CMP LT1248
+D Power Factor Controller, DIP-16/SOIC-16
+K pfc controller
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1248fd.pdf
+$ENDCMP
+#
+$CMP LT1249
+D Power Factor Controller, DIP-8/SOIC-8
+K pfc controller
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1249fbs.pdf
+$ENDCMP
+#
+$CMP LT1509
+D Power Factor and PWM Controller, DIP-20/SOIC-20
+K pfc pwm controller
+F https://www.analog.com/media/en/technical-documentation/data-sheets/lt1509.pdf
+$ENDCMP
+#
+$CMP LT4295xUFD
+D IEEE 802.3bt PD Interface with Forward/Flyback Controller, QFN-28
+K LTPoE++ IEEE 802.3af IEEE 802.3at IEEE 802.3bt
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LT4295.pdf
+$ENDCMP
+#
+$CMP LTC1624CS8
+D High Efficiency N-Channel Switching Regulator Controller, SOIC-8
+K Switching Regulator Controller
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1624f.pdf
+$ENDCMP
+#
+$CMP LTC3805xMSE
+D Adjustable Frequency current Mode Flyback DC/DC controller, MSOP-10
+K flyback dc-dc switcher switching
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3805fg.pdf
+$ENDCMP
+#
+$CMP LTC3890
+D 60V dual 2-phase synchronous step-down DC/DC controller, QFN-32
+K switching buck converter regulator dual-output
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3890fc.pdf
+$ENDCMP
+#
+$CMP LTC3890-1
+D 60V dual 2-phase synchronous step-down DC/DC controller, SSOP-28
+K switching buck converter regulator dual-output
+F https://www.analog.com/media/en/technical-documentation/data-sheets/38901fb.pdf
+$ENDCMP
+#
+$CMP LTC3892
+D 60V dual 2-phase synchronous step-down DC/DC controller, continuous conduction, QFN-32
+K switching buck converter regulator dual-output
+F https://www.analog.com/media/en/technical-documentation/data-sheets/38921fc.pdf
+$ENDCMP
+#
+$CMP LTC3892-1
+D 60V dual 2-phase synchronous step-down DC/DC controller, forced continuous conduction mode, TSSOP-28
+K switching buck converter regulator dual-output
+F https://www.analog.com/media/en/technical-documentation/data-sheets/38921fc.pdf
+$ENDCMP
+#
+$CMP LTC3892-2
+D 60V dual 2-phase synchronous step-down DC/DC controller, pulse-skipping, QFN-32
+K switching buck converter regulator dual-output
+F https://www.analog.com/media/en/technical-documentation/data-sheets/38921fc.pdf
+$ENDCMP
+#
+$CMP LTC7810
+D 150V dual 2-phase synchronous step-down DC/DC controller, LQPF-48
+K switching buck converter regulator dual-output
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf
+$ENDCMP
+#
+$CMP NCP1200D100
+D PWM Current-Mode Controller for Off-Line Supplies, AC-DC, 100kHz, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
+$CMP NCP1200D40
+D PWM Current-Mode Controller for Off-Line Supplies, AC-DC, 40kHz, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
+$CMP NCP1200D60
+D PWM Current-Mode Controller for Off-Line Supplies, AC-DC, 60kHz, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
+$CMP NCP1200P100
+D PWM Current-Mode Controller for Off-Line Supplies, AC-DC, 100kHz, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
+$CMP NCP1200P40
+D PWM Current-Mode Controller for Off-Line Supplies, AC-DC, 40kHz, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
+$CMP NCP1200P60
+D PWM Current-Mode Controller for Off-Line Supplies, AC-DC, 60kHz, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF
+$ENDCMP
+#
+$CMP NCP1203D100
+D PWM Current-Mode Controller for Universal Off-Line Supplies Featuring Standby and Short Circuit Protection, AC-DC, 100kHz, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1203-D.PDF
+$ENDCMP
+#
+$CMP NCP1203D40
+D PWM Current-Mode Controller for Universal Off-Line Supplies Featuring Standby and Short Circuit Protection, AC-DC, 40kHz, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1203-D.PDF
+$ENDCMP
+#
+$CMP NCP1203D60
+D PWM Current-Mode Controller for Universal Off-Line Supplies Featuring Standby and Short Circuit Protection, AC-DC, 60kHz, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1203-D.PDF
+$ENDCMP
+#
+$CMP NCP1203P100
+D PWM Current-Mode Controller for Universal Off-Line Supplies Featuring Standby and Short Circuit Protection, AC-DC, 100kHz, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1203-D.PDF
+$ENDCMP
+#
+$CMP NCP1203P40
+D PWM Current-Mode Controller for Universal Off-Line Supplies Featuring Standby and Short Circuit Protection, AC-DC, 40kHz, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1203-D.PDF
+$ENDCMP
+#
+$CMP NCP1203P60
+D PWM Current-Mode Controller for Universal Off-Line Supplies Featuring Standby and Short Circuit Protection, AC-DC, 60kHz, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1203-D.PDF
+$ENDCMP
+#
+$CMP NCP1207A
+D PWM Current-Mode Controller for Free Running Quasi-Resonant Operation, AC-DC, 8us min Toff, PDIP-8/SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub/Collateral/NCP1207B.PDF
+$ENDCMP
+#
+$CMP NCP1207B
+D PWM Current-Mode Controller for Free Running Quasi-Resonant Operation, AC-DC, 4.5us min Toff, SOIC-7
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub/Collateral/NCP1207B.PDF
+$ENDCMP
+#
+$CMP NCP1217AD100
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 100kHz, 1ms Soft Start, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217AD133
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 133kHz, 1ms Soft Start, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217AD65
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 65kHz, 1ms Soft Start, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217AP100
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 100kHz, 1ms Soft Start, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217AP133
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 133kHz, 1ms Soft Start, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217AP65
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 65kHz, 1ms Soft Start, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217D100
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 100kHz, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217D133
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 133kHz, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217D65
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 65kHz, SOIC-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217P100
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 100kHz, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217P133
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 133kHz, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1217P65
+D Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 65kHz, PDIP-8
+K SMPS Controller AC-DC
+F http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF
+$ENDCMP
+#
+$CMP NCP1280
+D Active Clamp Voltage Mode PWM Controller for Off-Line Applications, SOIC-16
+K SMPS Controller AC-DC
+F https://www.onsemi.com/pub/Collateral/NCP1280-D.PDF
+$ENDCMP
+#
+$CMP NCP1380A
+D Quasi-Resonant Current-Mode Controller for Off-Line Supplies, OVP/OTP, Latched OCP, SOIC-8
+K SMPS Controller AC-DC
+F https://www.onsemi.com/pub/Collateral/NCP1380-D.PDF
+$ENDCMP
+#
+$CMP NCP1380B
+D Quasi-Resonant Current-Mode Controller for Off-Line Supplies, OVP/OTP, Auto-Recovery OCP, SOIC-8
+K SMPS Controller AC-DC
+F https://www.onsemi.com/pub/Collateral/NCP1380-D.PDF
+$ENDCMP
+#
+$CMP NCP1380C
+D Quasi-Resonant Current-Mode Controller for Off-Line Supplies, UVP/OVP, Latched OCP, SOIC-8
+K SMPS Controller AC-DC
+F https://www.onsemi.com/pub/Collateral/NCP1380-D.PDF
+$ENDCMP
+#
+$CMP NCP1380D
+D Quasi-Resonant Current-Mode Controller for Off-Line Supplies, UVP/OVP, Auto-Recovery OCP, SOIC-8
+K SMPS Controller AC-DC
+F https://www.onsemi.com/pub/Collateral/NCP1380-D.PDF
+$ENDCMP
+#
+$CMP NCP1653
+D Compact, Fixed-Frequency, Continuous Conduction Mode PFC Controller, 100kHz, DIP-8/SOIC-8
+K PFC SMPS Controller
+F https://www.onsemi.com/pub/Collateral/NCP1653-D.PDF
+$ENDCMP
+#
+$CMP NCP1653A
+D Compact, Fixed-Frequency, Continuous Conduction Mode PFC Controller, 67kHz, DIP-8/SOIC-8
+K PFC SMPS Controller
+F https://www.onsemi.com/pub/Collateral/NCP1653-D.PDF
+$ENDCMP
+#
+$CMP NCP4308AD
+D Synchronous Rectifier Controller, 4A/8A, 4V UVLO, GaN Capable, SOIC-8
+K synchronous rectifier controller
+F http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF
+$ENDCMP
+#
+$CMP NCP4308AMT
+D Synchronous Rectifier Controller, 4A/8A, 4V UVLO, GaN Capable, WDFN-8
+K synchronous rectifier controller
+F http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF
+$ENDCMP
+#
+$CMP NCP4308DD
+D Synchronous Rectifier Controller, 4A/8A, 4V UVLO, SOIC-8
+K synchronous rectifier controller
+F http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF
+$ENDCMP
+#
+$CMP NCP4308DMN
+D Synchronous Rectifier Controller, 4A/8A, 4V UVLO, DFN-8
+K synchronous rectifier controller
+F http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF
+$ENDCMP
+#
+$CMP NCP4308DMT
+D Synchronous Rectifier Controller, 4A/8A, 4V UVLO, WDFN-8
+K synchronous rectifier controller
+F http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF
+$ENDCMP
+#
+$CMP NCP4308QD
+D Synchronous Rectifier Controller, 4A/8A, 4V UVLO, Max TON, SOIC-8
+K synchronous rectifier controller
+F http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF
+$ENDCMP
+#
+$CMP SG3525
+D Regulating Pulse Width Modulators, NOR Logic, PDIP-16/SOIC-16
+K SMPS PWM Controller
+F www.st.com/resource/en/datasheet/sg3525.pdf
+$ENDCMP
+#
+$CMP SG3527
+D Regulating Pulse Width Modulators, OR Logic, PDIP-16/SOIC-16
+K SMPS PWM Controller
+F https://www.microsemi.com/document-portal/doc_view/11120-sg1525a-sg1527a-datasheet
+$ENDCMP
+#
+$CMP TDA4862
+D Power Factor Controller IC for High Power Factor and Active Harmonic Filter, DIP-8/SOIC-8
+K PFC SMPS Controller
+F https://www.infineon.com/dgdl/Infineon-PFC_DCMICTDA4862G-DS-v02_00-en.pdf?fileId=db3a304412b407950112b417ffae24a3
+$ENDCMP
+#
+$CMP TDA4863
+D Power Factor Controller IC for High Power Factor and Low THD, DIP-8/SOIC-8
+K PFC SMPS Controller
+F https://www.infineon.com/dgdl/Infineon-TDA4863-DS-v02_00-en.pdf?fileId=db3a304412b407950112b427d2d23ce8
+$ENDCMP
+#
+$CMP TDA4863-2
+D Power Factor Controller IC for High Power Factor and Low THD, DIP-8/SOIC-8
+K PFC SMPS Controller
+F https://www.infineon.com/dgdl/Infineon-TDA4863_2-DS-v02_01-en.pdf?fileId=db3a304412b407950112b41802de24ab
+$ENDCMP
+#
+$CMP TL494
+D Pulse-Width-Modulation Control Circuits, PDIP-16/SOIC-16/TSSOP-16
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/tl494.pdf
+$ENDCMP
+#
+$CMP UC3525
+D Regulating Pulse Width Modulators, NOR Logic, PDIP-16/SOIC-16
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc2525b.pdf
+$ENDCMP
+#
+$CMP UC3527
+D Regulating Pulse Width Modulators, OR Logic, PDIP-16/SOIC-16
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc2525b.pdf
+$ENDCMP
+#
+$CMP UC3842_DIP8
+D Current-Mode PWM Controllers, 100% Duty Cycle, 16V/10V UVLO, PDIP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3842_SOIC14
+D Current-Mode PWM Controllers, 100% Duty Cycle, 16V/10V UVLO, SOIC-14
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3842_SOIC16
+D Current-Mode PWM Controllers, 100% Duty Cycle, 16V/10V UVLO, SOIC-16
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc2843a.pdf
+$ENDCMP
+#
+$CMP UC3842_SOIC8
+D Current-Mode PWM Controllers, 100% Duty Cycle, 16V/10V UVLO, SOIC-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3843_DIP8
+D Current-Mode PWM Controllers, 100% Duty Cycle, 8.4V/7.6V UVLO, PDIP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3843_SOIC14
+D Current-Mode PWM Controllers, 100% Duty Cycle, 8.4V/7.6V UVLO, SOIC-14
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3843_SOIC8
+D Current-Mode PWM Controllers, 100% Duty Cycle, 8.4V/7.6V UVLO, SOIC-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3844_DIP8
+D Current-Mode PWM Controllers, 50% Duty Cycle, 16V/10V UVLO, PDIP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3844_SOIC14
+D Current-Mode PWM Controllers, 50% Duty Cycle, 16V/10V UVLO, SOIC-14
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3844_SOIC8
+D Current-Mode PWM Controllers, 50% Duty Cycle, 16V/10V UVLO, SOIC-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3845_DIP8
+D Current-Mode PWM Controllers, 50% Duty Cycle, 8.4V/7.6V UVLO, PDIP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3845_SOIC14
+D Current-Mode PWM Controllers, 50% Duty Cycle, 8.4V/7.6V UVLO, SOIC-14
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3845_SOIC8
+D Current-Mode PWM Controllers, 50% Duty Cycle, 8.4V/7.6V UVLO, SOIC-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/uc3842.pdf
+$ENDCMP
+#
+$CMP UC3854
+D High-Power Factor Preregulator, DIP-16/SOIC-16W
+K PFC SMPS Controller
+F http://www.ti.com/lit/ds/symlink/uc3854.pdf
+$ENDCMP
+#
+$CMP UCC1895J
+D BiCMOS, Advanced Phase-ShiftPWM Controller, CDIP-20
+K Phase-shift full-bridge converter
+F http://www.ti.com/lit/ds/symlink/ucc3895.pdf
+$ENDCMP
+#
+$CMP UCC24610D
+D GREEN Rectifier Controller Device, 600kHz, SOIC-8
+K synchronous rectifier controller
+F http://www.ti.com/lit/ds/symlink/ucc24610.pdf
+$ENDCMP
+#
+$CMP UCC24610DRB
+D GREEN Rectifier Controller Device, 600kHz, DFN-8
+K synchronous rectifier controller
+F http://www.ti.com/lit/ds/symlink/ucc24610.pdf
+$ENDCMP
+#
+$CMP UCC24612-1DBV
+D High Frequency Synchronous Rectifier Controller, 1MHz, Min On Time = 375ns, SOT-23-5
+K synchronous rectifier controller
+F http://www.ti.com/lit/ds/symlink/ucc24612.pdf
+$ENDCMP
+#
+$CMP UCC24612-2DBV
+D High Frequency Synchronous Rectifier Controller, 800kHz, Min On Time = 540ns, SOT-23-5
+K synchronous rectifier controller
+F http://www.ti.com/lit/ds/symlink/ucc24612.pdf
+$ENDCMP
+#
+$CMP UCC24630DBV
+D Synchronous Rectifier Controller, 200kHz, CCM, SOT-23-6
+K synchronous rectifier controller
+F http://www.ti.com/lit/ds/symlink/ucc24630.pdf
+$ENDCMP
+#
+$CMP UCC24636DBV
+D Synchronous Rectifier Controller, 130kHz, DCM/TM, SOT-23-6
+K synchronous rectifier controller
+F http://www.ti.com/lit/ds/symlink/ucc24636.pdf
+$ENDCMP
+#
+$CMP UCC25600
+D High-Performance Resonant Mode Controller, SOIC-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc25600.pdf
+$ENDCMP
+#
+$CMP UCC256301
+D Hybrid Hysteretic LLC Resonant Controller, SOIC-16
+K SMPS PWM Controller
+F https://www.ti.com/lit/ds/symlink/ucc256301.pdf
+$ENDCMP
+#
+$CMP UCC2891
+D SMPS Current-Mode Active Clamp PWM Controller, SOIC-16/TSSOP-16
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc2891.pdf
+$ENDCMP
+#
+$CMP UCC2892
+D SMPS Current-Mode Active Clamp PWM Controller, SOIC-16/TSSOP-16
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc2892.pdf
+$ENDCMP
+#
+$CMP UCC2893
+D SMPS Current-Mode Active Clamp PWM Controller, SOIC-16/TSSOP-16
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc2893.pdf
+$ENDCMP
+#
+$CMP UCC2894
+D SMPS Current-Mode Active Clamp PWM Controller, SOIC-16/TSSOP-16
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc2894.pdf
+$ENDCMP
+#
+$CMP UCC2895DW
+D BiCMOS, Advanced Phase-ShiftPWM Controller, SOIC-20
+K Phase-shift full-bridge converter
+F http://www.ti.com/lit/ds/symlink/ucc3895.pdf
+$ENDCMP
+#
+$CMP UCC2895N
+D BiCMOS, Advanced Phase-ShiftPWM Controller, DIP-20
+K Phase-shift full-bridge converter
+F http://www.ti.com/lit/ds/symlink/ucc3895.pdf
+$ENDCMP
+#
+$CMP UCC2895PW
+D BiCMOS, Advanced Phase-ShiftPWM Controller, TSSOP-20
+K Phase-shift full-bridge converter
+F http://www.ti.com/lit/ds/symlink/ucc3895.pdf
+$ENDCMP
+#
+$CMP UCC2897
+D SMPS Advanced Current-Mode Active Clamp PWM Controller, TSSOP-20/QFN-20
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc2897.pdf
+$ENDCMP
+#
+$CMP UCC3800
+D Low-Power BiCMOS Current-Mode PWM Controllers, 100% Duty Cycle, 7.2V/6.9V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3801
+D Low-Power BiCMOS Current-Mode PWM Controllers, 50% Duty Cycle, 9.4V/7.4V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3802
+D Low-Power BiCMOS Current-Mode PWM Controllers, 100% Duty Cycle, 12.5V/8.3V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3803
+D Low-Power BiCMOS Current-Mode PWM Controllers, 100% Duty Cycle, 4.1V/3.6V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3804
+D Low-Power BiCMOS Current-Mode PWM Controllers, 50% Duty Cycle, 12.5V/8.3V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3805
+D Low-Power BiCMOS Current-Mode PWM Controllers, 50% Duty Cycle, 4.1V/3.6V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3800.pdf
+$ENDCMP
+#
+$CMP UCC3808D
+D Low Power Current Mode Push-Pull PWM, SOIC-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3808-2.pdf
+$ENDCMP
+#
+$CMP UCC3808N
+D Low Power Current Mode Push-Pull PWM, PDIP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3808-2.pdf
+$ENDCMP
+#
+$CMP UCC3813-0
+D Low-Power Economy BiCMOS Current-Mode PWM, 100% Duty Cycle, 7.2V/6.9V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-1
+D Low-Power Economy BiCMOS Current-Mode PWM, 50% Duty Cycle, 9.4V/7.4V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-2
+D Low-Power Economy BiCMOS Current-Mode PWM, 100% Duty Cycle, 12.5V/8.3V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-3
+D Low-Power Economy BiCMOS Current-Mode PWM, 100% Duty Cycle, 4.1V/3.6V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-4
+D Low-Power Economy BiCMOS Current-Mode PWM, 50% Duty Cycle, 12.5V/8.3V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3813-5
+D Low-Power Economy BiCMOS Current-Mode PWM, 50% Duty Cycle, 4.1V/3.6V UVLO, DIP-8/SOIC-8/TSSOP-8
+K SMPS PWM Controller
+F http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf
+$ENDCMP
+#
+$CMP UCC3895DW
+D BiCMOS, Advanced Phase-ShiftPWM Controller, SOIC-20
+K Phase-shift full-bridge converter
+F http://www.ti.com/lit/ds/symlink/ucc3895.pdf
+$ENDCMP
+#
+$CMP UCC3895N
+D BiCMOS, Advanced Phase-ShiftPWM Controller, DIP-20
+K Phase-shift full-bridge converter
+F http://www.ti.com/lit/ds/symlink/ucc3895.pdf
+$ENDCMP
+#
+$CMP UCC3895PW
+D BiCMOS, Advanced Phase-ShiftPWM Controller, TSSOP-20
+K Phase-shift full-bridge converter
+F http://www.ti.com/lit/ds/symlink/ucc3895.pdf
+$ENDCMP
+#
+#End Doc Library

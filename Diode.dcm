@@ -1,0 +1,3231 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1.5KExxA
+D 1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP 1.5KExxCA
+D 1500W bidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP 1N4001
+D 50V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4002
+D 100V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4003
+D 200V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4004
+D 400V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4005
+D 600V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4006
+D 800V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4007
+D 1000V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4148
+D 100V 0.15A standard switching diode, DO-35
+K diode
+F https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+$ENDCMP
+#
+$CMP 1N4148W
+D 75V 0.15A Fast Switching Diode, SOD-123
+K diode
+F https://www.vishay.com/docs/85748/1n4148w.pdf
+$ENDCMP
+#
+$CMP 1N4148WS
+D 75V 0.15A Fast switching Diode, SOD-323
+K diode
+F https://www.vishay.com/docs/85751/1n4148ws.pdf
+$ENDCMP
+#
+$CMP 1N4148WT
+D 75V 0.15A Fast switching Diode, SOD-523
+K diode
+F https://www.diodes.com/assets/Datasheets/ds30396.pdf
+$ENDCMP
+#
+$CMP 1N4149
+D 75V Vrm 0.5A Ifsm standard switching diode, DO-35
+K diode
+F http://www.microsemi.com/document-portal/doc_view/11580-lds-0239
+$ENDCMP
+#
+$CMP 1N4151
+D 75V 0.5A standard switching diode, DO-35
+K diode
+F http://www.microsemi.com/document-portal/doc_view/11580-lds-0239
+$ENDCMP
+#
+$CMP 1N4448
+D 100V 0.15A High-speed standard diode, DO-35
+K diode
+F https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+$ENDCMP
+#
+$CMP 1N4448W
+D 100V 0.15A High-speed standard diode, SOD-123
+K diode
+F https://www.vishay.com/docs/85722/1n4448w.pdf
+$ENDCMP
+#
+$CMP 1N4448WS
+D 75V 0.15A Small Signal Fast switching Diode, SOD-323
+K diode
+F https://www.vishay.com/docs/81387/1n4448ws.pdf
+$ENDCMP
+#
+$CMP 1N4448WT
+D 75V 0.15A Fast switching Diode, SOD-523
+K diode
+F http://www.mouser.com/ds/2/149/1N4148WT-461550.pdf
+$ENDCMP
+#
+$CMP 1N47xxA
+D 1300mW Silicon planar power Zener diodes, DO-41
+K zener diode
+F https://www.vishay.com/docs/85816/1n4728a.pdf
+$ENDCMP
+#
+$CMP 1N53xxB
+D 5000mW Zener Diode, DO-201
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf
+$ENDCMP
+#
+$CMP 1N5400
+D 50V 3A General Purpose Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88516/1n5400.pdf
+$ENDCMP
+#
+$CMP 1N5401
+D 100V 3A General Purpose Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88516/1n5400.pdf
+$ENDCMP
+#
+$CMP 1N5402
+D 200V 3A General Purpose Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88516/1n5400.pdf
+$ENDCMP
+#
+$CMP 1N5403
+D 300V 3A General Purpose Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88516/1n5400.pdf
+$ENDCMP
+#
+$CMP 1N5404
+D 400V 3A General Purpose Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88516/1n5400.pdf
+$ENDCMP
+#
+$CMP 1N5405
+D 500V 3A General Purpose Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88516/1n5400.pdf
+$ENDCMP
+#
+$CMP 1N5406
+D 600V 3A General Purpose Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88516/1n5400.pdf
+$ENDCMP
+#
+$CMP 1N5407
+D 800V 3A General Purpose Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88516/1n5400.pdf
+$ENDCMP
+#
+$CMP 1N5408
+D 1000V 3A General Purpose Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88516/1n5400.pdf
+$ENDCMP
+#
+$CMP 1N5711
+D 70V 33mA Schottky diode, DO-35
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet
+$ENDCMP
+#
+$CMP 1N5711UR
+D 70V 33mA Schottky diode, MELF(DO-213AA)
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet
+$ENDCMP
+#
+$CMP 1N5712
+D 20V 75mA Schottky diode, DO-35
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet
+$ENDCMP
+#
+$CMP 1N5712UR
+D 20V 75mA Schottky diode, MELF(DO-213AA)
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet
+$ENDCMP
+#
+$CMP 1N5817
+D 20V 1A Schottky Barrier Rectifier Diode, DO-41
+K diode Schottky
+F http://www.vishay.com/docs/88525/1n5817.pdf
+$ENDCMP
+#
+$CMP 1N5818
+D 30V 1A Schottky Barrier Rectifier Diode, DO-41
+K diode Schottky
+F http://www.vishay.com/docs/88525/1n5817.pdf
+$ENDCMP
+#
+$CMP 1N5819
+D 40V 1A Schottky Barrier Rectifier Diode, DO-41
+K diode Schottky
+F http://www.vishay.com/docs/88525/1n5817.pdf
+$ENDCMP
+#
+$CMP 1N5820
+D 20V 3A Schottky Barrier Rectifier Diode, DO-201AD
+K diode Schottky
+F http://www.vishay.com/docs/88526/1n5820.pdf
+$ENDCMP
+#
+$CMP 1N5821
+D 30V 3A Schottky Barrier Rectifier Diode, DO-201AD
+K diode Schottky
+F http://www.vishay.com/docs/88526/1n5820.pdf
+$ENDCMP
+#
+$CMP 1N5822
+D 40V 3A Schottky Barrier Rectifier Diode, DO-201AD
+K diode Schottky
+F http://www.vishay.com/docs/88526/1n5820.pdf
+$ENDCMP
+#
+$CMP 1N6263
+D 60V 15mA Schottky diode, DO-35
+K diode Schottky
+F www.st.com/resource/en/datasheet/1n6263.pdf
+$ENDCMP
+#
+$CMP 1N62xxA
+D 1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP 1N62xxCA
+D 1500W bidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP 1N630xA
+D 1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP 1N630xCA
+D 1500W bidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP 1N6857
+D 20V 150mA Schottky diode, DO-35
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet
+$ENDCMP
+#
+$CMP 1N6857UR
+D 20V 150mA Schottky diode, MELF(DO-213AA)
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet
+$ENDCMP
+#
+$CMP 1N6858
+D 70V 75mA Schottky diode, DO-35
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet
+$ENDCMP
+#
+$CMP 1N6858UR
+D 70V 75mA Schottky diode, MELF(DO-213AA)
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet
+$ENDCMP
+#
+$CMP 1N914
+D 100V 0.3A Small Signal Fast Switching Diode, DO-35
+K diode
+F http://www.vishay.com/docs/85622/1n914.pdf
+$ENDCMP
+#
+$CMP 1N914WT
+D 75V 0.15A Fast switching Diode, SOD-523
+K diode
+F http://www.mouser.com/ds/2/149/1N4148WT-461550.pdf
+$ENDCMP
+#
+$CMP 2BZX84Cxx
+D 300mW Double Zener Diode, SOT-23
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf
+$ENDCMP
+#
+$CMP 5KPxxA
+D 5000W unidirectional Transient Voltage Suppressor, P-600
+K diode TVS voltage suppressor
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf
+$ENDCMP
+#
+$CMP 5KPxxCA
+D 5000W bidirectional Transient Voltage Suppressor, P-600
+K diode TVS voltage suppressor
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf
+$ENDCMP
+#
+$CMP B120-E3
+D 20V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)
+K diode Schottky
+F http://www.vishay.com/docs/88946/b120.pdf
+$ENDCMP
+#
+$CMP B130-E3
+D 30V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)
+K diode Schottky
+F http://www.vishay.com/docs/88946/b120.pdf
+$ENDCMP
+#
+$CMP B140-E3
+D 40V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)
+K diode Schottky
+F http://www.vishay.com/docs/88946/b120.pdf
+$ENDCMP
+#
+$CMP B150-E3
+D 50V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)
+K diode Schottky
+F http://www.vishay.com/docs/88946/b120.pdf
+$ENDCMP
+#
+$CMP B160-E3
+D 60V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)
+K diode Schottky
+F http://www.vishay.com/docs/88946/b120.pdf
+$ENDCMP
+#
+$CMP B220
+D 20V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B230
+D 30V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B240
+D 40V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B250
+D 50V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B260
+D 60V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B320
+D 20V 3A Schottky Barrier Rectifier Diode, SMC
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B330
+D 30V 3A Schottky Barrier Rectifier Diode, SMC
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B340
+D 40V 3A Schottky Barrier Rectifier Diode, SMC
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B350
+D 50V 3A Schottky Barrier Rectifier Diode, SMC
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP B360
+D 60V 3A Schottky Barrier Rectifier Diode, SMC
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP BA157
+D 400V 1A Fast recovery Rectifier Diode, DO-41
+K diode
+F http://diotec.com/tl_files/diotec/files/pdf/datasheets/ba157
+$ENDCMP
+#
+$CMP BA158
+D 600V 1A Fast recovery Rectifier Diode, DO-41
+K diode
+F http://diotec.com/tl_files/diotec/files/pdf/datasheets/ba157
+$ENDCMP
+#
+$CMP BA159
+D 1000V 1A Fast recovery Rectifier Diode, DO-41
+K diode
+F http://diotec.com/tl_files/diotec/files/pdf/datasheets/ba157
+$ENDCMP
+#
+$CMP BA243
+D 20V 0.1A silicon planar diode for VHF tuner band selection, DO-35
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/BA243_TFK.pdf
+$ENDCMP
+#
+$CMP BA244
+D 20V 0.1A silicon planar diode for VHF tuner band selection, DO-35
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/BA243_TFK.pdf
+$ENDCMP
+#
+$CMP BA282
+D 35V 0.1A Band Switching Diode, DO-35
+K diode
+F http://docs-europe.electrocomponents.com/webdocs/1304/0900766b813040d6.pdf
+$ENDCMP
+#
+$CMP BA283
+D 35V 0.1A Band Switching Diode, DO-35
+K diode
+F http://docs-europe.electrocomponents.com/webdocs/1304/0900766b813040d6.pdf
+$ENDCMP
+#
+$CMP BAR42FILM
+D 30V 0.1A Small signal Schottky diode, SOT-23
+K diode Schottky
+F www.st.com/resource/en/datasheet/bar42.pdf
+$ENDCMP
+#
+$CMP BAR43FILM
+D 30V 0.1A Small signal Schottky diode, SOT-23
+K diode Schottky
+F www.st.com/resource/en/datasheet/bar43.pdf
+$ENDCMP
+#
+$CMP BAS16TW
+D Fast switching diode array 3 independent
+K diode
+F http://www.diodes.com/datasheets/ds30154.pdf
+$ENDCMP
+#
+$CMP BAS16VY
+D Fast switching diode array 3 independent
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf
+$ENDCMP
+#
+$CMP BAS16W
+D 100V, 0.175A, High-speed Switching Diode, SOT-323
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf
+$ENDCMP
+#
+$CMP BAS19
+D 120V, 0.4A, High-speed Switching Diode, SOT-23
+K diode
+F https://www.diodes.com/assets/Datasheets/Ds12004.pdf
+$ENDCMP
+#
+$CMP BAS20
+D 200V, 0.4A, High-speed Switching Diode, SOT-23
+K diode
+F https://www.diodes.com/assets/Datasheets/Ds12004.pdf
+$ENDCMP
+#
+$CMP BAS21
+D 250V, 0.4A, High-speed Switching Diode, SOT-23
+K diode
+F https://www.diodes.com/assets/Datasheets/Ds12004.pdf
+$ENDCMP
+#
+$CMP BAS316
+D 100V, 0.25A, High-speed Switching Diode, SOD-323
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf
+$ENDCMP
+#
+$CMP BAS40-04
+D 40V 0.2A Dual Small Signal Schottky Diodes
+K Schottky, Diode
+F http://www.vishay.com/docs/85701/bas40v.pdf
+$ENDCMP
+#
+$CMP BAS516
+D 100V, 0.25A, High-speed Switching Diode, SOD-523
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf
+$ENDCMP
+#
+$CMP BAT41
+D 100V 0.1A Small Signal Schottky Diode, DO-35
+K diode Schottky
+F http://www.vishay.com/docs/85659/bat41.pdf
+$ENDCMP
+#
+$CMP BAT42
+D 30V 0.2A Small Signal Schottky Diode, DO-35
+K diode Schottky
+F http://www.vishay.com/docs/85660/bat42.pdf
+$ENDCMP
+#
+$CMP BAT42W-V
+D 30V 0.2A Small Signal Schottky diode, SOD-123
+K diode Schottky
+F http://www.vishay.com/docs/85660/bat42.pdf
+$ENDCMP
+#
+$CMP BAT43
+D 30V 0.2A Small Signal Schottky Diode, DO-35
+K diode Schottky
+F http://www.vishay.com/docs/85660/bat42.pdf
+$ENDCMP
+#
+$CMP BAT43W-V
+D 30V 0.2A Small Signal Schottky diode, SOD-123
+K diode Schottky
+F http://www.vishay.com/docs/85660/bat42.pdf
+$ENDCMP
+#
+$CMP BAT46
+D 100V 0.15A Small Signal Schottky Diode, DO-35
+K diode Schottky
+F http://www.vishay.com/docs/85662/bat46.pdf
+$ENDCMP
+#
+$CMP BAT48JFILM
+D 40V 0.35A Small Signal Schottky Diode, SOD-323
+K diode Schottky
+F www.st.com/resource/en/datasheet/bat48.pdf
+$ENDCMP
+#
+$CMP BAT48RL
+D 40V 0.35A Small Signal Schottky Diode, DO-35
+K diode Schottky
+F www.st.com/resource/en/datasheet/bat48.pdf
+$ENDCMP
+#
+$CMP BAT48ZFILM
+D 40V 0.35A Small Signal Schottky Diode, SOD-123
+K diode Schottky
+F www.st.com/resource/en/datasheet/bat48.pdf
+$ENDCMP
+#
+$CMP BAT54A
+D schottky barrier diode
+K schottky diode
+F http://www.diodes.com/_files/datasheets/ds11005.pdf
+$ENDCMP
+#
+$CMP BAT54ADW
+D Schottky diode array 2 pair Com A
+K diode
+F http://www.diodes.com/datasheets/ds30152.pdf
+$ENDCMP
+#
+$CMP BAT54AW
+D Dual schottky barrier diode, common anode, SOT-323
+K dual schottky diode
+F https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf
+$ENDCMP
+#
+$CMP BAT54C
+D dual schottky barrier diode, common cathode
+K schottky diode common cathode
+F http://www.diodes.com/_files/datasheets/ds11005.pdf
+$ENDCMP
+#
+$CMP BAT54CW
+D Dual schottky barrier diode, common cathode, SOT-323
+K dual schottky diode
+F https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf
+$ENDCMP
+#
+$CMP BAT54J
+D 30V 200mA Schottky diode, SOD-323F
+K diode Schottky
+F https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf
+$ENDCMP
+#
+$CMP BAT54S
+D schottky barrier diode
+K schottky diode
+F https://www.diodes.com/assets/Datasheets/ds11005.pdf
+$ENDCMP
+#
+$CMP BAT54SW
+D Dual schottky barrier diode, in series, SOT-323
+K dual schottky diode
+F https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf
+$ENDCMP
+#
+$CMP BAT54W
+D Schottky barrier diode, SOT-323
+K schottky diode
+F https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf
+$ENDCMP
+#
+$CMP BAT60A
+D 10V 3A High Current Recitifier Schottky Diode, SOD-323
+K diode Schottky
+F https://www.infineon.com/dgdl/Infineon-BAT60ASERIES-DS-v01_01-en.pdf?fileId=db3a304313d846880113def70c9304a9
+$ENDCMP
+#
+$CMP BAT85
+D 30V 0.2A Schottky barrier single diode, DO-35
+K diode Schottky
+F https://assets.nexperia.com/documents/data-sheet/BAT85.pdf
+$ENDCMP
+#
+$CMP BAT86
+D 50V 0.2A Small Signal Schottky Diode, DO-35
+K diode Schottky
+F https://assets.nexperia.com/documents/data-sheet/BAT86.pdf
+$ENDCMP
+#
+$CMP BAT86S
+D 50V 0.2A Small Signal Schottky Diode, DO-35
+K diode Schottky
+F http://www.vishay.com/docs/85514/bat86s.pdf
+$ENDCMP
+#
+$CMP BAV16W
+D 75V 0.15A Fast Switching Diode, SOD-123
+K diode
+F https://www.diodes.com/assets/Datasheets/ds30086.pdf
+$ENDCMP
+#
+$CMP BAV17
+D 20V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAV18
+D 50V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAV19
+D 100V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAV199DW
+D Quad Surface Mount Low Leakage Diode, SOT-363
+K Quad diode
+F https://www.diodes.com/assets/Datasheets/ds30417.pdf
+$ENDCMP
+#
+$CMP BAV20
+D 150V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAV21
+D 200V 0.25A Small Signal Switching Diode, High Voltage, DO-35
+K diode
+F http://www.vishay.com/docs/85543/bav17.pdf
+$ENDCMP
+#
+$CMP BAV300
+D 50V 0.25A Switching Diode, High Voltage, MicroMELF
+K diode
+F http://www.vishay.com/docs/85545/bav300.pdf
+$ENDCMP
+#
+$CMP BAV301
+D 100V 0.25A Switching Diode, High Voltage, MicroMELF
+K diode
+F http://www.vishay.com/docs/85545/bav300.pdf
+$ENDCMP
+#
+$CMP BAV302
+D 150V 0.25A Switching Diode, High Voltage, MicroMELF
+K diode
+F http://www.vishay.com/docs/85545/bav300.pdf
+$ENDCMP
+#
+$CMP BAV303
+D 200V 0.25A Switching Diode, High Voltage, MicroMELF
+K diode
+F http://www.vishay.com/docs/85545/bav300.pdf
+$ENDCMP
+#
+$CMP BAV70
+D Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV70M
+D Dual 100V 150mA high-speed switching diodes, common cathode, SOT-883
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV70S
+D 100V 250mA high-speed switching diodes, dual common cathode, SOT-363
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV70T
+D Dual 100V 150mA high-speed switching diodes, common cathode, SOT-416
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV70W
+D Dual 100V 175mA high-speed switching diodes, common cathode, SOT-323
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf
+$ENDCMP
+#
+$CMP BAV756S
+D High-speed switching diodes, dual common anode/common cathode, SOT-363
+K Diode
+F https://assets.nexperia.com/documents/data-sheet/BAV756S_BAW56_SER.pdf
+$ENDCMP
+#
+$CMP BAV99
+D BAV99 High-speed switching diodes, SOT-23
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf
+$ENDCMP
+#
+$CMP BAV99S
+D High-speed switching diodes, dual series, SOT-363
+K Diode
+F https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf
+$ENDCMP
+#
+$CMP BAW56DW
+D Switching diode array 2 pair Com A
+K diode
+F http://www.diodes.com/datasheets/ds30146.pdf
+$ENDCMP
+#
+$CMP BAW56S
+D High Speed Switching Diode Array 2 pair Com A
+K diode
+F https://assets.nexperia.com/documents/data-sheet/BAV756S_BAW56_SER.pdf
+$ENDCMP
+#
+$CMP BAW75
+D 25V 0.45A Small Signal Switching Diode, DO-35
+K diode
+F http://www.vishay.com/docs/85550/baw75.pdf
+$ENDCMP
+#
+$CMP BAW76
+D 50V 0.3A Small Signal Fast Switching Diode, DO-35
+K diode
+F http://www.vishay.com/docs/85551/baw76.pdf
+$ENDCMP
+#
+$CMP BAY93
+D 20V 0.115A Very Fast Switching Diode, DO-35
+K diode
+F https://cdn-reichelt.de/documents/datenblatt/A400/BAY93_TFK.pdf
+$ENDCMP
+#
+$CMP BYV79-100
+D 100V 14A Ultrafast Rectifier Diode, TO-220
+K diode
+F http://pdf.datasheetcatalog.com/datasheet/philips/BYV79-100.pdf
+$ENDCMP
+#
+$CMP BYV79-150
+D 150V 14A Ultrafast Rectifier Diode, TO-220
+K diode
+F http://pdf.datasheetcatalog.com/datasheet/philips/BYV79-100.pdf
+$ENDCMP
+#
+$CMP BYV79-200
+D 200V 14A Ultrafast Rectifier Diode, TO-220
+K diode
+F http://pdf.datasheetcatalog.com/datasheet/philips/BYV79-100.pdf
+$ENDCMP
+#
+$CMP BZD27Cxx
+D 800mW Zener Diode, 3.6-200V, SMF
+K zener diode
+F https://www.vishay.com/docs/85153/bzd27series.pdf
+$ENDCMP
+#
+$CMP BZM55Bxx
+D 500mW Zener Diode, 2%, MicroMELF
+K zener diode
+F http://www.vishay.com/docs/85597/bzm55.pdf
+$ENDCMP
+#
+$CMP BZM55Cxx
+D 500mW Zener Diode, 6%, MicroMELF
+K zener diode
+F http://www.vishay.com/docs/85597/bzm55.pdf
+$ENDCMP
+#
+$CMP BZT52Bxx
+D 500mW Zener Diode, SOD-123
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzt52b2v4.pdf
+$ENDCMP
+#
+$CMP BZV55B10
+D 10V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B11
+D 11V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B12
+D 12V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B13
+D 13V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B15
+D 15V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B16
+D 16V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B18
+D 18V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B20
+D 20V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B22
+D 22V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B24
+D 24V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B27
+D 2.4V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B2V4
+D 2.4V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B2V7
+D 2.7V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B30
+D 30V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B33
+D 33V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B36
+D 36V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B39
+D 39V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B3V0
+D 3.0V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B3V3
+D 3.3V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B3V6
+D 3.6V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B3V9
+D 3.9V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B43
+D 43V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B47
+D 47V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B4V3
+D 4.3V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B4V7
+D 4.7V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B51
+D 51V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B56
+D 56V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B5V1
+D 5.1V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B5V6
+D 5.6V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B62
+D 62V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B68
+D 68V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B6V2
+D 6.2V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B6V8
+D 6.8V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B75
+D 75V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B7V5
+D 7.5V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B8V2
+D 8.2V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55B9V1
+D 9.1V, 500mW, 2%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C10
+D 10V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C11
+D 11V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C12
+D 12V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C13
+D 13V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C15
+D 15V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C16
+D 16V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C18
+D 18V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C20
+D 20V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C22
+D 22V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C24
+D 24V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C27
+D 27V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C2V4
+D 2.4V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C2V7
+D 2.7V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C30
+D 30V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C33
+D 33V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C36
+D 36V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C39
+D 39V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C3V0
+D 3.0V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C3V3
+D 3.3V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C3V6
+D 3.6V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C3V9
+D 3.9V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C43
+D 43V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C47
+D 47V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C4V3
+D 4.3V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C4V7
+D 4.7V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C51
+D 51V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C56
+D 56V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C5V1
+D 5.1V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C5V6
+D 5.6V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C62
+D 62V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C68
+D 68V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C6V2
+D 6.2V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C6V8
+D 6.8V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C75
+D 75V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C7V5
+D 7.5V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C8V2
+D 8.2V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZV55C9V1
+D 9.1V, 500mW, 5%, Zener diode, MiniMELF
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf
+$ENDCMP
+#
+$CMP BZX384-xxx
+D 300mW Zener Diode, SOD-323
+K zener diode
+F https://assets.nexperia.com/documents/data-sheet/BZX384_SERIES.pdf
+$ENDCMP
+#
+$CMP BZX84Cxx
+D 300mW Zener Diode, SOT-23
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf
+$ENDCMP
+#
+$CMP C3D02060A
+D 600V, 2A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/55/C3D02060A.pdf
+$ENDCMP
+#
+$CMP C3D02060E
+D 600V, 2A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/116/C3D02060E.pdf
+$ENDCMP
+#
+$CMP C3D02060F
+D 600V, 2A, SiC Schottky Diode, TO-220F
+K sic diode
+F https://www.wolfspeed.com/media/downloads/35/C3D02060F.pdf
+$ENDCMP
+#
+$CMP C3D02065E
+D 650V, 2A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/118/C3D02065E.pdf
+$ENDCMP
+#
+$CMP C3D03060A
+D 600V, 3A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/57/C3D03060A.pdf
+$ENDCMP
+#
+$CMP C3D03060E
+D 600V, 3A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/119/C3D03060E.pdf
+$ENDCMP
+#
+$CMP C3D03060F
+D 600V, 3A, SiC Schottky Diode, TO-220F
+K sic diode
+F https://www.wolfspeed.com/media/downloads/39/C3D03060F.pdf
+$ENDCMP
+#
+$CMP C3D03065E
+D 650V, 3A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/121/C3D03065E.pdf
+$ENDCMP
+#
+$CMP C3D04060A
+D 600V, 4A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/845/C3D04060A.pdf
+$ENDCMP
+#
+$CMP C3D04060E
+D 600V, 4A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/122/C3D04060E.pdf
+$ENDCMP
+#
+$CMP C3D04060F
+D 600V, 4A, SiC Schottky Diode, TO-220F
+K sic diode
+F https://www.wolfspeed.com/media/downloads/41/C3D04060F.pdf
+$ENDCMP
+#
+$CMP C3D04065A
+D 650V, 4A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/841/C3D04065A.pdf
+$ENDCMP
+#
+$CMP C3D04065E
+D 650V, 4A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/124/C3D04065E.pdf
+$ENDCMP
+#
+$CMP C3D06060A
+D 600V, 6A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/844/C3D06060A.pdf
+$ENDCMP
+#
+$CMP C3D06060F
+D 600V, 6A, SiC Schottky Diode, TO-220F
+K sic diode
+F https://www.wolfspeed.com/media/downloads/43/C3D06060F.pdf
+$ENDCMP
+#
+$CMP C3D06060G
+D 600V, 6A, SiC Schottky Diode, TO-263
+K sic diode
+F https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf
+$ENDCMP
+#
+$CMP C3D06065A
+D 650V, 6A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/65/C3D06065A.pdf
+$ENDCMP
+#
+$CMP C3D06065E
+D 650V, 6A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/125/C3D06065E.pdf
+$ENDCMP
+#
+$CMP C3D06065I
+D 650V, 6A, SiC Schottky Diode, Isolated TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/44/C3D06065I.pdf
+$ENDCMP
+#
+$CMP C3D08060A
+D 600V, 8A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/843/C3D08060A.pdf
+$ENDCMP
+#
+$CMP C3D08060G
+D 600V, 8A, SiC Schottky Diode, TO-263
+K sic diode
+F https://www.wolfspeed.com/media/downloads/141/C3D08060G.pdf
+$ENDCMP
+#
+$CMP C3D08065A
+D 650V, 8A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/840/C3D08065A.pdf
+$ENDCMP
+#
+$CMP C3D08065E
+D 650V, 8A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/839/C3D08065E.pdf
+$ENDCMP
+#
+$CMP C3D08065I
+D 650V, 8A, SiC Schottky Diode, Isolated TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/47/C3D08065I.pdf
+$ENDCMP
+#
+$CMP C3D10060A
+D 600V, 10A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/842/C3D10060A.pdf
+$ENDCMP
+#
+$CMP C3D10060G
+D 600V, 10A, SiC Schottky Diode, TO-263
+K sic diode
+F https://www.wolfspeed.com/media/downloads/143/C3D10060G.pdf
+$ENDCMP
+#
+$CMP C3D10065A
+D 650V, 10A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/73/C3D10065A.pdf
+$ENDCMP
+#
+$CMP C3D10065E
+D 650V, 10A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/127/C3D10065E.pdf
+$ENDCMP
+#
+$CMP C3D10065I
+D 650V, 10A, SiC Schottky Diode, Isolated TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/49/C3D10065I.pdf
+$ENDCMP
+#
+$CMP C3D10170H
+D 1700V, 10A, SiC Schottky Diode, TO-247
+K sic diode
+F https://www.wolfspeed.com/media/downloads/96/C3D10170H.pdf
+$ENDCMP
+#
+$CMP C3D12065A
+D 650V, 12A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/963/C3D12065A.pdf
+$ENDCMP
+#
+$CMP C3D16060D
+D 600V, 16A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/98/C3D16060D.pdf
+$ENDCMP
+#
+$CMP C3D16065A
+D 650V, 16A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/964/C3D16065A.pdf
+$ENDCMP
+#
+$CMP C3D16065D
+D 650V, 16A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/99/C3D16065D.pdf
+$ENDCMP
+#
+$CMP C3D1P7060Q
+D 600V, 1.7A, SiC Schottky Diode, QFN
+K sic diode
+F https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf
+$ENDCMP
+#
+$CMP C3D20060D
+D 600V, 20A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/100/C3D20060D.pdf
+$ENDCMP
+#
+$CMP C3D20065D
+D 650V, 20A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/102/C3D20065D.pdf
+$ENDCMP
+#
+$CMP C3D25170H
+D 1700V, 25A, SiC Schottky Diode, TO-247
+K sic diode
+F https://www.wolfspeed.com/media/downloads/103/C3D25170H.pdf
+$ENDCMP
+#
+$CMP C3D30065D
+D 650V, 30A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/969/C3D30065D.pdf
+$ENDCMP
+#
+$CMP C4D02120A
+D 1200V, 2A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/75/C4D02120A.pdf
+$ENDCMP
+#
+$CMP C4D02120E
+D 1200V, 2A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/128/C4D02120E.pdf
+$ENDCMP
+#
+$CMP C4D05120A
+D 1200V, 5A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/77/C4D05120A.pdf
+$ENDCMP
+#
+$CMP C4D05120E
+D 1200V, 5A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/130/C4D05120E.pdf
+$ENDCMP
+#
+$CMP C4D08120A
+D 1200V, 8A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/80/C4D08120A.pdf
+$ENDCMP
+#
+$CMP C4D08120E
+D 1200V, 8A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/132/C4D08120E.pdf
+$ENDCMP
+#
+$CMP C4D10120A
+D 1200V, 10A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/82/C4D10120A.pdf
+$ENDCMP
+#
+$CMP C4D10120D
+D 1200V, 10A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/104/C4D10120D.pdf
+$ENDCMP
+#
+$CMP C4D10120E
+D 1200V, 10A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/134/C4D10120E.pdf
+$ENDCMP
+#
+$CMP C4D10120H
+D 1200V, 10A, SiC Schottky Diode, TO-247
+K sic diode
+F https://www.wolfspeed.com/media/downloads/1189/C4D10120H.pdf
+$ENDCMP
+#
+$CMP C4D15120A
+D 1200V, 15A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/84/C4D15120A.pdf
+$ENDCMP
+#
+$CMP C4D15120D
+D 1200V, 15A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/848/C4D15120D.pdf
+$ENDCMP
+#
+$CMP C4D15120H
+D 1200V, 15A, SiC Schottky Diode, TO-247
+K sic diode
+F https://www.wolfspeed.com/media/downloads/1190/C4D15120H.pdf
+$ENDCMP
+#
+$CMP C4D20120A
+D 1200V, 20A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/85/C4D20120A.pdf
+$ENDCMP
+#
+$CMP C4D20120D
+D 1200V, 20A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/106/C4D20120D.pdf
+$ENDCMP
+#
+$CMP C4D20120H
+D 1200V, 20A, SiC Schottky Diode, TO-247
+K sic diode
+F https://www.wolfspeed.com/media/downloads/1191/C4D20120H.pdf
+$ENDCMP
+#
+$CMP C4D30120D
+D 1200V, 30A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/108/C4D30120D.pdf
+$ENDCMP
+#
+$CMP C4D40120D
+D 1200V, 40A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/109/C4D40120D.pdf
+$ENDCMP
+#
+$CMP C5D50065D
+D 650V, 50A, SiC Schottky Diode, TO-247-3
+K sic diode
+F https://www.wolfspeed.com/media/downloads/111/C5D50065D.pdf
+$ENDCMP
+#
+$CMP CD4148W
+D 75V 0.15A Switching Diode, 0805
+K diode
+F https://www.dccomponents.com/upload/product/original/806236332588.pdf
+$ENDCMP
+#
+$CMP CDBA3100-HF
+D 100V 3A Schottky Barrier Rectifier Diode, SMA(DO-214AC)
+K diode Schottky
+F https://www.comchiptech.com/admin/files/product/CDBA340-HF%20Thru193640.%20CDBA3100-HF%20RevB.pdf
+$ENDCMP
+#
+$CMP CDBA340-HF
+D 40V 3A Schottky Barrier Rectifier Diode, SMA(DO-214AC)
+K diode Schottky
+F https://www.comchiptech.com/admin/files/product/CDBA340-HF%20Thru193640.%20CDBA3100-HF%20RevB.pdf
+$ENDCMP
+#
+$CMP CDBA360-HF
+D 60V 3A Schottky Barrier Rectifier Diode, SMA(DO-214AC)
+K diode Schottky
+F https://www.comchiptech.com/admin/files/product/CDBA340-HF%20Thru193640.%20CDBA3100-HF%20RevB.pdf
+$ENDCMP
+#
+$CMP CSD01060A
+D 600V, 1A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf
+$ENDCMP
+#
+$CMP CSD01060E
+D 600V, 1A, SiC Schottky Diode, TO-252
+K sic diode
+F https://www.wolfspeed.com/media/downloads/87/CSD01060.pdf
+$ENDCMP
+#
+$CMP CVFD20065A
+D 650V, 20A, SiC Schottky Diode, TO-220
+K sic diode
+F https://www.wolfspeed.com/media/downloads/89/CVFD20065A.pdf
+$ENDCMP
+#
+$CMP Central_Semi_CMKD4448
+D High speed switching diode array 3 independent
+K diode
+F http://www.centralsemi.com/PDFs/products/CMKD4448.PDF
+$ENDCMP
+#
+$CMP Central_Semi_CMKD6001
+D Ultra low leakage switching diode array 3 independent
+K diode
+F http://www.centralsemi.com/PDFs/products/CMKD6001.PDF
+$ENDCMP
+#
+$CMP Comchip_ACDSV6-4448TI-G
+D Small signal switching diode array 3 independent
+K diode
+F http://www.comchiptech.com/cms/UserFiles/ACDSV6-4448TI-G%20RevA285610.pdf
+$ENDCMP
+#
+$CMP Comchip_CDSV6-4148-G
+D Fast switching diode array 3 independent
+K diode
+F http://www.comchiptech.com/cms/UserFiles/CDSV6-16-G,4148-G%20RevA272279.pdf
+$ENDCMP
+#
+$CMP Comchip_CDSV6-4448TI-G
+D High speed switching diode array 3 independent
+K diode
+F http://www.comchiptech.com/cms/UserFiles/CDSV6-4448XX-G%20RevC285574.pdf
+$ENDCMP
+#
+$CMP DB3
+D 32V 2A Bidirectional trigger diode, DO-35
+K AC diode DIAC
+F http://cdn-reichelt.de/documents/datenblatt/A100/DB%203%23st.pdf
+$ENDCMP
+#
+$CMP DB4
+D 34V 2A Bidirectional trigger diode, DO-35
+K AC diode DIAC
+F http://cdn-reichelt.de/documents/datenblatt/A100/DB%203%23st.pdf
+$ENDCMP
+#
+$CMP DC34
+D 40V 2A Bidirectional trigger diode, DO-35
+K AC diode DIAC
+F http://cdn-reichelt.de/documents/datenblatt/A100/DB%203%23st.pdf
+$ENDCMP
+#
+$CMP DSB2810
+D 20V 75mA Schottky diode, DO-35
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet
+$ENDCMP
+#
+$CMP DSB5712
+D 20V 75mA Schottky diode, DO-35
+K diode Schottky
+F https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet
+$ENDCMP
+#
+$CMP DZ2S030X0L
+D 150mW Silicon Planar Zener Diode, 3.0V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S03000L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S033X0L
+D 150mW Silicon Planar Zener Diode, 3.3V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S03300L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S036X0L
+D 150mW Silicon Planar Zener Diode, 3.6V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S03600L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S039X0L
+D 150mW Silicon Planar Zener Diode, 3.9V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S03900L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S047X0L
+D 150mW Silicon Planar Zener Diode, 4.7V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S04700L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S051X0L
+D 150mW Silicon Planar Zener Diode, 5.1V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S05100L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S056X0L
+D 150mW Silicon Planar Zener Diode, 5.6V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S05600L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S068X0L
+D 150mW Silicon Planar Zener Diode, 6.8V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S06800L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S082X0L
+D 150mW Silicon Planar Zener Diode, 8.2V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S08200L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S100X0L
+D 150mW Silicon Planar Zener Diode, 10V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S10000L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S110X0L
+D 150mW Silicon Planar Zener Diode, 11V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S11000L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S120X0L
+D 150mW Silicon Planar Zener Diode, 12V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S12000L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S130X0L
+D 150mW Silicon Planar Zener Diode, 13V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S13000L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S150X0L
+D 150mW Silicon Planar Zener Diode, 15V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S15000L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S160X0L
+D 150mW Silicon Planar Zener Diode, 16V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S16000L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S180X0L
+D 150mW Silicon Planar Zener Diode, 18V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S18000L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S200X0L
+D 150mW Silicon Planar Zener Diode, 20V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S20000L_E.pdf
+$ENDCMP
+#
+$CMP DZ2S360X0L
+D 150mW Silicon Planar Zener Diode, 36V, SOD-523
+K zener diode
+F https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S36000L_E.pdf
+$ENDCMP
+#
+$CMP ESD9B3.3ST5G
+D ESD protection diode, 3.3Vrwm, SOD-923
+K diode TVS ESD
+F https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF
+$ENDCMP
+#
+$CMP ESD9B5.0ST5G
+D ESD protection diode, 5.0Vrwm, SOD-923
+K diode TVS ESD
+F https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF
+$ENDCMP
+#
+$CMP HN2D02FU
+D Ultra high speed switching diode array 3 independent
+K diode
+F http://www.onsemi.com/pub_link/Collateral/HN2D02FUTW1T1-D.PDF
+$ENDCMP
+#
+$CMP IDDD04G65C6
+D 650V, 4A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)
+K sic diode
+F https://www.infineon.com/dgdl/Infineon-IDDD04G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628f749daa0e03
+$ENDCMP
+#
+$CMP IDDD06G65C6
+D 650V, 6A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)
+K sic diode
+F https://www.infineon.com/dgdl/Infineon-IDDD06G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628f86ff8c0e09
+$ENDCMP
+#
+$CMP IDDD08G65C6
+D 650V, 8A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)
+K sic diode
+F https://www.infineon.com/dgdl/Infineon-IDDD08G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628ff7d31a104b
+$ENDCMP
+#
+$CMP IDDD10G65C6
+D 650V, 10A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)
+K sic diode
+F https://www.infineon.com/dgdl/Infineon-IDDD10G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628ff848ec1051
+$ENDCMP
+#
+$CMP IDDD12G65C6
+D 650V, 12A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)
+K sic diode
+F https://www.infineon.com/dgdl/Infineon-IDDD12G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628f86ec3e0e06
+$ENDCMP
+#
+$CMP IDDD16G65C6
+D 650V, 16A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)
+K sic diode
+F https://www.infineon.com/dgdl/Infineon-IDDD16G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628f8711b50e0c
+$ENDCMP
+#
+$CMP IDDD20G65C6
+D 650V, 20A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)
+K sic diode
+F https://www.infineon.com/dgdl/Infineon-IDDD20G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628ff837cf104e
+$ENDCMP
+#
+$CMP LL41
+D 100V 0.1A Small Signal Schottky diode, MiniMELF
+K diode Schottky
+F http://www.vishay.com/docs/85659/bat41.pdf
+$ENDCMP
+#
+$CMP LL4148
+D 100V 0.15A standard switching diode, MiniMELF
+K diode
+F http://www.vishay.com/docs/85557/ll4148.pdf
+$ENDCMP
+#
+$CMP LL42
+D 30V 0.2A Small Signal Schottky diode, MiniMELF
+K diode Schottky
+F http://www.vishay.com/docs/85672/ll42.pdf
+$ENDCMP
+#
+$CMP LL43
+D 30V 0.2A Small Signal Schottky diode, MiniMELF
+K diode Schottky
+F http://www.vishay.com/docs/85672/ll42.pdf
+$ENDCMP
+#
+$CMP LL4448
+D 100V 0.15A standard switching diode, MiniMELF
+K diode
+F http://www.vishay.com/docs/85557/ll4148.pdf
+$ENDCMP
+#
+$CMP MBR0520
+D 20V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf
+$ENDCMP
+#
+$CMP MBR0520LT
+D 20V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F http://www.onsemi.com/pub_link/Collateral/MBR0520LT1-D.PDF
+$ENDCMP
+#
+$CMP MBR0530
+D 30V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf
+$ENDCMP
+#
+$CMP MBR0540
+D 40V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf
+$ENDCMP
+#
+$CMP MBR0550
+D 50V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf
+$ENDCMP
+#
+$CMP MBR0560
+D 60V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf
+$ENDCMP
+#
+$CMP MBR0570
+D 70V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf
+$ENDCMP
+#
+$CMP MBR0580
+D 80V 0.5A Schottky Power Rectifier Diode, SOD-123
+K diode Schottky
+F http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf
+$ENDCMP
+#
+$CMP MBR1020VL
+D 20V, 1A, 340 mV, Schottky Diode Rectifier, SOD-123F
+K forward voltage diode
+F https://www.onsemi.com/pub/Collateral/MBR1020VL-D.PDF
+$ENDCMP
+#
+$CMP MBR340
+D 40V 3A Schottky Barrier Rectifier Diode, DO-201AD
+K diode Schottky
+F http://www.onsemi.com/pub_link/Collateral/MBR340-D.PDF
+$ENDCMP
+#
+$CMP MBR735
+D 35V 7.5A Schottky Barrier Rectifier Diode, TO-220
+K diode Schottky
+F http://www.onsemi.com/pub_link/Collateral/MBR735-D.PDF
+$ENDCMP
+#
+$CMP MBR745
+D 45V 7.5A Schottky Barrier Rectifier Diode, TO-220
+K diode Schottky
+F http://www.onsemi.com/pub_link/Collateral/MBR735-D.PDF
+$ENDCMP
+#
+$CMP MBRA340
+D 40V 3A Schottky Barrier Rectifier Diode, SMA(DO-214AC)
+K diode Schottky
+F https://www.onsemi.com/pub/Collateral/MBRA340T3-D.PDF
+$ENDCMP
+#
+$CMP MCL4148
+D 75V 0.2A Switching Diode, MicroMELF
+K diode
+F http://www.vishay.com/docs/85566/mlc4148.pdf
+$ENDCMP
+#
+$CMP MCL4448
+D 75V 0.2A Switching Diode, MicroMELF
+K diode
+F http://www.vishay.com/docs/85566/mlc4148.pdf
+$ENDCMP
+#
+$CMP MM3Zxx
+D 300mW Zener Diode, SOD-123F
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/mm3z2v4.pdf
+$ENDCMP
+#
+$CMP MM5Zxx
+D 300mW Zener Diode, SOD-523
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/mm5z2v4.pdf
+$ENDCMP
+#
+$CMP MMBD4148TW
+D Fast switching diode array 3 independent
+K diode
+F http://www.diodes.com/datasheets/ds30154.pdf
+$ENDCMP
+#
+$CMP MMBD4448HADW
+D Fast Switching Diode Array 2 pair Com A
+K diode
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP MMBD4448HCQW
+D Quad Switching Diode Array Common Cathode
+K diode
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP MMBD4448HTW
+D Fast switching diode array 3 independent
+K diode
+F http://www.diodes.com/datasheets/ds30153.pdf
+$ENDCMP
+#
+$CMP MMBZxx
+D Double Zener Diode, Common Anode, 225mW, SOT-23
+K dual zener diode
+F http://www.onsemi.com/pub/Collateral/MMBZ5V6ALT1-D.PDF
+$ENDCMP
+#
+$CMP MMSD4148
+D 100V 200mA Switching Diode, SOD-123
+K diode
+F https://www.onsemi.com/pub/Collateral/MMSD4148T1-D.PDF
+$ENDCMP
+#
+$CMP MMSD914
+D 100V 0.2A Switching Diode, SOD-123
+K diode
+F https://www.onsemi.com/pub/Collateral/MMSD914T1-D.PDF
+$ENDCMP
+#
+$CMP MRA4003T3G
+D 300V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K diode
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP MRA4004T3G
+D 400V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K diode
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP MRA4005T3G
+D 600V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K diode
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP MRA4006T3G
+D 800V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K diode
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP MRA4007T3G
+D 1000V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K diode
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP NRVA4003T3G
+D 300V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K AEC-Q101
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP NRVA4004T3G
+D 400V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K AEC-Q101
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP NRVA4005T3G
+D 600V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K AEC-Q101
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP NRVA4006T3G
+D 800V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K AEC-Q101
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP NRVA4007T3G
+D 1000V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K AEC-Q101
+F http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF
+$ENDCMP
+#
+$CMP NSR0340HT1G
+D 40V 0.25A Schottky Diode, SOD-323
+K diode Schottky
+F https://www.onsemi.com/pub/Collateral/NSR0340H-D.PDF
+$ENDCMP
+#
+$CMP PMEG10010ELR
+D 100V, 1A low leakage current MEGA Schottky barrier rectifier, SOD-123W
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG10010ELR.pdf
+$ENDCMP
+#
+$CMP PMEG10020AELR
+D 100V, 2A low leakage current MEGA Schottky barrier rectifier, SOD-123W
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG10020AELR.pdf
+$ENDCMP
+#
+$CMP PMEG10020ELR
+D 100V, 2A low leakage current MEGA Schottky barrier rectifier, SOD-123W
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG10020ELR.pdf
+$ENDCMP
+#
+$CMP PMEG030V030EPD
+D 30V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG030V030EPD.pdf
+$ENDCMP
+#
+$CMP PMEG030V050EPD
+D 30V, 5A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG030V050EPD.pdf
+$ENDCMP
+#
+$CMP PMEG040V030EPD
+D 40V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG040V030EPD.pdf
+$ENDCMP
+#
+$CMP PMEG040V050EPD
+D 40V, 5A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG040V050EPD.pdf
+$ENDCMP
+#
+$CMP PMEG045T050EPD
+D 45V, 5A low Vf Trench MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG045T050EPD.pdf
+$ENDCMP
+#
+$CMP PMEG045T100EPD
+D 45V, 10A low Vf Trench MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG045T100EPD.pdf
+$ENDCMP
+#
+$CMP PMEG045T150EIPD
+D 45V, 15A low Vf Trench MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG045T150EIPD.pdf
+$ENDCMP
+#
+$CMP PMEG045T150EPD
+D 45V, 15A low Vf Trench MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG045T150EPD.pdf
+$ENDCMP
+#
+$CMP PMEG045V050EPD
+D 45V, 5A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG045V050EPD.pdf
+$ENDCMP
+#
+$CMP PMEG045V100EPD
+D 45V, 10A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG045V100EPD.pdf
+$ENDCMP
+#
+$CMP PMEG045V150EPD
+D 45V, 15A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG045V150EPD.pdf
+$ENDCMP
+#
+$CMP PMEG050T150EPD
+D 50V, 15A low Vf Trench MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG050T150EPD.pdf
+$ENDCMP
+#
+$CMP PMEG050V030EPD
+D 50V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG050V030EPD.pdf
+$ENDCMP
+#
+$CMP PMEG050V150EPD
+D 50V, 15A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG050V150EPD.pdf
+$ENDCMP
+#
+$CMP PMEG060V030EPD
+D 60V, 3A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG060V030EPD.pdf
+$ENDCMP
+#
+$CMP PMEG060V050EPD
+D 60V, 5A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG060V050EPD.pdf
+$ENDCMP
+#
+$CMP PMEG060V100EPD
+D 60V, 10A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG060V100EPD.pdf
+$ENDCMP
+#
+$CMP PMEG100V060ELPD
+D 100V, 6A low leakage current MEGA Schottky barrier rectifier, SOT-1289
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG100V060ELPD.pdf
+$ENDCMP
+#
+$CMP PMEG100V080ELPD
+D 100V, 8A low leakage current MEGA Schottky barrier rectifier, SOT-1289
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG100V080ELPD.pdf
+$ENDCMP
+#
+$CMP PMEG100V100ELPD
+D 100V, 10A low leakage current MEGA Schottky barrier rectifier, SOT-1289
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG100V100ELPD.pdf
+$ENDCMP
+#
+$CMP PMEG1020EH
+D 10V, 2A ultra low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG1020EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG1020EJ
+D 10V, 2A ultra low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG1020EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG1030EH
+D 10V, 3A ultra low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG1030EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG1030EJ
+D 10V, 3A ultra low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG1030EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG2005EH
+D 20V, 500mA very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEGXX05EH_EJ_SER.pdf
+$ENDCMP
+#
+$CMP PMEG2005EJ
+D 20V, 500mA very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEGXX05EH_EJ_SER.pdf
+$ENDCMP
+#
+$CMP PMEG2010AEH
+D 20V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2010AEH_PMEG2010AET.pdf
+$ENDCMP
+#
+$CMP PMEG2010AEJ
+D 20V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2010AEJ.pdf
+$ENDCMP
+#
+$CMP PMEG2010AET
+D 20V, 1A very low Vf MEGA Schottky barrier rectifier, SOT-23
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2010AEH_PMEG2010AET.pdf
+$ENDCMP
+#
+$CMP PMEG2010BER
+D 20V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2010BER.pdf
+$ENDCMP
+#
+$CMP PMEG2010EH
+D 20V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2010EH_EJ_ET.pdf
+$ENDCMP
+#
+$CMP PMEG2010EJ
+D 20V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2010EH_EJ_ET.pdf
+$ENDCMP
+#
+$CMP PMEG2010ER
+D 20V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2010ER.pdf
+$ENDCMP
+#
+$CMP PMEG2010ET
+D 20V, 1A very low Vf MEGA Schottky barrier rectifier, SOT-23
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2010EH_EJ_ET.pdf
+$ENDCMP
+#
+$CMP PMEG2015EH
+D 20V, 1.5A very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2015EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG2015EJ
+D 20V, 1.5A very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2015EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG2020EH
+D 20V, 2A very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2020EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG2020EJ
+D 20V, 2A very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG2020EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG3002EJ
+D 30V, 200mA low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3002EJ.pdf
+$ENDCMP
+#
+$CMP PMEG3005EH
+D 30V, 500mA very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEGXX05EH_EJ_SER.pdf
+$ENDCMP
+#
+$CMP PMEG3005EJ
+D 30V, 500mA very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEGXX05EH_EJ_SER.pdf
+$ENDCMP
+#
+$CMP PMEG3010BER
+D 30V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3010BER.pdf
+$ENDCMP
+#
+$CMP PMEG3010CEH
+D 30V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3010CEH_PMEG3010CEJ.pdf
+$ENDCMP
+#
+$CMP PMEG3010CEJ
+D 30V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3010CEH_PMEG3010CEJ.pdf
+$ENDCMP
+#
+$CMP PMEG3010EH
+D 30V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3010EH_EJ_ET.pdf
+$ENDCMP
+#
+$CMP PMEG3010EJ
+D 30V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3010EH_EJ_ET.pdf
+$ENDCMP
+#
+$CMP PMEG3010ER
+D 30V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3010ER.pdf
+$ENDCMP
+#
+$CMP PMEG3010ET
+D 30V, 1A very low Vf MEGA Schottky barrier rectifier, SOT-23
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3010EH_EJ_ET.pdf
+$ENDCMP
+#
+$CMP PMEG3015EH
+D 30V, 1.5A ultra low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3015EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG3015EJ
+D 30V, 1.5A ultra low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3015EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG3020BER
+D 30V, 2A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3020BER.pdf
+$ENDCMP
+#
+$CMP PMEG3020EH
+D 30V, 2A ultra low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3020EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG3020EJ
+D 30V, 2A ultra low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3020EH_EJ.pdf
+$ENDCMP
+#
+$CMP PMEG3020ER
+D 30V, 2A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG3020ER.pdf
+$ENDCMP
+#
+$CMP PMEG4002EJ
+D 40V, 200mA low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4002EJ.pdf
+$ENDCMP
+#
+$CMP PMEG4005CEJ
+D 40V, 500mA low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4005CEJ.pdf
+$ENDCMP
+#
+$CMP PMEG4005EH
+D 40V, 500mA very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEGXX05EH_EJ_SER.pdf
+$ENDCMP
+#
+$CMP PMEG4005EJ
+D 40V, 500mA very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEGXX05EH_EJ_SER.pdf
+$ENDCMP
+#
+$CMP PMEG4010CEH
+D 40V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4010CEH_PMEG4010CEJ.pdf
+$ENDCMP
+#
+$CMP PMEG4010CEJ
+D 40V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4010CEH_PMEG4010CEJ.pdf
+$ENDCMP
+#
+$CMP PMEG4010EH
+D 40V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4010EH_EJ_ET.pdf
+$ENDCMP
+#
+$CMP PMEG4010EJ
+D 40V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4010EH_EJ_ET.pdf
+$ENDCMP
+#
+$CMP PMEG4010ER
+D 40V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4010ER.pdf
+$ENDCMP
+#
+$CMP PMEG4010ET
+D 40V, 1A very low Vf MEGA Schottky barrier rectifier, SOT-23
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4010EH_EJ_ET.pdf
+$ENDCMP
+#
+$CMP PMEG4020ER
+D 40V, 2A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4020ER.pdf
+$ENDCMP
+#
+$CMP PMEG4030ER
+D 40V, 3A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4030ER.pdf
+$ENDCMP
+#
+$CMP PMEG4050EP
+D 40V, 5A low Vf Schottky barrier rectifier, SOD-128
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG4050EP.pdf
+$ENDCMP
+#
+$CMP PMEG40T10ER
+D 40V, 1A low Vf Trench MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG40T10ER.pdf
+$ENDCMP
+#
+$CMP PMEG40T20ER
+D 40V, 2A low Vf Trench MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG40T20ER.pdf
+$ENDCMP
+#
+$CMP PMEG40T30ER
+D 40V, 3A low Vf Trench MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG40T30ER.pdf
+$ENDCMP
+#
+$CMP PMEG45A10EPD
+D 45V, 10A low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG45A10EPD.pdf
+$ENDCMP
+#
+$CMP PMEG45T15EPD
+D 45V, 15A low Vf Trench MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG45T15EPD.pdf
+$ENDCMP
+#
+$CMP PMEG45U10EPD
+D 45V, 10A extremely low Vf MEGA Schottky barrier rectifier, SOT-1289
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG45U10EPD.pdf
+$ENDCMP
+#
+$CMP PMEG6002EJ
+D 60V, 200mA very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6002EJ.pdf
+$ENDCMP
+#
+$CMP PMEG6010CEH
+D 60V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6010CEH_PMEG6010CEJ.pdf
+$ENDCMP
+#
+$CMP PMEG6010CEJ
+D 60V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6010CEH_PMEG6010CEJ.pdf
+$ENDCMP
+#
+$CMP PMEG6010ELR
+D 60V, 1A low leakage current MEGA Schottky barrier rectifier, SOD-123W
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6010ELR.pdf
+$ENDCMP
+#
+$CMP PMEG6010ER
+D 60V, 1A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6010ER.pdf
+$ENDCMP
+#
+$CMP PMEG6020AELR
+D 60V, 2A low leakage current MEGA Schottky barrier rectifier, SOD-123W
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6020AELR.pdf
+$ENDCMP
+#
+$CMP PMEG6020ELR
+D 60V, 2A low leakage current MEGA Schottky barrier rectifier, SOD-123W
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6020ELR.pdf
+$ENDCMP
+#
+$CMP PMEG6020ER
+D 60V, 2A low Vf MEGA Schottky barrier rectifier, SOD-123W
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6020ER.pdf
+$ENDCMP
+#
+$CMP PMEG6030EP
+D 60V, 3A low Vf MEGA Schottky barrier rectifier, SOD-128
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6030EP.pdf
+$ENDCMP
+#
+$CMP PMEG6045ETP
+D 60V, 4.5A High-Temperature Schottky barrier rectifier, SOD-128
+K forward voltage diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG6045ETP.pdf
+$ENDCMP
+#
+$CMP PMEG60T10ELR
+D 60V, 1A low leakage current Trench MEGA Schottky barrier rectifier, SOD-123W
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG60T10ELR.pdf
+$ENDCMP
+#
+$CMP PMEG60T20ELR
+D 60V, 2A low leakage current Trench MEGA Schottky barrier rectifier, SOD-123W
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG60T20ELR.pdf
+$ENDCMP
+#
+$CMP PMEG60T30ELR
+D 60V, 3A low leakage current Trench MEGA Schottky barrier rectifier, SOD-123W
+K ir diode
+F https://assets.nexperia.com/documents/data-sheet/PMEG60T30ELR.pdf
+$ENDCMP
+#
+$CMP Panasonic_MA5J002E
+D Quad Ultra high Speed Switching Diode Array Com K
+K diode
+F http://www.semicon.panasonic.co.jp/ds4/MA5J002E_BED_discon.pdf
+$ENDCMP
+#
+$CMP Rohm_UMN1N
+D High-speed switching diodes 2 pair Com A
+K diode
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/ump11n.pdf
+$ENDCMP
+#
+$CMP Rohm_UMP11N
+D  High-speed switching diodes 2 pair Com A
+K diode
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/diode/switching/ump11n.pdf
+$ENDCMP
+#
+$CMP S2JTR
+D 600V 2A General Purpose Rectifier Diode, SMB
+K diode
+F http://www.smc-diodes.com/propdf/S2A-S2M%20N0562%20REV.A.pdf
+$ENDCMP
+#
+$CMP SB120
+D 20V 1A Schottky Barrier Rectifier Diode, DO-41
+K diode Schottky
+F http://www.diodes.com/_files/datasheets/ds23022.pdf
+$ENDCMP
+#
+$CMP SB130
+D 30V 1A Schottky Barrier Rectifier Diode, DO-41
+K diode Schottky
+F http://www.diodes.com/_files/datasheets/ds23022.pdf
+$ENDCMP
+#
+$CMP SB140
+D 40V 1A Schottky Barrier Rectifier Diode, DO-41
+K diode Schottky
+F http://www.diodes.com/_files/datasheets/ds23022.pdf
+$ENDCMP
+#
+$CMP SB150
+D 50V 1A Schottky Barrier Rectifier Diode, DO-41
+K diode Schottky
+F http://www.diodes.com/_files/datasheets/ds23022.pdf
+$ENDCMP
+#
+$CMP SB160
+D 60V 1A Schottky Barrier Rectifier Diode, DO-41
+K diode Schottky
+F http://www.diodes.com/_files/datasheets/ds23022.pdf
+$ENDCMP
+#
+$CMP SD05_SOD323
+D 5V, 450W Discrete Bidirectional TVS Diode, SOD-323
+K transient voltage suppressor thyrector transil
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SD103ATW
+D Schottky Barrier Diode Array, SOT-363
+K schottky barrier diode array
+F https://www.diodes.com/assets/Datasheets/ds30374.pdf
+$ENDCMP
+#
+$CMP SD12_SOD323
+D 12V, 450W Discrete Bidirectional TVS Diode, SOD-323
+K transient voltage suppressor thyrector transil
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SD15_SOD323
+D 15V, 450W Discrete Bidirectional TVS Diode, SOD-323
+K transient voltage suppressor thyrector transil
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SD24_SOD323
+D 24V, 450W Discrete Bidirectional TVS Diode, SOD-323
+K transient voltage suppressor thyrector transil
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SD36_SOD323
+D 36V, 450W Discrete Bidirectional TVS Diode, SOD-323
+K transient voltage suppressor thyrector transil
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SM2000
+D 2000V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM4001
+D 50V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM4002
+D 100V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM4003
+D 200V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM4004
+D 400V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM4005
+D 600V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM4006
+D 800V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM4007
+D 1000V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM513
+D 130V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM516
+D 1600V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM518
+D 1800V 1A General Purpose Rectifier Diode, MELF
+K diode
+F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
+$ENDCMP
+#
+$CMP SM6T100A
+D 600W unidirectional Transil Transient Voltage Suppressor, 100Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T10A
+D 600W unidirectional Transil Transient Voltage Suppressor, 10Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T12A
+D 600W unidirectional Transil Transient Voltage Suppressor, 12Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T150A
+D 600W unidirectional Transil Transient Voltage Suppressor, 150Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T15A
+D 600W unidirectional Transil Transient Voltage Suppressor, 15Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T18A
+D 600W unidirectional Transil Transient Voltage Suppressor, 18Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T200A
+D 600W unidirectional Transil Transient Voltage Suppressor, 200Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T220A
+D 600W unidirectional Transil Transient Voltage Suppressor, 220Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T22A
+D 600W unidirectional Transil Transient Voltage Suppressor, 22Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T24A
+D 600W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T27A
+D 600W unidirectional Transil Transient Voltage Suppressor, 27Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T30A
+D 600W unidirectional Transil Transient Voltage Suppressor, 30Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T33A
+D 600W unidirectional Transil Transient Voltage Suppressor, 33Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T36A
+D 600W unidirectional Transil Transient Voltage Suppressor, 36Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T39A
+D 600W unidirectional Transil Transient Voltage Suppressor, 39Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T56A
+D 600W unidirectional Transil Transient Voltage Suppressor, 56Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T68A
+D 600W unidirectional Transil Transient Voltage Suppressor, 68Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T6V8A
+D 600W unidirectional Transil Transient Voltage Suppressor, 6.8Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T75A
+D 600W unidirectional Transil Transient Voltage Suppressor, 75Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM6T7V5A
+D 600W unidirectional Transil Transient Voltage Suppressor, 7.5Vrwm, DO-214AA
+K diode TVS voltage suppressor
+F https://www.st.com/resource/en/datasheet/sm6t.pdf
+$ENDCMP
+#
+$CMP SM712_SOT23
+D 7V/12V, 600W Asymmetrical TVS Diode Array, SOT-23
+K transient voltage suppressor thyrector transil
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sm712_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SMZxxx
+D 2000mW Zener Diode, MELF
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/smz1.pdf
+$ENDCMP
+#
+$CMP STBR3008WY
+D 800V, 30A, General Purpose Rectifier Diode, DO-247
+K AEC-Q101
+F https://www.st.com/resource/en/datasheet/stbr3008-y.pdf
+$ENDCMP
+#
+$CMP STBR3012WY
+D 1200V, 30A, General Purpose Rectifier Diode, DO-247
+K AEC-Q101
+F https://www.st.com/resource/en/datasheet/stbr3012-y.pdf
+$ENDCMP
+#
+$CMP STBR6008WY
+D 800V, 60A, General Purpose Rectifier Diode, DO-247
+K AEC-Q101
+F https://www.st.com/resource/en/datasheet/stbr6008-y.pdf
+$ENDCMP
+#
+$CMP STBR6012WY
+D 1200V, 60A, General Purpose Rectifier Diode, DO-247
+K AEC-Q101
+F https://www.st.com/resource/en/datasheet/stbr6012-y.pdf
+$ENDCMP
+#
+$CMP STTH212S
+D 1200V 2A High Voltage Ultrafast Diode, SMC
+K diode
+F https://www.st.com/resource/en/datasheet/stth212.pdf
+$ENDCMP
+#
+$CMP STTH212U
+D 1200V 2A High Voltage Ultrafast Diode, SMB
+K diode
+F https://www.st.com/resource/en/datasheet/stth212.pdf
+$ENDCMP
+#
+$CMP SZESD9B5.0ST5G
+D ESD protection diode, 5.0Vrwm, SOD-923
+K diode TVS ESD
+F https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF
+$ENDCMP
+#
+$CMP Toshiba_HN1D01FU
+D Ultra High Speed Switching Diode Array 2 pair Com A
+K diode
+F http://www.toshiba.com/taec/components2/Datasheet_Sync/200901/DST_HN1D01FU-TDE_EN_1882.pdf
+$ENDCMP
+#
+$CMP UF5400
+D 50V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88756/uf5400.pdf
+$ENDCMP
+#
+$CMP UF5401
+D 100V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88756/uf5400.pdf
+$ENDCMP
+#
+$CMP UF5402
+D 200V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88756/uf5400.pdf
+$ENDCMP
+#
+$CMP UF5403
+D 300V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88756/uf5400.pdf
+$ENDCMP
+#
+$CMP UF5404
+D 400V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88756/uf5400.pdf
+$ENDCMP
+#
+$CMP UF5405
+D 500V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88756/uf5400.pdf
+$ENDCMP
+#
+$CMP UF5406
+D 600V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88756/uf5400.pdf
+$ENDCMP
+#
+$CMP UF5407
+D 800V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88756/uf5400.pdf
+$ENDCMP
+#
+$CMP UF5408
+D 1000V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD
+K diode
+F http://www.vishay.com/docs/88756/uf5400.pdf
+$ENDCMP
+#
+$CMP US1A
+D 50V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Ultra Fast
+F https://www.diodes.com/assets/Datasheets/ds16008.pdf
+$ENDCMP
+#
+$CMP US1B
+D 100V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Ultra Fast
+F https://www.diodes.com/assets/Datasheets/ds16008.pdf
+$ENDCMP
+#
+$CMP US1D
+D 200V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Ultra Fast
+F https://www.diodes.com/assets/Datasheets/ds16008.pdf
+$ENDCMP
+#
+$CMP US1G
+D 400V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Ultra Fast
+F https://www.diodes.com/assets/Datasheets/ds16008.pdf
+$ENDCMP
+#
+$CMP US1J
+D 600V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Ultra Fast
+F https://www.diodes.com/assets/Datasheets/ds16008.pdf
+$ENDCMP
+#
+$CMP US1K
+D 800V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Ultra Fast
+F https://www.diodes.com/assets/Datasheets/ds16008.pdf
+$ENDCMP
+#
+$CMP US1M
+D 1000V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Ultra Fast
+F https://www.diodes.com/assets/Datasheets/ds16008.pdf
+$ENDCMP
+#
+$CMP US2AA
+D 50V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Super Fast
+F https://www.onsemi.com/pub/Collateral/US2AA-D.PDF
+$ENDCMP
+#
+$CMP US2BA
+D 100V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Super Fast
+F https://www.onsemi.com/pub/Collateral/US2AA-D.PDF
+$ENDCMP
+#
+$CMP US2DA
+D 200V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Super Fast
+F https://www.onsemi.com/pub/Collateral/US2AA-D.PDF
+$ENDCMP
+#
+$CMP US2FA
+D 300V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Super Fast
+F https://www.onsemi.com/pub/Collateral/US2AA-D.PDF
+$ENDCMP
+#
+$CMP US2GA
+D 400V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Super Fast
+F https://www.onsemi.com/pub/Collateral/US2AA-D.PDF
+$ENDCMP
+#
+$CMP US2JA
+D 600V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Super Fast
+F https://www.onsemi.com/pub/Collateral/US2AA-D.PDF
+$ENDCMP
+#
+$CMP US2KA
+D 800V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Super Fast
+F https://www.onsemi.com/pub/Collateral/US2AA-D.PDF
+$ENDCMP
+#
+$CMP US2MA
+D 1000V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)
+K Super Fast
+F https://www.onsemi.com/pub/Collateral/US2AA-D.PDF
+$ENDCMP
+#
+$CMP VS-6ESU06
+D 600V 6.0A Ultrafast Rectifier, TO-277A
+K diode fred
+F https://www.vishay.com/docs/94987/vs-6esu06hm3.pdf
+$ENDCMP
+#
+$CMP Z1SMAxxx
+D 1000mW Zener Diode, SMA(DO-214AC)
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/z1sma1.pdf
+$ENDCMP
+#
+$CMP Z2SMBxxx
+D 2000mW Zener Diode, SMB(DO-214AA)
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/z2smb1.pdf
+$ENDCMP
+#
+$CMP Z3SMCxxx
+D 3000mW Zener Diode, SMC(DO-214AB)
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/z3smc1.pdf
+$ENDCMP
+#
+$CMP ZMDxx
+D 1000mW Zener Diode, MiniMELF
+K zener diode
+F http://diotec.com/tl_files/diotec/files/pdf/datasheets/zmd1
+$ENDCMP
+#
+$CMP ZMMxx
+D 500mW Zener Diode, MiniMELF
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/zmm1.pdf
+$ENDCMP
+#
+$CMP ZMYxx
+D 1300mW Zener Diode, MELF
+K zener diode
+F http://www.vishay.com/docs/85790/zpy3v9.pdf
+$ENDCMP
+#
+$CMP ZPDxx
+D 500mW Zener Diode, DO-35
+K diode
+F http://diotec.com/tl_files/diotec/files/pdf/datasheets/zpd1
+$ENDCMP
+#
+$CMP ZPYxx
+D 1300mW Zener Diode, DO-41
+K zener diode
+F http://www.vishay.com/docs/85790/zpy3v9.pdf
+$ENDCMP
+#
+$CMP ZYxxx
+D 2000mW Zener Diode, DO-41
+K zener diode
+F https://diotec.com/tl_files/diotec/files/pdf/datasheets/zy1
+$ENDCMP
+#
+#End Doc Library
