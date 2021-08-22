@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_POT_GameBoy_Volume_MGB
+D Audio volume potentiometer, Game Boy Pocket (MGB)
+K resistor variable
+F ~
+$ENDCMP
+#
+#End Doc Library
