@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TG-3541CE
+D 32.768 kHz TCXO oscillator
+K tcxo
+F https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC
+$ENDCMP
+#
+#End Doc Library

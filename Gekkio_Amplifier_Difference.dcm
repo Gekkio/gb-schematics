@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA1632DR
+D High-Performance, Fully-Differential Audio Operational Amplifier, SOIC-8
+K differential amplifier
+F http://www.ti.com/lit/ds/sbos286c/sbos286c.pdf
+$ENDCMP
+#
+#End Doc Library
