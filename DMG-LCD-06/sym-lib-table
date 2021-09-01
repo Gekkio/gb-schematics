@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name Gekkio_Regulator_Linear)(type Legacy)(uri ${KIPRJMOD}/external/gekkio-kicad-libs/Gekkio_Regulator_Linear.lib)(options "")(descr ""))
+  (lib (name Connector)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Connector.lib)(options "")(descr ""))
+  (lib (name Connector_Generic)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Connector_Generic.lib)(options "")(descr ""))
+  (lib (name Device)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Device.lib)(options "")(descr ""))
+  (lib (name Jumper)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Jumper.lib)(options "")(descr ""))
+  (lib (name Mechanical)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Mechanical.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/power.lib)(options "")(descr ""))
+  (lib (name Switch)(type Legacy)(uri ${KIPRJMOD}/external/kicad-symbols/Switch.lib)(options "")(descr ""))
+)

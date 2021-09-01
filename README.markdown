@@ -57,3 +57,15 @@ Components were identified by desoldering and measuring everything on a AGS-CPU-
   Traced AGS-CPU-11 board SVG
 
 </a>
+
+## Original Game Boy LCD board (DMG-LCD-06)
+
+Components were identified by desoldering and measuring everything on a DMG-LCD-06 board.
+
+<a href="DMG-LCD-06/schematic/DMG-LCD-06.pdf">
+
+  ![](DMG-LCD-06.png)
+
+  Original Game Boy LCD board (DMG-LCD-06) schematics
+
+</a>
