@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP FGPMMOPA6H
-D GPS Module
-K gps
-F https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf
-$ENDCMP
-#
-#End Doc Library
