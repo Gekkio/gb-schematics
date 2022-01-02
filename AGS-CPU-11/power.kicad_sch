@@ -3693,7 +3693,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c6a13bb)
     (property "Reference" "U4" (id 0) (at 73.66 35.1282 0))
-    (property "Value" "Conn_02x08_Counter_Clockwise" (id 1) (at 73.66 37.4396 0))
+    (property "Value" "S6403/9753" (id 1) (at 73.66 37.4396 0))
     (property "Footprint" "" (id 2) (at 72.39 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )

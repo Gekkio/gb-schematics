@@ -7726,7 +7726,7 @@
       (reference "U3") (unit 1) (value "AGB-AMP") (footprint "Gekkio_Package_SO:Sharp_SSOP-18_6x7.4mm_P0.8mm")
     )
     (path "/00000000-0000-0000-0000-00005c677c54/00000000-0000-0000-0000-00005c6a13bb"
-      (reference "U4") (unit 1) (value "Conn_02x08_Counter_Clockwise") (footprint "")
+      (reference "U4") (unit 1) (value "S6403/9753") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005be05cb3/00000000-0000-0000-0000-00005be0d373"
       (reference "U5") (unit 1) (value "MM1581") (footprint "Package_SO:TSSOP-16_4.4x5mm_P0.65mm")
