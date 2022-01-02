@@ -5261,7 +5261,7 @@
       (reference "C33") (unit 1) (value "6.8uF") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005ece8af1/00000000-0000-0000-0000-00005ed09c8c"
-      (reference "C35") (unit 1) (value "C") (footprint "")
+      (reference "C35") (unit 1) (value "100pF") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005ece8af1/00000000-0000-0000-0000-00005ed09c7b"
       (reference "D2") (unit 1) (value "1SS355") (footprint "")
