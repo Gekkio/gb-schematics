@@ -1444,7 +1444,7 @@
     (effects (font (size 0.762 0.762)) (justify right bottom))
     (uuid 3ba59656-e36e-4caa-8957-90ed8686b3d3)
   )
-  (text "STN LCD bias generation" (at 189.23 43.18 180)
+  (text "TN LCD bias generation" (at 189.23 43.18 180)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify right bottom))
     (uuid 87a32952-c8e5-40ba-af1d-1a8829a6c906)
   )
