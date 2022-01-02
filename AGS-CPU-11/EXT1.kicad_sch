@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "AGS-CPU-11 - EXT1 port")
-    (date "2021-07-26")
-    (rev "C")
+    (title "AGS-CPU-11")
+    (date "2022-01-02")
+    (rev "D")
     (company "https://gekkio.fi")
     (comment 1 "https://github.com/Gekkio/gb-schematics")
   )

@@ -2,6 +2,18 @@
 
 ## [Unreleased]
 
+## Rev D - 2022-01-02
+
+### Added
+
+- Voltage ratings of electrolytic capacitor CP1
+
+### Changed
+
+- Upgraded to KiCad 6.0 file formats
+- Removed test point references, since they're not present on
+  the original board and cause confusion with TP0-9 button signals
+
 ## Rev C - 2021-07-26
 
 ### Fixed
