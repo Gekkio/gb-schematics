@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "MGB-xCPU - LCD")
-    (date "2020-09-19")
-    (rev "B")
+    (title "MGB-xCPU")
+    (date "2022-01-02")
+    (rev "C")
     (company "https://gekkio.fi")
     (comment 1 "https://github.com/gekkio/gb-schematics")
   )
