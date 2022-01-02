@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP RN4986
-D Dual Digital NPN+PNP Transistor, 4k7/47k, SC-70-6
-K Toshiba Digital NPN+PNP Transistor
-F https://toshiba.semicon-storage.com/info/docget.jsp?did=18983&prodName=RN4986
-$ENDCMP
-#
-#End Doc Library

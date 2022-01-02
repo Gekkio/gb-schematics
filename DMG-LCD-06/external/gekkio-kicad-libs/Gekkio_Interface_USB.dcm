@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TS3USB221RSER
-D High-Speed USB 2.0 1:2 Multiplexer/Demultiplexer Switch with Single Enable, UQFN-10
-K USB high speed mux
-F https://www.ti.com/lit/gpn/ts3usb221
-$ENDCMP
-#
-#End Doc Library
