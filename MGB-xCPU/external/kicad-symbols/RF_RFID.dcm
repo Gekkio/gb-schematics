@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP HTRC11001T
-D HITAG RF Reader Device, SOIC-14
-K HITAG RFID
-F https://www.nxp.com/docs/en/data-sheet/037031.pdf
-$ENDCMP
-#
-#End Doc Library
