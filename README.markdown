@@ -80,15 +80,15 @@ There are several versions of the regulator board, but the board label is not en
   <img src="dmg_power_boards.jpg" width="500">
 </a>.
 
-**TODO: type D (a.k.a DC CONV2 DMG)**
-
 Schematics:
 
 * [DC CONV DMG (type A / type B) schematics](DC-CONV-DMG-AB/schematic/DC-CONV-DMG-AB.pdf)
 * [DC CONV DMG (type C) schematics](DC-CONV-DMG-C/schematic/DC-CONV-DMG-C.pdf)
+* [DC CONV2 DMG (type D) schematics](DC-CONV2-DMG-D/schematic/DC-CONV2-DMG-D.pdf)
 
 Visual component references:
 
 * [DC CONV DMG (type A) visual component reference](DC-CONV-DMG-AB/dc_conv_dmg_a_components.jpg)
 * [DC CONV DMG (type B) visual component reference](DC-CONV-DMG-AB/dc_conv_dmg_b_components.jpg)
 * [DC CONV DMG (type C) visual component reference](DC-CONV-DMG-C/dc_conv_dmg_c_components.jpg)
+* [DC CONV2 DMG (type D) visual component reference](DC-CONV2-DMG-D/dc_conv2_dmg_d_components.jpg)
