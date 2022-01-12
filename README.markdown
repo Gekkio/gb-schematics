@@ -83,9 +83,13 @@ There are several versions of the regulator board, but the board label is not en
 **TODO: type C / type D (a.k.a DC CONV2 DMG)**
 
 <a href="DC-CONV-DMG-AB/schematic/DC-CONV-DMG-AB.pdf">
+  DC CONV DMG (type A / type B) schematics
+</a>
 
-  ![](DC-CONV-DMG-AB.png)
+<a href="DC-CONV-DMG-AB/dc_conv_dmg_a_components.jpg">
+  DC CONV DMG (type A) visual component reference
+</a>
 
-  Original Game Boy DC/DC power board (type A / type B) schematics
-
+<a href="DC-CONV-DMG-AB/dc_conv_dmg_b_components.jpg">
+  DC CONV DMG (type B) visual component reference
 </a>
