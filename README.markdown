@@ -82,14 +82,11 @@ There are several versions of the regulator board, but the board label is not en
 
 **TODO: type C / type D (a.k.a DC CONV2 DMG)**
 
-<a href="DC-CONV-DMG-AB/schematic/DC-CONV-DMG-AB.pdf">
-  DC CONV DMG (type A / type B) schematics
-</a>
+Schematics:
 
-<a href="DC-CONV-DMG-AB/dc_conv_dmg_a_components.jpg">
-  DC CONV DMG (type A) visual component reference
-</a>
+* [DC CONV DMG (type A / type B) schematics](DC-CONV-DMG-AB/schematic/DC-CONV-DMG-AB.pdf)
 
-<a href="DC-CONV-DMG-AB/dc_conv_dmg_b_components.jpg">
-  DC CONV DMG (type B) visual component reference
-</a>
+Visual component references:
+
+* [DC CONV DMG (type A) visual component reference](DC-CONV-DMG-AB/dc_conv_dmg_a_components.jpg)
+* [DC CONV DMG (type B) visual component reference](DC-CONV-DMG-AB/dc_conv_dmg_b_components.jpg)
