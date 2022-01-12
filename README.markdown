@@ -92,3 +92,10 @@ Visual component references:
 * [DC CONV DMG (type B) visual component reference](DC-CONV-DMG-AB/dc_conv_dmg_b_components.jpg)
 * [DC CONV DMG (type C) visual component reference](DC-CONV-DMG-C/dc_conv_dmg_c_components.jpg)
 * [DC CONV2 DMG (type D) visual component reference](DC-CONV2-DMG-D/dc_conv2_dmg_d_components.jpg)
+
+Known differences:
+
+* A1 vs A2 vs A3: one trace is laid out slightly differently at the bottom of the board
+* A vs B: exactly the same circuit, but the board layout has been redone and small components now come in MicroMELF packages (vs 0603 imperial)
+* B vs C: almost exactly the same circuit, but the input filter no longer has an inductor, and many component values have been slightly changed. Schottky diode switched from surface-mount SOT-23 package to through-hole DO-34.
+* C vs D: main circuit and components are identical, but an extra undervoltage lockout (UVLO) circuit has been added and board layout has been redone once again
