@@ -72,7 +72,7 @@ Components were identified by desoldering and measuring everything on a DMG-LCD-
 
 ## Original Game Boy DC/DC power board (DC CONV DMG / DC CONV2 DMG)
 
-Components were identified by desoldering and measuring everything on one type A and one type B board.
+Components were identified by desoldering and measuring everything on one board of each type (A/B/C/D).
 
 There are several versions of the regulator board, but the board label is not enough to distinguish the different versions. [gbhwdb](https://gbhwdb.gekkio.fi/consoles/dmg) uses unofficial type A1/A2/A3/B/C/D designation, which is also used here. Identify your board by looking at the following board version comparison photo:
 
