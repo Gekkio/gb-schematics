@@ -1,6 +1,14 @@
 # Change Log
 
-## [Unreleased]
+## Unreleased
+
+## Rev D - 2022-02-20
+
+### Added
+
+- Previously missing CL1-CL5 test points / jumpers. Nintendo boards usually use
+  CL to mean a jumper configured at manufacture time, so these are not really
+  "solder bridges" that could be configured by drilling/cutting/soldering
 
 ## Rev C - 2022-01-02
 

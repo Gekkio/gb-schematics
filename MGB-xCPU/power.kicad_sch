@@ -6,8 +6,8 @@
 
   (title_block
     (title "MGB-xCPU")
-    (date "2022-01-02")
-    (rev "C")
+    (date "2022-02-20")
+    (rev "D")
     (company "https://gekkio.fi")
     (comment 1 "https://github.com/gekkio/gb-schematics")
   )
