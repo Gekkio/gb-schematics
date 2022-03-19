@@ -34,6 +34,28 @@ Components were identified by desoldering and measuring everything on MGB-ECPU-0
 
 [Raw notes of MGB-ECPU-01 board components](MGB-xCPU/MGB-ECPU-01.txt)
 
+## Game Boy Light mainboard (MGL-CPU-01)
+
+Components were identified by desoldering and measuring everything on an MGL-CPU-01 board.
+
+<a href="MGL-CPU-01/schematic/MGL-CPU-01.pdf">
+
+  ![](MGL-CPU-01.png)
+
+  Game Boy Light mainboard schematics
+
+</a>
+
+<a href="MGL-CPU-01/MGL-CPU-01.svg">
+
+  ![](MGL-CPU-01_trace.png)
+
+  Traced MGL-CPU-01 board SVG
+
+</a>
+
+[Raw notes of MGL-CPU-01 board components](MGL-CPU-01/MGL-CPU-01.txt)
+
 ## Game Boy Advance SP AGS-001 mainboard (AGS-CPU-11)
 
 Components were identified by desoldering and measuring everything on a AGS-CPU-11 board.

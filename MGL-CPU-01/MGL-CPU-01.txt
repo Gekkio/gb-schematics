@@ -1,0 +1,258 @@
+MGL-CPU-01:
+  1.12mm thickness
+
+C1: 27 pF, 0603
+  C=28 pF @ 120 Hz
+  C=28.2 pF @ 1 kHz
+C2: 27 pF, 0603
+  C=28 pF @ 120 Hz
+  C=28.3 pF @ 1 kHz
+C3: 47 pF, 0603
+  C=47 pF @ 120 Hz
+  C=47.5 pF @ 1 kHz
+C4: 100 pF, 0603
+  C=103 pF @ 120 Hz
+  C=102.9 pF @ 1 kHz
+C5: 100 pF, 0603
+  C=102 pF @ 120 Hz
+  C=102.9 pF @ 1 kHz
+C6: 100 pF, 0603
+  C=102 pF @ 120 Hz
+  C=101.8 pF @ 1 kHz
+C7: 100 pF, 0603
+  C=100 pF @ 120 Hz
+  C=100.1 pF @ 1 kHz
+C9: 15 nF, 0603
+  C=13.7 nF @ 120 Hz
+  C=13.7 nF @ 1 kHz
+C10: 15 nF, 0603
+  C=15.0 nF @ 120 Hz
+  C=14.7 nF @ 1 kHz
+C11: 15 nF, 0603
+  C=15.1 nF @ 120 Hz
+  C=14.8 nF @ 1 kHz
+C12: 15 nF, 0603
+  C=14.7 nF @ 120 Hz
+  C=14.5 nF @ 1 kHz
+C13: 15 nF, 0603
+  C=15.3 nF @ 120 Hz
+  C=15.1 nF @ 1 kHz
+C14: 68 nF, 0603
+  C=69.6 nF @ 120 Hz
+  C=67.8 nF @ 1 kHz
+C15: 68 nF, 0603
+  C=65.9 nF @ 120 Hz
+  C=64.3 nF @ 1 kHz
+C16: 68 nF, 0603
+  C=69.4 nF @ 120 Hz
+  C=67.6 nF @ 1 kHz
+C17: 150 nF, 0603
+  C=138.6 nF @ 120 Hz
+  C=136.4 nF @ 1 kHz
+C18: 1 uF, 0603
+  C=1029 nF @ 120 Hz
+  C=974.1 nF @ 1 kHz
+C19: 1 uF, 0603
+  C=1038 nF @ 120 Hz
+  C=990.1 nF @ 1 kHz
+C20: 1.5 uF, 0805
+  C=1295 nF @ 120 Hz
+  C=1280 nF @ 1 kHz
+C21: 1.5 uF, 0805
+  C=1297 nF @ 120 Hz
+  C=1275 nF @ 1 kHz
+C22: 1 uF, 0603
+  C=1046 nF @ 120 Hz
+  C=996.1 nF @ 1 kHz
+C23: 1.5 uF, 0805
+  C=1274 nF @ 120 Hz
+  C=1217 nF @ 1 kHz
+C24: 1 uF, 0603
+  C=1015 nF @ 120 Hz
+  C=961.5 nF @ 1 kHz
+C25: 3.3 uF, 0805
+  C=4.07 uF @ 120 Hz
+  C=3.35 uF @ 1 kHz
+C26: 3.3 uF, 0805
+  C=4.23 uF @ 120 Hz
+  C=3.22 uF @ 1 kHz
+C27: 3.3 uF, 0805
+  C=4.28 uF @ 120 Hz
+  C=3.71 uF @ 1 kHz
+C28: 10 uF, 1210
+  C=11.6 uF @ 120 Hz
+  C=9.6 uF @ 1 kHz
+C29: 1 uF, 35 V, SMD D=4 mm L=4.5 mm ("ZAA 1 35V")
+  C=993.5 nF, ESR=54.7 ohm @ 120 Hz
+  C=959.3 nF, ESR=22.9 ohm @ 1 kHz
+  C=535.3 nF, ESR=14.6 ohm @ 100 kHz
+  Nichicon marking style? ZAA = lot 
+C30: 330 uF, 6.3 V, SMD D=8 mm L=6.5 mm ("330 6A 8G4")
+  C=287.7 uF, ESR=0.7 ohm @ 120 Hz
+  C=260 uF, ESR=0.6 ohm @ 1 kHz
+C31: 100 uF, 6.3 V, SMD D=6.3 mm L=5.4 mm ("100 6S 8F3")
+  C=93.5 uF, ESR=3.3 ohm @ 120 Hz
+  C=83.4 uF, ESR=2.8 ohm @ 1 kHz
+  C=11.0 uF, ESR=2.2 ohm @ 100 kHz
+C32: 330 uF, 6.3 V, SMD D=8 mm L=6.5 mm ("330 6A 8G4")
+  C=295.6 uF, ESR=0.7 ohm @ 120 Hz
+  C=265 uF, ESR=0.6 ohm @ 1 kHz
+C33: 6.8 uF, 1206
+  C=10.6 uF @ 120 Hz
+  C=7.57 uF @ 1 kHz
+C34: 220 nF, 0805
+  C=230.8 nF @ 120 Hz
+  C=228.5 nF @ 1 kHz
+C36: 10 nF, 0603
+  C=9.73 nF @ 120 Hz
+  C=9.64 nF @ 1 kHz
+C38: 33 uF, 25 V, SMD D=6.3 mm L=5.4 mm ("33 25S 8E3")
+  C=32.5 uF, ESR=3.8 ohm @ 120 Hz
+  C=30.7 uF, ESR=2.9 ohm @ 1 kHz
+  C=7.35 uF, ESR=2.2 ohm @ 100 kHz
+C39: 15 nF, 0603
+  C=14.51 nF @ 120 Hz
+  C=14.32 nF @ 1 kHz
+C40: 15 nF, 0603
+  C=15.07 nF @ 120 Hz
+  C=14.31 nF @ 1 kHz
+R1: 100 ohm, 0603 ("101")
+  R=97.6 ohm
+R3: 180 kOhm, 0603 ("184")
+  R=182.1 kOhm
+R4: 75 ohm, 0603 ("750")
+  R=74.9 ohm
+R7: 750 ohm, 0603 ("751")
+  R=752 ohm
+R8: 47 kOhm, 0603 ("473")
+  R=46.5 kOhm
+R9: 4.3 kOhm, 0603 ("432")
+  R=4.20 kOhm
+R10: 10 ohm, 0603 ("100")
+  R=10.3 ohm
+R11: 75 ohm, 0603 ("750")
+  R=75.0 ohm
+DA1: MA6X124, SOT-23-6 ("M2C")
+  common cathode, pins 2/5
+  1-2: Vf=0.711 V @ 5.00 mA
+  3-2: Vf=0.712 V @ 5.00 mA
+  4-5: Vf=0.712 V @ 5.00 mA
+  6-5: Vf=0.710 V @ 5.00 mA
+DA2: MA6X124, SOT-23-6 ("M2C")
+  common cathode, pins 2/5
+  1-2: Vf=0.704 V @ 5.00 mA
+  3-2: Vf=0.708 V @ 5.00 mA
+  4-5: Vf=0.707 V @ 5.01 mA
+  6-5: Vf=0.706 V @ 5.00 mA
+DA3: Rohm UMN1N, SOT-353 ("N1")
+  common cathode, pin 2
+  1-2: Vf=0.703 V @ 5.00 mA
+  3-2: Vf=0.701 V @ 5.00 mA
+  4-2: Vf=0.702 V @ 5.00 mA
+  5-2: Vf=0.700 V @ 5.00 mA
+DA4: Rohm UMP1N, SOT-353 ("P1")
+  common anode, pin 2
+  1-2: Vf=0.682 V @ 5.00 mA
+  3-2: Vf=0.682 V @ 5.00 mA
+  4-2: Vf=0.681 V @ 5.00 mA
+  5-2: Vf=0.682 V @ 5.00 mA
+D2: Panasonic MA2J111, SOD-323 ("1B")
+  Vf=0.712 V @ 5.00 mA
+D4: red LED, THT
+  D=3.1 mm P=2.54 mm
+  Vf=1.792 V @ 5.00 mA
+D5: Panasonic MA2J111, SOD-323 ("1B")
+  Vf=0.711 V @ 5.01 mA
+Q1: Rohm 2SA1576A, PNP BEC, SOT-323 ("FR")
+  hFE=300 @ Ic=5.04 mA
+  VBE=0.766 V @ Ib=5.00 mA
+  VCEsat=0.036 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak=0.000 mA
+Q2: Rohm 2SC4081, NPN BEC, SOT-323 ("BS")
+  hFE=348 @ Ic=5.03 mA
+  VBE=0.770 V @ Ib=5.00 mA
+  VCEsat=0.025 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak=0.000 mA
+Q3: Rohm 2SD1781K, NPN BEC, SOT-23 ("AFR 18")
+  hFE=231 @ Ic=5.02 mA
+  VBE=0.737 V @ Ib=5.00 mA
+  VCEsat=0.009 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak=0.000 mA
+Q4: Rohm 2SD1781K, NPN BEC, SOT-23 ("AFR 18")
+  hFE=232 @ Ic=5.02 mA
+  VBE=0.737 V @ Ib=5.00 mA
+  VCEsat=0.009 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak=0.000 mA
+EM1: 0603
+  R=0.41 ohm
+EM2: 0603
+  R=0.41 ohm
+EM3: 0603
+  R=0.43 ohm
+RA3: 4x220 ohm, 4x0603 ("221")
+  R=217.2 ohm
+  R=214.9 ohm
+  R=218.4 ohm
+  R=215.3 ohm
+RA4: 2x510 ohm, 2x0603 ("511")
+  R=500.1 ohm
+  R=506.5 ohm
+RA5: 2x15 ohm, 2x0603 ("150")
+  R=15.1 ohm
+  R=15.2 ohm
+F1: 1.0A fuse, THT
+  R=0.19 ohm
+  trip current ~1.8A
+F2: 1.2A fuse, SMD 3.2x2.5 mm ("1.2A 815")
+  R=0.10 ohm
+U1: CPU MGB
+U2: 64K S-RAM ("LH5164AN-10L SHARP JAPAN 9814 3 EB")
+U3: AMP-MGB ("AMP MGB IR3R53N 9815 a")
+U4: DMG-REG ("DMG-REG IR3E02 9813 n")
+U5: DC/DC converter daughterboard
+U6: Mitsumi PST9135N, SOT-23-5 ("358B")
+VR1: 10kx2 ("B34 84B")
+  Custom Panasonic EVU-TX?
+VR2: 30k ("B14 846")
+  Custom Panasonic EVU-TX?
+T1: Custom transformer: 1-2-3 split primary, 4-5 aux, 6-10 secondary
+  6-10:
+    1.0077 kOhm DCR
+    6.357 H @ 100 Hz
+    6.066 H @ 1 kHz
+    7.428 H @ 10 kHz
+  4-5:
+    3.23 ohm DCR
+    442 uH @ 100 Hz
+    440.9 uH @ 1 kHz
+    561.3 uH @ 10 kHz
+    20.61 uH @ 100 kHz
+  1-2:
+    26.70 ohm DCR
+    32.29 mH @ 100 Hz
+    31.72 mH @ 1 kHz
+    37.76 mH @ 10 kHz
+    1462.8 uH @ 100 kHz
+  1-3:
+    54.95 ohm DCR
+    133.11 mH @ 100 Hz
+    125.11 mH @ 1 kHz
+    151.86 mH @ 10 kHz
+    5.538 mH @ 100 kHz
+  2-3:
+    28.36 ohm DCR
+    32.46 mH @ 100 Hz
+    31.82 mH @ 1 kHz
+    38.34 mH @ 10 kHz
+    1335.5 uH @ 100 kHz
+
+X1: 4.194304 MHz crystal ("KDS9811 4.194")
+P1: cartridge connector
+P2: LCD connector
+P3: link port
+P4: DC jack
+P5: headphone connector
+SP: 8 ohm speaker ("R")
+  R=7.4 ohm
+Positive battery terminal
+Negative battery terminal

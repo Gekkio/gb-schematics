@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MGL-CPU-01")(type "KiCad")(uri "${KIPRJMOD}/MGL-CPU-01.kicad_sym")(options "")(descr ""))
+)
