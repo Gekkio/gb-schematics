@@ -1,0 +1,117 @@
+LSEP1088A1:
+
+C1: 4.7 uF, 1206
+  C=4.605 uF @ 120 Hz
+  C=4.084 uF @ 1 kHz
+C2: 1.5 uF, 1206
+  C=1650.6 nF @ 120 Hz
+  C=1522.7 nF @ 1 kHz
+C3: 100 nF, 0603
+  C=107.95 nF @ 120 Hz
+  C=106.51 nF @ 1 kHz
+C4: 1 nF, 0603
+  C=1012 pF @ 120 Hz
+  C=998.7 pF @ 1 kHz
+C5: 1.5 uF, 1206
+  C=1433.4 nF @ 120 Hz
+  C=1351.8 nF @ 1 kHz
+C6: 100 nF, 0805
+  C=103.99 nF @ 120 Hz
+  C=102.36 nF @ 1 kHz
+C7: 22 nF, 0603
+  C=23.62 nF @ 120 Hz
+  C=23.28 nF @ 1 kHz
+C8: 100 nF, 0603
+  C=104.74 nF @ 120 Hz
+  C=103.30 nF @ 1 kHz
+C9: 150 pF, 0603
+  C=152 pF @ 120 Hz
+  C=152.4 pF @ 1 kHz
+
+R1: 100 kOhm, 0603 ("104")
+  R=97.6k kOhm
+R2: 22 kOhm, 0603 ("223")
+  R=22.70 kOhm
+R3: 82 kOhm, 0603 ("823")
+  R=83.7 kOhm
+R4: 47 kOhm, 0603 ("473")
+  R=46.18 kOhm
+R5: 22 kOhm, 0603 ("223")
+  R=22.22 kOhm
+R6: 2.2 kOhm, 0603 ("222")
+  R=2.154 kOhm
+R7: 3.3 kOhm, 0603 ("332")
+  R=3.243 kOhm
+R8: 1.8 kOhm, 0603 ("182")
+  R=1.773 kOhm
+R9: 22 ohm, 0603 ("220")
+  R=22.8 ohm
+
+D1: Panasonic MA2J111, SOD-323 ("1B")
+  Vf=0.700 V @ 5.01 mA
+D2: Panasonic MA2J111, SOD-323 ("1B")
+  Vf=0.700 V @ 5.00 mA
+D3: Panasonic MA2J111, SOD-323 ("1B")
+  Vf=0.699 V @ 5.01 mA
+D4: Panasonic MA3X748, Schottky 1=A 3=K, SOT-23 "M4A"
+  Vf=0.209 V @ 5.00 mA
+D5: Panasoniz MAZ8047, 4.7V Zener, SOD-323 ("4-7")
+  Vr=4.765 V @ 5.00 mA
+  Vf=0.810 V @ 5.00 mA
+
+Q1: Panasonic 2SD601A, NPN BEC, SOT-23 "Z R"
+  hFE=261 @ Ic=5.01 mA
+  VBE=0.774 V @ Ib=5.00 mA
+  VCEsat=0.022 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+Q2: Panasonic 2SD601A, NPN BEC, SOT-23 "Z R"
+  hFE=241 @ Ic=5.01 mA
+  VBE=0.772 V @ Ib=5.00 mA
+  VCEsat=0.024 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+Q3: Panasonic 2SD601A, NPN BEC, SOT-23 "Z R"
+  hFE=267 @ Ic=5.02 mA
+  VBE=0.767 V @ Ib=5.00 mA
+  VCEsat=0.023 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+Q4: Panasonic 2SD1119, NPN BCE, SOT-89 "T R"
+  hFE=426 @ Ic=5.00 mA
+  VBE=0.704 V @ Ib=5.00 mA
+  VCEsat=0.004 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+Q5: Panasonic 2SD601A, NPN BEC, SOT-23 "Z R"
+  hFE=259 @ Ic=5.01 mA
+  VBE=0.769 V @ Ib=5.00 mA
+  VCEsat=0.022 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+
+T1: Custom transformer: 1-4 primary, 2-3 aux, 5-8 secondary, 6-7 secondary
+  Windings (top->down, left->right):
+    4-1: 26 turns
+    7-6: 91 turns
+    8-5: 26 turns
+    3-2: 26 turns
+  1-4:
+    0.75 ohm DCR
+    28 uH @ 100 Hz
+    27.6 uH @ 1 kHz
+    27.26 uH @ 10 kHz
+    27.25 uH @ 100 kHz
+  2-3:
+    0.40 ohm DCR
+    31 uH @ 100 Hz
+    31.6 uH @ 1 kHz
+    31.31 uH @ 10 kHz
+    31.28 uH @ 100 kHz
+  5-8:
+    0.67 ohm DCR
+    28 uH @ 100 Hz
+    28.3 uH @ 1 kHz
+    28.10 uH @ 10 kHz
+    28.07 uH @ 100 kHz
+  6-7:
+    1.66 ohm DCR
+    378 uH @ 100 Hz
+    374.5 uH @ 1 kHz
+    374.2 uH @ 10 kHz
+    367.1 uH @ 100 kHz

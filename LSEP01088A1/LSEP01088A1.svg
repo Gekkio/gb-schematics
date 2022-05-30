@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1608"
+   width="1674"
+   height="1914"
+   viewBox="0 0 1674 1914"
+   sodipodi:docname="LSEP01088A1.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1612" />
+  <sodipodi:namedview
+     id="namedview1610"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.33212591"
+     inkscape:cx="417.01052"
+     inkscape:cy="1382.006"
+     inkscape:window-width="1534"
+     inkscape:window-height="1414"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1608" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Background"
+     id="g1614"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       width="1674"
+       height="1914"
+       preserveAspectRatio="none"
+       xlink:href="LSEP01088A1.back_copper.jpg"
+       id="image1861"
+       style="display:inline"
+       inkscape:label="Back copper" />
+    <image
+       width="1674"
+       height="1914"
+       preserveAspectRatio="none"
+       xlink:href="LSEP01088A1.back.jpg"
+       id="image1849"
+       style="display:inline"
+       inkscape:label="Back" />
+    <image
+       width="1674"
+       height="1914"
+       preserveAspectRatio="none"
+       xlink:href="LSEP01088A1.front_copper.jpg"
+       id="image1873"
+       style="display:inline"
+       inkscape:label="Front copper" />
+    <image
+       width="1674"
+       height="1914"
+       preserveAspectRatio="none"
+       xlink:href="LSEP01088A1.front.jpg"
+       id="image1616"
+       inkscape:label="Front"
+       style="display:inline" />
+  </g>
+</svg>

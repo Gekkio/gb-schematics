@@ -1,0 +1,114 @@
+C1: 2.2 uF, 1206
+  C=2.475 uF @ 120 Hz
+  C=2.266 uF @ 1 kHz
+C2: 1 uF, 0805
+  C=1210.2 nF @ 120 Hz
+  C=1091.5 nF @ 1 kHz
+C3: 100 nF, 0805
+  C=101.50 nF @ 120 Hz
+  C=99.78 nF @ 1 kHz
+C4: 510 pF, MicroMELF
+  C=509 pF @ 120 Hz
+  C=500.1 pF @ 1 kHz
+C5: 1 uF, 0805
+  C=1213.8 nF @ 120 Hz
+  C=1154.6 nF @ 1 kHz
+C6: 100 nF, 0805
+  C=99.39 nF @ 120 Hz
+  C=98.15 nF @ 1 kHz
+C7: 33 nF, MicroMELF
+  C=29.14 nF @ 120 Hz
+  C=27.88 nF @ 1 kHz
+C8: 100 pF, 0805
+  C=104 pF @ 120 Hz
+  C=104.8 pF @ 1 kHz
+C9: 51 pF, MicroMELF
+  C=52 pF @ 120 Hz
+  C=52.5 pF @ 1 kHz
+
+R1: 100 kOhm, MicroMELF
+  R=100.2k kOhm
+R2: 22 kOhm, MicroMELF
+  R=22.01 kOhm
+R3: 82 kOhm, MicroMELF
+  R=82.3 kOhm
+R4: 47 kOhm, MicroMELF
+  R=46.89 kOhm
+R5: 22 kOhm, MicroMELF
+  R=22.15 kOhm
+R6: 2.2 kOhm, MicroMELF
+  R=2.211 kOhm
+R7: 2.2 kohm, MicroMELF
+  R=2.212 kohm
+R8: 2.2 kOhm, MicroMELF
+  R=2.183 kOhm
+
+D1: KEC KDS160, SOD-323 ("UF")
+  Vf=0.704 V @ 5.00 mA
+D2: KEC KDS160, SOD-323 ("UF")
+  Vf=0.706 V @ 5.00 mA
+D3: Panasonic MA3X720, Schottky 1=A 3=K, SOT-23 "M2W"
+  Vf=0.205 V @ 5.00 mA
+D4: KEC KDS160, SOD-323 ("UF")
+  Vf=0.696 V @ 5.00 mA
+D5: Panasonic MAZ30510M, 5.1V Zener, 1=A 3=K, SOT-23 ("5.1M")
+  Vr=5.065 V @ 5.00 mA
+  Vf=0.781 V @ 5.00 mA
+
+Q1: KEC KTC3875S, NPN BEC, SOT-23 "ALY"
+  hFE=177 @ Ic=5.04 mA
+  VBE=0.768 V @ Ib=5.00 mA
+  VCEsat=0.026 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+Q2: KEC KTC3875S, NPN BEC, SOT-23 "ALY"
+  hFE=172 @ Ic=5.02 mA
+  VBE=0.772 V @ Ib=5.01 mA
+  VCEsat=0.026 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+Q3: KEC KTC3875S, NPN BEC, SOT-23 "ALY"
+  hFE=185 @ Ic=5.01 mA
+  VBE=0.771 V @ Ib=5.00 mA
+  VCEsat=0.026 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+Q4: Rohm 2SD2150, NPN BCE, SOT-89 "CF SZ"
+  hFE=399 @ Ic=5.01 mA
+  VBE=0.715 V @ Ib=5.00 mA
+  VCEsat=0.004 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+Q5: KEC KTC3875S, NPN BEC, SOT-23 "ALY"
+  hFE=189 @ Ic=5.01 mA
+  VBE=0.768 V @ Ib=5.00 mA
+  VCEsat=0.026 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak = 0.000 mA
+
+T1: Custom transformer: 1-4 primary, 2-3 aux, 5-8 secondary, 6-7 secondary
+  Windings (top->down, left->right):
+    4-1: 26 turns
+    3-2: 26 turns
+    7-6: 91 turns
+    8-5: 26 turns
+    4-1: 26 turns
+  1-4:
+    0.27 ohm DCR
+    31 uH @ 100 Hz
+    31.0 uH @ 1 kHz
+    30.56 uH @ 10 kHz
+    29.25 uH @ 100 kHz
+  2-3:
+    0.91 ohm DCR
+    30 uH @ 100 Hz
+    29.9 uH @ 1 kHz
+    29.55 uH @ 10 kHz
+    29.52 uH @ 100 kHz
+  5-8:
+    0.61 ohm DCR
+    32 uH @ 100 Hz
+    32.0 uH @ 1 kHz
+    31.53 uH @ 10 kHz
+    29.71 uH @ 100 kHz
+  6-7:
+    2.52 ohm DCR
+    394 uH @ 100 Hz
+    389.1 uH @ 1 kHz
+    388.3 uH @ 10 kHz
+    373.7 uH @ 100 kHz

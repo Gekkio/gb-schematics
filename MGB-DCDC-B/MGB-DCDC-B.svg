@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg884"
+   width="1900"
+   height="1936"
+   viewBox="0 0 1900 1936"
+   sodipodi:docname="MGB-DCDC-B.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs888" />
+  <sodipodi:namedview
+     id="namedview886"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.35169258"
+     inkscape:cx="735.01692"
+     inkscape:cy="1032.1514"
+     inkscape:window-width="2560"
+     inkscape:window-height="1416"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g890" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Background"
+     id="g890"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       width="1900"
+       height="1936"
+       preserveAspectRatio="none"
+       xlink:href="MGB-DCDC-B.back_copper.jpg"
+       id="image1100"
+       style="display:inline"
+       inkscape:label="Back copper" />
+    <image
+       width="1900"
+       height="1936"
+       preserveAspectRatio="none"
+       xlink:href="MGB-DCDC-B.back.jpg"
+       id="image1088"
+       style="display:inline"
+       inkscape:label="Back" />
+    <image
+       width="1900"
+       height="1936"
+       preserveAspectRatio="none"
+       xlink:href="MGB-DCDC-B.front_copper.jpg"
+       id="image1112"
+       style="display:inline"
+       inkscape:label="Front copper" />
+    <image
+       width="1900"
+       height="1936"
+       preserveAspectRatio="none"
+       xlink:href="MGB-DCDC-B.front.jpg"
+       id="image892"
+       inkscape:label="Front"
+       style="display:inline" />
+  </g>
+</svg>

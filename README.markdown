@@ -121,3 +121,28 @@ Known differences:
 * A vs B: exactly the same circuit, but the board layout has been redone and small components now come in MicroMELF packages (vs 0603 imperial)
 * B vs C: almost exactly the same circuit, but the input filter no longer has an inductor, and many component values have been slightly changed. Schottky diode switched from surface-mount SOT-23 package to through-hole DO-34.
 * C vs D: main circuit and components are identical, but an extra undervoltage lockout (UVLO) circuit has been added and board layout has been redone once again
+
+## Game Boy Pocket DC/DC power boards
+
+Components were identified by desoldering and measuring everything on one board of each type (A/B).
+
+### Type A (LSEP01088A1)
+
+There are actually at least three different variants of this board with some minor layout adjustments, but the same schematics apply to all of them.
+
+<a href="LSEP01088A1/LSEP01088A1.jpg">
+  <img src="LSEP01088A1/LSEP01088A1.jpg" width="500">
+</a>
+
+* [Schematics](LSEP01088A1/schematic/LSEP01088A1.pdf)
+* [Visual component reference](LSEP01088A1/LSEP01088A1_components.jpg)
+* [Raw notes of components](LSEP01088A1/LSEP01088A1.txt)
+
+### Type B
+
+<a href="MGB-DCDC-B/MGB-DCDC-B.jpg">
+  <img src="MGB-DCDC-B/MGB-DCDC-B.jpg" width="500">
+</a>
+
+* [Schematics](MGB-DCDC-B/schematic/MGB-DCDC-B.pdf)
+* [Raw notes of components](MGB-DCDC-B/MGB-DCDC-B.txt)
