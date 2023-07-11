@@ -3,7 +3,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 
 Exceptions:
 
-* `MGB-xCPU/MGB-LCPU-02.jpg`: assumed to be in public domain based on the [readme.txt file](https://www.dropbox.com/sh/33886pwfi08kvxg/AAABOeOZqH1v53pUM_-8uHrOa?dl=0&preview=readme.txt)
+* `DMG-CPU-06/DMG-CPU-06.jpg`, `MGB-xCPU/MGB-LCPU-02.jpg`: assumed to be in public domain based on the [readme.txt file](https://www.dropbox.com/sh/33886pwfi08kvxg/AAABOeOZqH1v53pUM_-8uHrOa?dl=0&preview=readme.txt)
 
 Used libraries:
 
@@ -19,9 +19,35 @@ Quick links:
 
 ## Original Game Boy (DMG)
 
+### Mainboard (DMG-CPU-06)
+
+Traced based on [high-res scans by Alex a.k.a. ArcadeTV](https://www.dropbox.com/sh/33886pwfi08kvxg/AAABOeOZqH1v53pUM_-8uHrOa?dl=0).
+
+Components were identified by desoldering and measuring everything on a DMG-CPU-06 board.
+
+**Note: there are several versions of original Game Boy mainboards, and these schematics have accurate information only for DMG-CPU-06**
+
+<a href="DMG-CPU-06/schematic/DMG-CPU-06.pdf">
+
+  ![](DMG-CPU-06.png)
+
+  Original Game Boy mainboard schematics
+
+</a>
+
+<a href="DMG-CPU-06/DMG-CPU-06.svg">
+
+  ![](DMG-CPU-06_trace.png)
+
+  Traced DMG-CPU-06 board SVG
+
+</a>
+
 ### LCD board (DMG-LCD-06)
 
 Components were identified by desoldering and measuring everything on a DMG-LCD-06 board.
+
+**Note: there are several versions of original Game Boy LCD boards, and these schematics have accurate information only for DMG-LCD-06**
 
 <a href="DMG-LCD-06/schematic/DMG-LCD-06.pdf">
 
