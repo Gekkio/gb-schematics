@@ -1398,7 +1398,7 @@
     (property "Reference" "C3" (at 123.571 69.9516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100nF" (at 123.571 72.263 0)
+    (property "Value" "100n" (at 123.571 72.263 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 121.6152 74.93 0)
