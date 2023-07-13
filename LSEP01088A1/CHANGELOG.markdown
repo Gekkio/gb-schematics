@@ -6,7 +6,7 @@
 
 - Upgrade to KiCad 7.0 file formats
 
-## Rev A - 2022-01-12
+## Rev A - 2022-05-30
 
 ### Added
 
