@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- Information about DC jack, input power, battery type
+
 ### Changed
 
 - Upgrade to KiCad 7.0 file formats
