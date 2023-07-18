@@ -6,8 +6,8 @@
 
   (title_block
     (title "LSEP01088A1")
-    (date "2022-05-30")
-    (rev "A")
+    (date "2023-07-18")
+    (rev "B")
     (company "https://gekkio.fi")
     (comment 1 "https://github.com/gekkio/gb-schematics")
   )
