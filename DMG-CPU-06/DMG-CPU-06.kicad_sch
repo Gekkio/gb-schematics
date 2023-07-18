@@ -6,8 +6,8 @@
 
   (title_block
     (title "DMG-CPU-06")
-    (date "2023-07-11")
-    (rev "A")
+    (date "2023-07-18")
+    (rev "B")
     (company "https://gekkio.fi")
     (comment 1 "https://github.com/gekkio/gb-schematics")
   )
@@ -1216,9 +1216,9 @@
     )
   )
 
-  (bus_alias "LcdSignals" (members "LD0" "LD1" "S" "ST" "CPL" "FR" "CP" "CPG"))
   (bus_alias "VideoRamBus" (members "MA[0..12]" "MD[0..7]" "~{MRD}" "~{MWR}" "~{MCS}"))
   (bus_alias "ExternalSystemBus" (members "A[0..15]" "D[0..7]" "~{RD}" "~{CS}" "~{WR}"))
+  (bus_alias "LcdSignals" (members "LD0" "LD1" "S" "ST" "CPL" "FR" "CP" "CPG"))
   (junction (at 151.13 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 05824ed2-8bb8-4ca1-b050-a68d714ed059)
   )
