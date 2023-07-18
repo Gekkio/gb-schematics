@@ -6,8 +6,8 @@
 
   (title_block
     (title "MGL-CPU-01")
-    (date "2022-03-19")
-    (rev "A")
+    (date "2023-07-18")
+    (rev "B")
     (company "https://gekkio.fi")
     (comment 1 "https://github.com/Gekkio/gb-schematics")
   )

@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## Rev B - 2023-07-18
+
 ### Added
 
 - Information about DC jack, input power, battery type
