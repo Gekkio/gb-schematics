@@ -2,10 +2,15 @@
 
 ## [Unreleased]
 
+### Added
+
+- Proper symbol for VR1
+
 ### Changed
 
 - Upgrade to KiCad 7.0 file formats
 - Remove Farad units since it's obvious (e.g. 100nF -> 100n)
+- Tiny fixes to potentiometer symbols
 
 ## Rev B - 2022-01-02
 
