@@ -6,8 +6,8 @@
 
   (title_block
     (title "DC-CONV-DMG-A / DC-CONV-DMG-B")
-    (date "2022-01-12")
-    (rev "B")
+    (date "2023-07-18")
+    (rev "C")
     (company "https://gekkio.fi")
     (comment 1 "https://github.com/gekkio/gb-schematics")
   )
