@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## Rev C - 2023-07-18
+
 ### Added
 
 - Proper symbol for VR1
