@@ -6,8 +6,8 @@
 
   (title_block
     (title "AGS-CPU-11")
-    (date "2022-01-02")
-    (rev "D")
+    (date "2023-07-18")
+    (rev "E")
     (company "https://gekkio.fi")
     (comment 1 "https://github.com/Gekkio/gb-schematics")
   )
