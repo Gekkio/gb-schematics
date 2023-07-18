@@ -460,11 +460,11 @@
         )
       )
     )
-    (symbol "Gekkio_Switch:GameBoy_SW_DMG" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (symbol "Gekkio_Switch:GameBoy_SW_DPDT_DMG" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "SW" (at 0 6.35 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "GameBoy_SW_DMG" (at 0 -17.78 0)
+      (property "Value" "GameBoy_SW_DPDT_DMG" (at 0 -17.78 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 0 0 0)
@@ -476,10 +476,10 @@
       (property "ki_keywords" "game boy switch dmg" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Double Pole Single Throw (DPST) Switch, original Game Boy (DMG)" (at 0 0 0)
+      (property "ki_description" "Double Pole Double Throw (DPDT) Switch, original Game Boy (DMG)" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "GameBoy_SW_DMG_0_0"
+      (symbol "GameBoy_SW_DPDT_DMG_0_0"
         (circle (center -2.032 -2.54) (radius 0.508)
           (stroke (width 0) (type default))
           (fill (type none))
@@ -545,7 +545,7 @@
           (fill (type none))
         )
       )
-      (symbol "GameBoy_SW_DMG_1_1"
+      (symbol "GameBoy_SW_DPDT_DMG_1_1"
         (polyline
           (pts
             (xy -1.016 -7.112)
@@ -1548,13 +1548,13 @@
     )
   )
 
-  (symbol (lib_id "Gekkio_Switch:GameBoy_SW_DMG") (at 165.1 64.77 0) (unit 1)
+  (symbol (lib_id "Gekkio_Switch:GameBoy_SW_DPDT_DMG") (at 165.1 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a779672a-d559-4e83-a750-57cc77b53981)
     (property "Reference" "SW1" (at 165.1 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "DPST" (at 165.1 57.15 0)
+    (property "Value" "DPDT" (at 165.1 57.15 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 165.1 64.77 0)

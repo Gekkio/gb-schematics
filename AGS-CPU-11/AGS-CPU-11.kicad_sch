@@ -1261,11 +1261,11 @@
         )
       )
     )
-    (symbol "Gekkio_Switch:GameBoy_SW_SPDT" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (symbol "Gekkio_Switch:GameBoy_SW_SPDT_AGS" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "SW" (at 0 5.08 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "GameBoy_SW_SPDT" (at 0 -15.24 0)
+      (property "Value" "GameBoy_SW_SPDT_AGS" (at 0 -15.24 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at -15.875 4.445 0)
@@ -1274,16 +1274,16 @@
       (property "Datasheet" "~" (at -15.875 4.445 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "gameboy switch sp3t ON-ON-ON" (at 0 0 0)
+      (property "ki_keywords" "game boy switch ags" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Switch, three position, single pole triple throw, 3 position switch, SP3T" (at 0 0 0)
+      (property "ki_description" "Single Pole Double Throw (SPDT) Switch, Game Boy Advance SP (AGS)" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_fp_filters" "SW* SP3T*" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "GameBoy_SW_SPDT_0_1"
+      (symbol "GameBoy_SW_SPDT_AGS_0_1"
         (circle (center -2.032 0) (radius 0.4572)
           (stroke (width 0) (type default))
           (fill (type none))
@@ -1305,7 +1305,7 @@
           (fill (type none))
         )
       )
-      (symbol "GameBoy_SW_SPDT_1_1"
+      (symbol "GameBoy_SW_SPDT_AGS_1_1"
         (polyline
           (pts
             (xy -1.016 -4.572)
@@ -5591,13 +5591,13 @@
     )
   )
 
-  (symbol (lib_id "Gekkio_Switch:GameBoy_SW_SPDT") (at 80.01 45.72 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+  (symbol (lib_id "Gekkio_Switch:GameBoy_SW_SPDT_AGS") (at 80.01 45.72 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00000000-0000-0000-0000-00006023c280)
-    (property "Reference" "SW1" (at 80.01 38.5318 0)
+    (property "Reference" "SW1" (at 80.01 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "GameBoy_SW_SPDT" (at 80.01 40.8432 0)
+    (property "Value" "SPDT" (at 80.01 40.64 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 95.885 41.275 0)
@@ -5606,10 +5606,10 @@
     (property "Datasheet" "~" (at 95.885 41.275 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0f46222b-0678-4338-aa2d-a68f706b9f83))
-    (pin "2" (uuid 9dc58631-ebbe-4140-942a-111c0942677f))
-    (pin "C" (uuid c64fd490-fe02-4457-9860-45805d57e6cc))
-    (pin "MP" (uuid c83daefc-6745-4752-be17-94d42272fc12))
+    (pin "1" (uuid e2ecde0d-2a0f-493b-895f-04246c3c7da9))
+    (pin "2" (uuid 5c9291af-bca3-4c17-ac31-f0a7d45d34db))
+    (pin "C" (uuid 92d6ef42-d502-4e6b-91f3-d4e62c860111))
+    (pin "MP" (uuid 6ebcd9f7-4f58-4b19-8620-58e5d7204697))
     (instances
       (project "AGS-CPU-11"
         (path "/cf6442e8-def6-4237-bbb9-3bdb9056ee23"

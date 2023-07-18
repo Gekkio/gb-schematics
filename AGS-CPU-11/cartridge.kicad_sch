@@ -312,11 +312,11 @@
         )
       )
     )
-    (symbol "Gekkio_Switch:GameBoy_SW_DPST" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (symbol "Gekkio_Switch:GameBoy_SW_DPDT_AGS" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "SW" (at 0 6.35 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "GameBoy_SW_DPST" (at 0 -17.78 0)
+      (property "Value" "GameBoy_SW_DPDT_AGS" (at 0 -17.78 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 0 0 0)
@@ -325,13 +325,13 @@
       (property "Datasheet" "~" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "switch dual double-pole single-throw OFF-ON" (at 0 0 0)
+      (property "ki_keywords" "game boy switch ags" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Double Pole Single Throw (DPST) Switch" (at 0 0 0)
+      (property "ki_description" "Double Pole Double Throw (DPDT) Switch, Game Boy Advance SP (AGS)" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "GameBoy_SW_DPST_0_0"
+      (symbol "GameBoy_SW_DPDT_AGS_0_0"
         (circle (center -2.032 -2.54) (radius 0.508)
           (stroke (width 0) (type default))
           (fill (type none))
@@ -397,7 +397,7 @@
           (fill (type none))
         )
       )
-      (symbol "GameBoy_SW_DPST_1_1"
+      (symbol "GameBoy_SW_DPDT_AGS_1_1"
         (polyline
           (pts
             (xy -1.016 -7.112)
@@ -1648,13 +1648,13 @@
     )
   )
 
-  (symbol (lib_id "Gekkio_Switch:GameBoy_SW_DPST") (at 71.12 44.45 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+  (symbol (lib_id "Gekkio_Switch:GameBoy_SW_DPDT_AGS") (at 71.12 44.45 0) (mirror y) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00000000-0000-0000-0000-00005f8e1257)
-    (property "Reference" "SW13" (at 71.12 35.179 0)
+    (property "Reference" "SW13" (at 71.12 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "GameBoy_SW_DPST" (at 71.12 37.4904 0)
+    (property "Value" "DPDT" (at 71.12 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 71.12 44.45 0)
