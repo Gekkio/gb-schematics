@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## Rev B - 2023-08-22
+
 ### Changed
 
 - Change power switch symbol slightly to (hopefully) better clarify connection is maintained between the two possible pin 2-3 connection states
