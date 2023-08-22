@@ -961,11 +961,11 @@
         )
         (polyline
           (pts
-            (xy 2.54 3.81)
-            (xy 3.048 3.81)
-            (xy 3.048 1.27)
+            (xy 2.032 3.81)
+            (xy 2.032 1.27)
+            (xy 2.032 2.286)
           )
-          (stroke (width 0.1524) (type default))
+          (stroke (width 0) (type default))
           (fill (type none))
         )
         (circle (center 2.032 -6.35) (radius 0.4572)
