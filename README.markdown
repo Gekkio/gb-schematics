@@ -17,6 +17,26 @@ Quick links:
 * [Game Boy Light (MGL)](#game-boy-light-mgl)
 * [Game Boy Advance SP AGS-001](#game-boy-advance-sp-ags-001)
 
+## License violations (a.k.a Naughty List)
+
+All the schematics in this repository are licensed very liberally under CC BY
+4.0, so you can copy, distribute, modify, or even sell them commercially if you
+want. There's just one requirement: **attribution**
+
+Basically it just means this: don't remove the original creator's name, or at
+least somehow acknowledge them. [Here's the full description about it in CC BY 4.0](https://creativecommons.org/licenses/by/4.0/#deed-conditions)
+
+Known license violations:
+
+- "MRjohnathon": They took my schematics and KiCad libraries, made some
+  arbitrary changes (some of which are completely incorrect!), and published
+  them without attribution. They also made a PCB design based on the
+  schematics, which is perfectly fine, although the design seems to be at least
+  partially based on kamicane's Super-DMG-01 (licensed under CC BY SA 4.0),
+  without attribution.
+
+[Don't be this meme!](https://knowyourmeme.com/memes/i-made-this)
+
 ## Original Game Boy (DMG)
 
 ### Mainboard (DMG-CPU-06)
