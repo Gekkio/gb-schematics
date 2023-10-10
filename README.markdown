@@ -33,7 +33,7 @@ Known license violations:
   them without attribution. They also made a PCB design based on the
   schematics, which is perfectly fine, although the design seems to be at least
   partially based on kamicane's Super-DMG-01 (licensed under CC BY SA 4.0),
-  without attribution.
+  without attribution. They added attribution after I complained.
 
 [Don't be this meme!](https://knowyourmeme.com/memes/i-made-this)
 
