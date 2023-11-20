@@ -16,6 +16,7 @@ Quick links:
 * [Game Boy Pocket (MGB)](#game-boy-pocket-mgb)
 * [Game Boy Light (MGL)](#game-boy-light-mgl)
 * [Game Boy Advance SP AGS-001](#game-boy-advance-sp-ags-001)
+* [Super Game Boy (SGB)](#super-game-boy)
 
 ## License violations (a.k.a Naughty List)
 
@@ -224,5 +225,25 @@ Components were identified by desoldering and measuring everything on a AGS-CPU-
   ![](AGS-CPU-11/AGS-CPU-11.png)
 
   Traced AGS-CPU-11 board SVG
+
+</a>
+
+## Super Game Boy
+
+Components were identified by desoldering and measuring everything on a SGB-R-10 board.
+
+<a href="SGB-R-xx_SGB-N-xx/schematic/SGB-R-xx_SGB-N-xx.pdf">
+
+  ![](SGB-R-xx_SGB-N-xx.png)
+
+  Super Game Boy schematics
+
+</a>
+
+<a href="SGB-R-xx_SGB-N-xx/SGB-R-10.svg">
+
+  ![](SGB-R-10_trace.png)
+
+  Traced SGB-R-10 board SVG
 
 </a>
