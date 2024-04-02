@@ -36,6 +36,8 @@ Known license violations:
   partially based on kamicane's Super-DMG-01 (licensed under CC BY SA 4.0),
   without attribution. They added attribution after I complained.
 
+- RetroSix. They use screenshots of my GBA SP schematics in their wiki without attribution. A simple link to the original schematics would be enough, but there is no mention of the source of the schematics.
+
 [Don't be this meme!](https://knowyourmeme.com/memes/i-made-this)
 
 ## Original Game Boy (DMG)
