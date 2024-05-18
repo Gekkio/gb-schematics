@@ -17,6 +17,7 @@ Quick links:
 * [Game Boy Light (MGL)](#game-boy-light-mgl)
 * [Game Boy Advance SP AGS-001](#game-boy-advance-sp-ags-001)
 * [Super Game Boy (SGB)](#super-game-boy)
+* [4-player adapter (DMG-QLA-01)](#player-adapter-dmg-qla-01)
 
 ## License violations (a.k.a Naughty List)
 
@@ -259,3 +260,11 @@ Components were identified by desoldering and measuring everything on a SGB-R-10
   Traced SGB-R-10 board SVG
 
 </a>
+
+## 4-player adapter (DMG-QLA-01)
+
+<a href="DMG-QLA-01/DMG-QLA-01.jpg">
+  <img src="DMG-QLA-01/DMG-QLA-01.jpg" width="500">
+</a>
+
+* [Schematics](DMG-QLA-01/schematic/DMG-QLA-01.pdf)
