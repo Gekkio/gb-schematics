@@ -204,6 +204,16 @@ Components were identified by desoldering and measuring everything on an MGL-CPU
 
 [Raw notes of MGL-CPU-01 board components](MGL-CPU-01/MGL-CPU-01.txt)
 
+### DC/DC power board (LSEP01120A1)
+
+<a href="LSEP01120A1/LSEP01120A1.jpg">
+  <img src="LSEP01120A1/LSEP01120A1.jpg" width="500">
+</a>
+
+* [Schematics](LSEP01120A1/schematic/LSEP01120A1.pdf)
+* [Visual component reference](LSEP01120A1/LSEP01120A1_components.jpg)
+* [Raw notes of components](LSEP01120A1/LSEP01120A1.txt)
+
 ## Game Boy Advance SP AGS-001
 
 ### Mainboard (AGS-CPU-11)

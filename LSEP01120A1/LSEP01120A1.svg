@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1608"
+   width="1674"
+   height="1914"
+   viewBox="0 0 1674 1914"
+   sodipodi:docname="LSEP01120A1.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1612" />
+  <sodipodi:namedview
+     id="namedview1610"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.46969697"
+     inkscape:cx="592.93549"
+     inkscape:cy="1023"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1614"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Background"
+     id="g1614"
+     style="display:inline">
+    <image
+       width="1674"
+       height="1914"
+       preserveAspectRatio="none"
+       xlink:href="LSEP01120A1.back_copper.jpg"
+       id="image1861"
+       style="display:inline"
+       inkscape:label="Back copper" />
+    <image
+       width="1674"
+       height="1914"
+       preserveAspectRatio="none"
+       xlink:href="LSEP01120A1.back.jpg"
+       id="image1849"
+       style="display:inline;opacity:1"
+       inkscape:label="Back" />
+    <image
+       width="1674"
+       height="1914"
+       preserveAspectRatio="none"
+       xlink:href="LSEP01120A1.front_copper.jpg"
+       id="image1873"
+       style="display:inline"
+       inkscape:label="Front copper" />
+    <image
+       width="1674"
+       height="1914"
+       preserveAspectRatio="none"
+       xlink:href="LSEP01120A1.front.jpg"
+       id="image1616"
+       inkscape:label="Front"
+       style="display:inline;opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="566.47906"
+     y="1171.5959"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"></tspan></text>
+</svg>

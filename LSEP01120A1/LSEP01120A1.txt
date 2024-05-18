@@ -1,0 +1,120 @@
+LSEP01120A1:
+0.9mm board thickness
+
+C1: 1.5 nF, 0603
+  1545 pF @ 120 Hz
+  1520.2 pF @ 1 kHz
+C2: 1 uF, 0805
+  1140.1 nF @ 120 Hz
+  1074.2 nF @ 1 kHz
+C3: 1 nF, 0603
+  1071 pF @ 120 Hz
+  1030.5 pF @ 1 kHz
+C4: 100 nF, 0805
+  103.98 nF @ 120 Hz
+  102.47 nF @ 1 kHz
+C5: 100nF, 0805
+  108.75 nF @ 120 Hz
+  107.39 nF @ 1 kHz
+C6: 2.2 nF, 0603
+  2.293 nF @ 120 Hz
+  2.268 nF @ 1 kHz
+C7: 6.8 uF, 0805
+  6.227 uF @ 120 Hz
+  4.401 uF @ 1 kHz
+  7.377 uF @ DC
+C8: 15 nF, 0603
+  15.179 @ 120 Hz
+  15.022 nF @ 1 kHz
+C9: 820 nF, 0805
+  812.3 nF @ 120 Hz
+  787.4 nF @ 1 kHz
+
+R1: 470 ohm, 0603 ("471")
+  R=461.4 ohm
+R2: 220 kOhm, 0603 ("224")
+  R=220.2 kOhm
+R3: 1.5 kOhm, 0603 ("152")
+  R=1.501 kOhm
+R4: 470 kOhm, 0603 ("474")
+  R=469.0 kOhm
+R5: 47 kOhm, 0603 ("473")
+  R=46.93 kOhm
+R6: 150 kOhm, 0603 ("154")
+  R=150.3 kOhm
+R7: 330 kOhm, 0603 ("334")
+  R=320.9 kOhm
+R8: 82 kOhm, 0603 ("823")
+  R=81.96 kOhm
+R9: 2.2 MOhm, 0603 ("225")
+  R=2.179 MOhm
+
+D1: Panasonic MA3X157A, Dual diode, series pair, SOT-23 ("M S")
+  2K-3A
+    Vf=0.685 V @ 5.00 mA
+  1A-3K
+    Vf=0.685 V @ 5.00 mA
+D2: Panasonic MA3X748, Schottky 1=A 3=K, SOT-23 ("M4E")
+  Vf=0.203 V @ 5.00 mA
+D3: Panasonic MA3X157A, Dual diode series pair, SOT-23 ("M S")
+  2K-3A
+    Vf=0.687 V @ 5.00 mA
+  1A-3K
+    Vf=0.686 V @ 5.00 mA
+D4: Panasonic MA3J142D, Dual diode common anode, SC-70-3 ("MO")
+  1K-3A
+    Vf=0.722 V @ 5.00 mA
+  2K-3A
+    Vf=0.722 V @ 5.00 mA
+D5: not populated
+D6: Rohm 1SS355, SOD-323 ("A")
+  Vf=0.664V @ 5.00 mA
+
+IC1: Seiko S-8327B50MC-ESE step-up regulator, SOT-23-5 ("ESEQ")
+
+Q1: Toshiba HN1C01FU, Dual NPN, SC-70-6 ("CIG")
+  E1 B2 C6
+    hFE=239 @ Ic=5.15 mA
+    VBE=0.773 V @ Ib=5.00 mA
+    VCESAT=0.030 V @ Ic=5.0 mA, Ib=1.00 mA
+    ICLeak=0.000 mA
+  C3 B4 E5
+    hFE=260 @ Ic=5.08 mA
+    VBE=0.773 V @ Ib=5.00 mA
+    VCEsat=0.028 V @ Ic=5.0 mA, Ib=1.00 mA
+    ICleak=0.000 mA
+Q2: Panasonic 2SD1119, NPN BCE, SOT-89 ("T R")
+  hFE=413 @ Ic=5.00 mA
+  VBE=0.702 V @ Ib=5.00 mA
+  VCEsat=0.004 V @ Ic=5.0 mA, Ib=1.00 mA
+  ICleak=0.000 mA
+Q3: NEC 2SK1585, N-Ch Enhancement MOSFET, GDS with body diode, SOT-89 ("NE 83")
+  Vgs(on)=1.191 V @ Id=5.05 mA, Ig=0 uA
+  Vgs(off)=0.777 V @ Id=5.0 uA
+  gm=50.1 mA/V @ 3.0 mA to 5.0 mA
+  Rds(on) < 1.0 ohm @ Id=5.0 mA, VGS=8.0 V
+  
+T1: Custom transformer: 1-4 primary, 2-3 primary (with two separate windings connected to the same pins), 5-8 secondary, 8-pin SMD ("0077 YQ")
+  Windings: (top->down, left->right):
+    3-2 winding 1: 32 turns
+    4-1: 32 turns
+    8-5: 120 turns
+    3-2 winding 2: 32 turns
+1-4:
+  1.03 DCR
+  43 uH @ 100 Hz
+  44.2 uH @ 1 kHz
+  44.07 uH @ 10 kHz
+  44.20 uH @ 100 kHz
+2-3:
+  0.44 DCR
+  46 uH @ 100 Hz
+  45.7 uH @ 1 kHz
+  45.18 uH @ 10 kHz
+  43.94 uH @ 100 kHz
+5-8:
+  3.01 DCR
+  681 uH @ 100 Hz
+  675.6 uH @ 1 kHz
+  674.3 uH @ 10 kHz
+  634.2 uH @ 100 kHz
